@@ -1,0 +1,29 @@
+[
+    {
+        "id": 25,
+        "name": "wonder-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "fire fang and moves that inflict typeless damage ignore this ability regardless of type.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to damaging moves that are not super effective against it.\n\nMoves that inflict fixed damage, such as night shade or seismic toss, are considered super effective if their types are.  Damage not directly dealt by moves, such as damage from weather, a status ailment, or spikes, is not prevented.\n\nThis ability cannot be copied with role play or traded away with skill swap, but it can be copied with trace, disabled with gastro acid, or changed with worry seed.  This Pok\u00e9mon can still use Role Play itself to lose this ability, but not Skill Swap.\n\nIf this Pok\u00e9mon has a substitute, this ability will block moves as usual and any moves not blocked will react to the Substitute as usual.",
+                "short_effect": "Protects against damaging moves that are not super effective."
+            }
+        ]
+    }
+]

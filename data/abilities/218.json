@@ -1,0 +1,67 @@
+[
+    {
+        "id": 133,
+        "name": "weak-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
+                "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "flame-body",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being burned.\n\nOverworld: If any Pok\u00e9mon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pok\u00e9mon have this ability or magma armor.",
+                "short_effect": "Has a 30% chance of burning attacking Pok\u00e9mon on contact."
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "magma-armor",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be frozen.\n\nIf a Pok\u00e9mon is frozen and acquires this ability, it will immediately thaw out; this includes when regaining a lost ability upon leaving battle.\n\nOverworld: If any Pok\u00e9mon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pok\u00e9mon have this ability or flame body.",
+                "short_effect": "Prevents freezing."
+            }
+        ]
+    }
+]

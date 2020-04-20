@@ -1,0 +1,91 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "icy-wind",
+        "focus-punch",
+        "covet",
+        "shock-wave",
+        "water-pulse",
+        "gunk-shot",
+        "after-you"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "covet",
+        "gunk-shot",
+        "after-you"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "sucker-punch",
+        "gunk-shot"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "sucker-punch",
+        "gunk-shot"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ]
+}

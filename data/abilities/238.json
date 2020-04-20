@@ -1,0 +1,35 @@
+[
+    {
+        "id": 93,
+        "name": "hydration",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+                "short_effect": "Cures any major status ailment after each turn during rain."
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "forewarn",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals the move with the highest base power known by any opposing Pok\u00e9mon to all participating trainers.\n\nIn the event of a tie, one is chosen at random.\n\nMoves without a listed base power are assigned one as follows:\n\nPower | Moves\n----: | -----\n  160 | One-hit KO moves: fissure, guillotine, horn drill, and sheer cold\n  120 | Counter moves: counter, metal burst, and mirror coat\n   80 | Variable power or set damage: crush grip, dragon rage, electro ball, endeavor, final gambit, flail, frustration, grass knot, gyro ball, heat crash, heavy slam, hidden power, low kick, natural gift, night shade, psywave, return, reversal, seismic toss, sonic boom, trump card, and wring out\n    0 | Any such move not listed\n",
+                "short_effect": "Reveals the opponents' strongest move upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "oblivious",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be infatuated and is immune to captivate.\n\nIf a Pok\u00e9mon is infatuated and acquires this ability, its infatuation is cleared.",
+                "short_effect": "Prevents infatuation and protects against captivate."
+            }
+        ]
+    }
+]

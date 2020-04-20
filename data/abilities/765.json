@@ -1,0 +1,35 @@
+[
+    {
+        "id": 180,
+        "name": "symbiosis",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Passes the bearer's held item to an ally when the ally uses up its item.",
+                "short_effect": "Passes the bearer's held item to an ally when the ally uses up its item."
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "telepathy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not take damage from friendly Pok\u00e9mon's moves, including single-target moves aimed at it.",
+                "short_effect": "Protects against friendly Pok\u00e9mon's damaging moves."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    }
+]

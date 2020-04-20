@@ -1,0 +1,93 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "superpower",
+        "endeavor",
+        "dive",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "superpower",
+        "endeavor",
+        "aqua-tail",
+        "earth-power",
+        "water-pledge"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "water-pulse",
+        "aqua-tail",
+        "earth-power",
+        "water-pledge"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "superpower",
+        "endeavor",
+        "dive",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "black-white": [
+        "water-pledge"
+    ],
+    "x-y": [
+        "water-pledge"
+    ],
+    "sun-moon": [
+        "water-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "water-pledge"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb",
+        "bug-bite"
+    ],
+    "heartgold-soulsilver": [
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb",
+        "bug-bite"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "seed-bomb"
+    ]
+}

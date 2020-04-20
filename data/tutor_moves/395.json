@@ -1,0 +1,68 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "knock-off",
+        "dive",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "knock-off",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense",
+        "covet",
+        "stealth-rock",
+        "water-pledge"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "knock-off",
+        "dive",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "knock-off",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense",
+        "covet",
+        "water-pulse",
+        "stealth-rock",
+        "water-pledge"
+    ],
+    "x-y": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "black-white": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "diamond-pearl": [
+        "hydro-cannon"
+    ],
+    "ultra-sun-ultra-moon": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "sun-moon": [
+        "hydro-cannon",
+        "water-pledge"
+    ]
+}

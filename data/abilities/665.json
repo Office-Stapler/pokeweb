@@ -1,0 +1,55 @@
+[
+    {
+        "id": 132,
+        "name": "friend-guard",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "All friendly Pok\u00e9mon take 0.75\u00d7 as much direct damage from moves while this Pok\u00e9mon is in battle.\n\nThis effect stacks if multiple allied Pok\u00e9mon have it.",
+                "short_effect": "Decreases all direct damage taken by friendly Pok\u00e9mon to 0.75\u00d7."
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "shed-skin",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Chance of taking effect is 30%.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Chance of taking effect is 33%.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "After each turn, this Pok\u00e9mon has a 33% of being cured of any major status ailment.",
+                "short_effect": "Has a 33% chance of curing any major status ailment after each turn."
+            }
+        ]
+    }
+]

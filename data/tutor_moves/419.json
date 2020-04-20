@@ -1,0 +1,41 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "focus-punch",
+        "water-pulse",
+        "aqua-tail"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "aqua-tail"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive",
+        "aqua-tail"
+    ],
+    "platinum": [
+        "ice-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive",
+        "aqua-tail"
+    ]
+}

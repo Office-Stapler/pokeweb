@@ -1,0 +1,61 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "iron-tail",
+        "focus-punch",
+        "helping-hand",
+        "role-play",
+        "iron-defense",
+        "magnet-rise",
+        "drain-punch",
+        "zen-headbutt",
+        "dual-chop"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "helping-hand",
+        "role-play",
+        "iron-defense",
+        "magnet-rise",
+        "drain-punch",
+        "zen-headbutt",
+        "dual-chop"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "helping-hand",
+        "role-play",
+        "iron-defense",
+        "magnet-rise",
+        "vacuum-wave",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "ice-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "helping-hand",
+        "iron-defense",
+        "magnet-rise",
+        "vacuum-wave",
+        "zen-headbutt"
+    ]
+}

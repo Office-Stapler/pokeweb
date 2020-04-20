@@ -1,0 +1,88 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "string-shot",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "iron-defense",
+        "block",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "superpower",
+        "knock-off",
+        "iron-defense",
+        "block",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "iron-tail",
+        "superpower",
+        "knock-off",
+        "iron-defense",
+        "block",
+        "water-pulse",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock",
+        "bug-bite"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "iron-defense",
+        "aqua-tail",
+        "earth-power"
+    ]
+}

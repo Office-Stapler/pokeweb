@@ -1,0 +1,81 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endeavor",
+        "last-resort",
+        "sucker-punch",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "thunder-wave",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endeavor",
+        "last-resort",
+        "sucker-punch",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "uproar",
+        "endeavor",
+        "covet",
+        "shock-wave",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "endeavor",
+        "covet",
+        "last-resort",
+        "zen-headbutt"
+    ]
+}

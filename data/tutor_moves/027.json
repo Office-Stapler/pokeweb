@@ -1,0 +1,80 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "knock-off",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "knock-off",
+        "earth-power"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "knock-off",
+        "covet",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "iron-tail",
+        "focus-punch",
+        "knock-off",
+        "covet",
+        "earth-power",
+        "stealth-rock"
+    ]
+}

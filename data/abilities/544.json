@@ -1,0 +1,66 @@
+[
+    {
+        "id": 3,
+        "name": "speed-boost",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed rises one stage after each turn.",
+                "short_effect": "Raises Speed one stage after each turn."
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "swarm",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Increases the frequency of cries heard on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its bug-type moves inflict 1.5\u00d7 as much regular damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is increased.",
+                "short_effect": "Strengthens bug moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "poison-point",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being poisoned.",
+                "short_effect": "Has a 30% chance of poisoning attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

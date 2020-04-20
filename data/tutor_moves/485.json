@@ -1,0 +1,48 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "uproar",
+        "heat-wave",
+        "iron-defense",
+        "earth-power",
+        "iron-head",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "uproar",
+        "heat-wave",
+        "iron-defense",
+        "dark-pulse",
+        "dragon-pulse",
+        "earth-power",
+        "iron-head",
+        "stealth-rock",
+        "bug-bite"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "uproar",
+        "heat-wave",
+        "iron-defense",
+        "earth-power",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "uproar",
+        "heat-wave",
+        "iron-defense",
+        "dragon-pulse",
+        "earth-power",
+        "iron-head",
+        "stealth-rock",
+        "bug-bite"
+    ]
+}

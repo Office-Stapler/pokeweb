@@ -1,0 +1,72 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "ancient-power",
+        "dive",
+        "bounce",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "bounce",
+        "water-pulse",
+        "aqua-tail",
+        "earth-power",
+        "zen-headbutt",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "bounce",
+        "aqua-tail",
+        "earth-power",
+        "zen-headbutt",
+        "stealth-rock"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "ancient-power",
+        "dive",
+        "bounce",
+        "aqua-tail",
+        "earth-power"
+    ]
+}

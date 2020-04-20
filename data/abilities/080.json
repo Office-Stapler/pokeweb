@@ -1,0 +1,35 @@
+[
+    {
+        "id": 144,
+        "name": "regenerator",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon regains 1/3 of its maximum HP when it is switched out for another Pok\u00e9mon under any circumstances other than having fainted.\n\nThis ability does not take effect when a battle ends.",
+                "short_effect": "Heals for 1/3 max HP upon switching out."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "own-tempo",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be confused.\n\nIf a Pok\u00e9mon is confused and acquires this ability, its confusion will immediately be healed.",
+                "short_effect": "Prevents confusion."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "oblivious",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be infatuated and is immune to captivate.\n\nIf a Pok\u00e9mon is infatuated and acquires this ability, its infatuation is cleared.",
+                "short_effect": "Prevents infatuation and protects against captivate."
+            }
+        ]
+    }
+]

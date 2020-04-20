@@ -1,0 +1,13 @@
+[
+    {
+        "id": 232,
+        "name": "prism-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Super-effective damage this Pok\u00e9mon takes is reduced to 0.75\u00d7.\n\nThis Ability is not bypassed by mold breaker, teravolt, or turboblaze.",
+                "short_effect": "Reduces super-effective damage to 0.75\u00d7."
+            }
+        ]
+    }
+]

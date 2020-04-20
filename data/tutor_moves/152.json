@@ -1,0 +1,82 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "ancient-power",
+        "magic-coat",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "magic-coat",
+        "worry-seed",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "magic-coat",
+        "worry-seed",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "ancient-power",
+        "seed-bomb"
+    ],
+    "x-y": [
+        "grass-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "grass-pledge"
+    ],
+    "sun-moon": [
+        "grass-pledge"
+    ],
+    "black-white": [
+        "grass-pledge"
+    ]
+}

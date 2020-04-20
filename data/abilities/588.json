@@ -1,0 +1,113 @@
+[
+    {
+        "id": 99,
+        "name": "no-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Due to a glitch, moves affected by this ability have a (100 - accuracy)% chance to hit through detect or protect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "platinum",
+                    "url": "https://pokeapi.co/api/v2/version-group/9/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Moves used by or against this Pok\u00e9mon never miss.\n\nOne-hit KO moves are unaffected.  Moves affected by this ability can hit Pok\u00e9mon during the preparation turn of moves like dig or fly.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.",
+                "short_effect": "Ensures all moves used by and against the Pok\u00e9mon hit."
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "shed-skin",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Chance of taking effect is 30%.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Chance of taking effect is 33%.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "After each turn, this Pok\u00e9mon has a 33% of being cured of any major status ailment.",
+                "short_effect": "Has a 33% chance of curing any major status ailment after each turn."
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "swarm",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Increases the frequency of cries heard on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its bug-type moves inflict 1.5\u00d7 as much regular damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is increased.",
+                "short_effect": "Strengthens bug moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    }
+]

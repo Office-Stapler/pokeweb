@@ -1,0 +1,81 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "string-shot",
+        "snore",
+        "rollout",
+        "pain-split",
+        "signal-beam",
+        "iron-defense",
+        "block",
+        "gravity",
+        "magnet-rise",
+        "bug-bite"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "explosion",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "defense-curl",
+        "explosion",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "pain-split",
+        "signal-beam",
+        "iron-defense",
+        "block",
+        "gravity",
+        "magnet-rise",
+        "stealth-rock",
+        "bug-bite",
+        "drill-run"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "signal-beam",
+        "iron-defense",
+        "block",
+        "gravity",
+        "magnet-rise",
+        "stealth-rock",
+        "bug-bite",
+        "drill-run"
+    ],
+    "platinum": [
+        "snore",
+        "rollout",
+        "signal-beam",
+        "iron-defense",
+        "magnet-rise"
+    ]
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "id": 109,
+        "name": "unaware",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon ignores other Pok\u00e9mon's stat modifiers for the purposes of damage and accuracy calculation.\n\nEffectively, this affects modifiers of every stat except Speed.\n\nThe power of punishment and stored power is calculated as usual.  When this Pok\u00e9mon hurts itself in confusion, its stat modifiers affect damage as usual.",
+                "short_effect": "Ignores other Pok\u00e9mon's stat modifiers for damage and accuracy calculation."
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "name": "innards-out",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon faints from an opponent's move, that opponent takes damage equal to the HP this Pok\u00e9mon had remaining.",
+                "short_effect": "When this Pok\u00e9mon faints from an opponent's move, that opponent takes damage equal to the HP this Pok\u00e9mon had remaining."
+            }
+        ]
+    }
+]

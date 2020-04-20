@@ -1,0 +1,90 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "knock-off",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "metronome",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "metronome",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "knock-off",
+        "skill-swap",
+        "snatch",
+        "shock-wave",
+        "magic-room",
+        "foul-play"
+    ],
+    "platinum": [
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "trick",
+        "knock-off",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "knock-off",
+        "skill-swap",
+        "snatch",
+        "dark-pulse",
+        "magic-room",
+        "foul-play"
+    ]
+}

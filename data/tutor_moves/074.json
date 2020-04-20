@@ -1,0 +1,93 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "metronome",
+        "explosion",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "metronome",
+        "explosion",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "sleep-talk",
+        "superpower",
+        "iron-defense",
+        "block",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "ancient-power",
+        "superpower",
+        "sucker-punch",
+        "earth-power"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "focus-punch",
+        "superpower",
+        "iron-defense",
+        "block",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "ancient-power",
+        "superpower",
+        "block",
+        "sucker-punch",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "crystal": [
+        "flamethrower"
+    ]
+}

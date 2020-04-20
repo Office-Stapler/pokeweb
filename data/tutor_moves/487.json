@@ -1,0 +1,87 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "pain-split",
+        "twister",
+        "ancient-power",
+        "air-cutter",
+        "gravity",
+        "aqua-tail",
+        "earth-power",
+        "draco-meteor",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "ancient-power",
+        "air-cutter",
+        "aqua-tail",
+        "earth-power",
+        "draco-meteor",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "pain-split",
+        "iron-tail",
+        "hyper-voice",
+        "gravity",
+        "dark-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "pain-split",
+        "iron-tail",
+        "hyper-voice",
+        "shock-wave",
+        "gravity",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ]
+}

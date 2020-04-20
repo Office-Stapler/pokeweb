@@ -1,0 +1,93 @@
+{
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "spite",
+        "icy-wind",
+        "uproar",
+        "trick",
+        "knock-off",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "uproar",
+        "trick",
+        "knock-off",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "spite",
+        "icy-wind",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "uproar",
+        "trick",
+        "knock-off",
+        "skill-swap",
+        "snatch",
+        "dark-pulse",
+        "wonder-room",
+        "foul-play"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "spite",
+        "icy-wind",
+        "giga-drain",
+        "pain-split",
+        "uproar",
+        "trick",
+        "knock-off",
+        "skill-swap",
+        "snatch",
+        "wonder-room",
+        "foul-play"
+    ],
+    "crystal": [
+        "thunderbolt"
+    ],
+    "xd": [
+        "mimic",
+        "self-destruct",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "mimic",
+        "dream-eater",
+        "explosion",
+        "substitute"
+    ],
+    "emerald": [
+        "mimic",
+        "dream-eater",
+        "explosion",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ]
+}

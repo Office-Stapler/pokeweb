@@ -1,0 +1,91 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "helping-hand",
+        "dive",
+        "air-cutter",
+        "signal-beam",
+        "bounce",
+        "tailwind",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot",
+        "iron-head"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "helping-hand",
+        "dive",
+        "air-cutter",
+        "signal-beam",
+        "bounce",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "helping-hand",
+        "signal-beam",
+        "bounce",
+        "water-pulse",
+        "tailwind",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "helping-hand",
+        "signal-beam",
+        "bounce",
+        "tailwind",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot",
+        "iron-head"
+    ]
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "id": 120,
+        "name": "reckless",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's recoil moves and crash moves have 1.2\u00d7 their base power.\n\nstruggle is unaffected.\n\nThe \"crash moves\" are the moves that damage the user upon missing: jump kick and high jump kick.",
+                "short_effect": "Strengthens recoil moves to 1.2\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "blaze",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its fire-type moves inflict 1.5\u00d7 as much regular damage.",
+                "short_effect": "Strengthens fire moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    }
+]

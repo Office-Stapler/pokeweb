@@ -1,0 +1,91 @@
+{
+    "emerald": [
+        "mega-punch",
+        "thunder-punch",
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute"
+    ],
+    "platinum": [
+        "thunder-punch",
+        "snore",
+        "spite",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "sucker-punch",
+        "seed-bomb"
+    ],
+    "heartgold-soulsilver": [
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "snore",
+        "spite",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "role-play",
+        "worry-seed",
+        "sucker-punch",
+        "seed-bomb"
+    ],
+    "black-2-white-2": [
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "role-play",
+        "block",
+        "worry-seed",
+        "dark-pulse",
+        "seed-bomb",
+        "drain-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "giga-drain",
+        "synthesis",
+        "focus-punch",
+        "role-play",
+        "block",
+        "worry-seed",
+        "seed-bomb",
+        "drain-punch"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ]
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "id": 78,
+        "name": "motor-drive",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever an electric-type move hits this Pok\u00e9mon, its Speed rises one stage, negating any other effect on it.\n\nThis ability will not take effect if this Pok\u00e9mon is immune to Electric moves.  Electric moves will ignore this Pok\u00e9mon's substitute.\n\nThis effect includes non-damaging moves, i.e. thunder wave.",
+                "short_effect": "Absorbs electric moves, raising Speed one stage."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "static",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being paralyzed.\n\nPok\u00e9mon that are immune to electric-type moves can still be paralyzed by this ability.\n\nOverworld: If the lead Pok\u00e9mon has this ability, there is a 50% chance that encounters will be with an electric Pok\u00e9mon, if applicable.",
+                "short_effect": "Has a 30% chance of paralyzing attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

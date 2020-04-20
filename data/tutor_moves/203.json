@@ -1,0 +1,91 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "signal-beam",
+        "gravity",
+        "sucker-punch",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "crystal": [
+        "thunderbolt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "uproar",
+        "trick",
+        "signal-beam",
+        "sucker-punch",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "iron-tail",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "hyper-voice",
+        "signal-beam",
+        "shock-wave",
+        "gravity",
+        "zen-headbutt",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "hyper-voice",
+        "signal-beam",
+        "gravity",
+        "zen-headbutt",
+        "foul-play"
+    ]
+}

@@ -1,0 +1,97 @@
+[
+    {
+        "id": 5,
+        "name": "sturdy",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not prevent regular KOs from full HP.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is at full HP, any hit that would knock it out will instead leave it with 1 HP.  Regardless of its current HP, it is also immune to the one-hit KO moves: fissure, guillotine, horn drill, and sheer cold.\n\nIf this Pok\u00e9mon is holding a focus sash, this ability takes precedence and the item will not be consumed.",
+                "short_effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "lightning-rod",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not affect non-damaging electric moves, i.e. thunder wave.  Increases the frequency of Match Call calls on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Redirects electric moves without negating them or granting any Special Attack boost.  Does not redirect hidden power.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "All other Pok\u00e9mon's single-target electric-type moves are redirected to this Pok\u00e9mon if it is an eligible target.  Other Pok\u00e9mon's Electric moves raise this Pok\u00e9mon's Special Attack one stage, negating any other effect on it, and cannot miss it.\n\nIf the move's intended target also has this ability, the move is not redirected.  When multiple Pok\u00e9mon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pok\u00e9mon.  follow me takes precedence over this ability.\n\nIf the Pok\u00e9mon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost.",
+                "short_effect": "Redirects single-target electric moves to this Pok\u00e9mon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "name": "iron-barbs",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.\n\nThis ability functions identically to rough skin.",
+                "short_effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact."
+            }
+        ]
+    }
+]

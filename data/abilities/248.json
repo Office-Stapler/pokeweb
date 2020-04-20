@@ -1,0 +1,24 @@
+[
+    {
+        "id": 127,
+        "name": "unnerve",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Opposing Pok\u00e9mon cannot eat held Berries while this Pok\u00e9mon is in battle.\n\nAffected Pok\u00e9mon can still use bug bite or pluck to eat a target's Berry.",
+                "short_effect": "Prevents opposing Pok\u00e9mon from eating held Berries."
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "sand-stream",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "The weather changes to a sandstorm when this Pok\u00e9mon enters battle and does not end unless cancelled by another weather condition.\n\nIf multiple Pok\u00e9mon with this ability, drizzle, drought, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pok\u00e9mon will stay.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+                "short_effect": "Summons a sandstorm that lasts indefinitely upon entering battle."
+            }
+        ]
+    }
+]

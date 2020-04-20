@@ -1,0 +1,66 @@
+[
+    {
+        "id": 153,
+        "name": "moxie",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack rises one stage upon knocking out another Pok\u00e9mon, even a friendly Pok\u00e9mon.\n\nThis ability does not take effect when the Pok\u00e9mon indirectly causes another Pok\u00e9mon to faint, e.g. through poison or spikes.\n\nIf this Pok\u00e9mon knocks out a Pok\u00e9mon with mummy, the former's ability will change without taking effect.",
+                "short_effect": "Raises Attack one stage upon KOing a Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "mold-breaker",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves completely ignore abilities that could hinder or prevent their effect on the target.\n\nFor example, this Pok\u00e9mon's moves ignore abilities that would fully negate them, such as water absorb; abilities that would prevent any of their effects, such as clear body, shell armor, or sticky hold; and abilities that grant any general protective benefit, such as simple, snow cloak, or thick fat.  If an ability could either hinder or help this Pok\u00e9mon's moves, e.g. dry skin or unaware, the ability is ignored either way.\n\nAbilities that do not fit this description, even if they could hinder moves in some other way, are not affected.  For example, cursed body only affects potential future uses of the move, while liquid ooze and shadow tag can only hinder a move's effect on the user.  This ablity cannot ignore type or form changes granted by abilities, for example color change or forecast; nor effects that were caused by abilities but are no longer tied to an ability, such as the rain from drizzle.  This ability cannot ignore multitype at all.\n\nAn ability ignored by this ability is only nullified while the move is being used.  For example, this Pok\u00e9mon's moves can paralyze a Pok\u00e9mon with limber, but Limber will activate and heal the paralysis immediately thereafter, and this Pok\u00e9mon's spikes are not affected by this ability after they have been placed.\n\nWhen this Pok\u00e9mon enters battle, all participating trainers are notified that it has this ability.\n\nThis ability functions identically to teravolt and turboblaze.",
+                "short_effect": "Bypasses targets' abilities if they could hinder or prevent a move."
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "hyper-cutter",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Doubles cut's grass-cutting radius on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack cannot be lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pok\u00e9mon can still be passed negative Attack modifiers through heart swap or power swap.",
+                "short_effect": "Prevents Attack from being lowered by other Pok\u00e9mon."
+            }
+        ]
+    }
+]

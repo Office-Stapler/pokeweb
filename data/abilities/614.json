@@ -1,0 +1,35 @@
+[
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "name": "slush-rush",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During Hail, this Pok\u00e9mon has double Speed.",
+                "short_effect": "During Hail, this Pok\u00e9mon has double Speed."
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "snow-cloak",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During hail, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take hail damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in snow.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during hail.  Protects against hail damage."
+            }
+        ]
+    }
+]

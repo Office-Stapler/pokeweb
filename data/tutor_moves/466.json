@@ -1,0 +1,57 @@
+{
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "helping-hand",
+        "signal-beam",
+        "covet",
+        "magnet-rise",
+        "electroweb",
+        "dual-chop"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "signal-beam",
+        "magnet-rise"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "signal-beam",
+        "magnet-rise"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "iron-tail",
+        "focus-punch",
+        "helping-hand",
+        "signal-beam",
+        "covet",
+        "shock-wave",
+        "magnet-rise",
+        "electroweb",
+        "dual-chop"
+    ]
+}

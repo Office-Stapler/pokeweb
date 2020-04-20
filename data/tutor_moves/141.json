@@ -1,0 +1,97 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "dive",
+        "iron-defense",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "giga-drain",
+        "superpower",
+        "knock-off",
+        "iron-defense",
+        "water-pulse",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "giga-drain",
+        "sleep-talk",
+        "superpower",
+        "knock-off",
+        "iron-defense",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "dive",
+        "iron-defense",
+        "aqua-tail",
+        "earth-power"
+    ]
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "id": 204,
+        "name": "liquid-voice",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon uses a move that is sound-based, that move's type is Water.",
+                "short_effect": "Sound-based moves become Water-type."
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "torrent",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its water-type moves inflict 1.5\u00d7 as much regular damage.",
+                "short_effect": "Strengthens water moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    }
+]

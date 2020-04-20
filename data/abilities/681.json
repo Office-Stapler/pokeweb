@@ -1,0 +1,13 @@
+[
+    {
+        "id": 176,
+        "name": "stance-change",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",
+                "short_effect": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield."
+            }
+        ]
+    }
+]

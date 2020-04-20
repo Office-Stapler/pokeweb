@@ -1,0 +1,35 @@
+[
+    {
+        "id": 128,
+        "name": "defiant",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When any of this Pok\u00e9mon's stats are lowered, its Attack rises by two stages.\n\nIf multiple stats are lowered at once, this ability takes effect with each stat lowered.",
+                "short_effect": "Raises Attack two stages upon having any stat lowered."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "own-tempo",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be confused.\n\nIf a Pok\u00e9mon is confused and acquires this ability, its confusion will immediately be healed.",
+                "short_effect": "Prevents confusion."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "thick-fat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes half as much damage from fire- and ice-type moves.",
+                "short_effect": "Halves damage from fire and ice moves."
+            }
+        ]
+    }
+]

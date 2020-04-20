@@ -1,0 +1,75 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "gravity",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "skill-swap",
+        "snatch",
+        "gravity",
+        "wonder-room"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "trick",
+        "skill-swap",
+        "snatch",
+        "gravity",
+        "dark-pulse",
+        "wonder-room"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "trick",
+        "sucker-punch",
+        "ominous-wind"
+    ]
+}

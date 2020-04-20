@@ -1,0 +1,138 @@
+{
+    "emerald": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "heat-wave",
+        "superpower",
+        "dive",
+        "air-cutter",
+        "aqua-tail",
+        "draco-meteor",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "heat-wave",
+        "superpower",
+        "dive",
+        "air-cutter",
+        "tailwind",
+        "aqua-tail",
+        "draco-meteor",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "superpower",
+        "roost",
+        "tailwind",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "iron-tail",
+        "heat-wave",
+        "focus-punch",
+        "superpower",
+        "shock-wave",
+        "water-pulse",
+        "tailwind",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "crystal": [
+        "flamethrower",
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ]
+}

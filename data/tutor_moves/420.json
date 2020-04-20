@@ -1,0 +1,34 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "synthesis",
+        "helping-hand",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "helping-hand",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "heartgold-soulsilver": [
+        "snore",
+        "rollout",
+        "synthesis",
+        "helping-hand",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "snore",
+        "rollout",
+        "synthesis",
+        "helping-hand",
+        "seed-bomb"
+    ]
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 82,
+        "name": "gluttony",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.",
+                "short_effect": "Makes the Pok\u00e9mon eat any held Berry triggered by low HP below 1/2 its max HP."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "own-tempo",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be confused.\n\nIf a Pok\u00e9mon is confused and acquires this ability, its confusion will immediately be healed.",
+                "short_effect": "Prevents confusion."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "thick-fat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes half as much damage from fire- and ice-type moves.",
+                "short_effect": "Halves damage from fire and ice moves."
+            }
+        ]
+    }
+]

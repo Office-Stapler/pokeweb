@@ -1,0 +1,92 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "pain-split",
+        "snatch",
+        "shock-wave",
+        "water-pulse",
+        "gastro-acid",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "snatch",
+        "gastro-acid",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "pain-split",
+        "gastro-acid",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "gastro-acid",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "emerald": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "defense-curl",
+        "dream-eater",
+        "explosion",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "dream-eater",
+        "explosion",
+        "substitute"
+    ]
+}

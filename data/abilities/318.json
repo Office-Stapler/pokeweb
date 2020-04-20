@@ -1,0 +1,40 @@
+[
+    {
+        "id": 3,
+        "name": "speed-boost",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed rises one stage after each turn.",
+                "short_effect": "Raises Speed one stage after each turn."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "rough-skin",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Inflicts only 1/16 of the attacker's maximum HP in damage.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.\n\nThis ability functions identically to iron barbs.",
+                "short_effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact."
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "fury-cutter",
+        "superpower",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "fury-cutter",
+        "superpower",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "superpower",
+        "covet",
+        "shock-wave",
+        "last-resort",
+        "aqua-tail",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "superpower",
+        "covet",
+        "last-resort",
+        "aqua-tail",
+        "stealth-rock"
+    ]
+}

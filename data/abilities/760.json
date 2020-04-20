@@ -1,0 +1,51 @@
+[
+    {
+        "id": 127,
+        "name": "unnerve",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Opposing Pok\u00e9mon cannot eat held Berries while this Pok\u00e9mon is in battle.\n\nAffected Pok\u00e9mon can still use bug bite or pluck to eat a target's Berry.",
+                "short_effect": "Prevents opposing Pok\u00e9mon from eating held Berries."
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "klutz",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "fling can be used as usual.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "In battle, this Pok\u00e9mon cannot use its held item, nor will the item have any passive effect on the battle, positive or negative.  This Pok\u00e9mon also cannot use fling.\n\nThe Speed cut from the iron ball and the effort items (the macho brace, power weight, power bracer, power belt, power lens, power band, and power anklet) is unaffected.  Items that do not directly affect the battle, such as the exp share, the amulet coin, or the soothe bell, work as usual.  All held items work as usual out of battle.\n\nOther moves that use the held item, such as natural gift and switcheroo, work as usual.",
+                "short_effect": "Prevents the Pok\u00e9mon from using its held item in battle."
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "name": "fluffy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Damage from contact moves is halved.  Damage from Fire moves is doubled.",
+                "short_effect": "Damage from contact moves is halved.  Damage from Fire moves is doubled."
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "string-shot",
+        "swift",
+        "snore",
+        "ancient-power",
+        "uproar",
+        "air-cutter",
+        "signal-beam",
+        "tailwind",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "ancient-power",
+        "uproar",
+        "air-cutter",
+        "signal-beam",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "uproar",
+        "signal-beam",
+        "tailwind",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "uproar",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "bug-bite"
+    ]
+}

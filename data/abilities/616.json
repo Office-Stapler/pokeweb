@@ -1,0 +1,35 @@
+[
+    {
+        "id": 142,
+        "name": "overcoat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not take damage from weather.",
+                "short_effect": "Protects against damage from weather."
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "shell-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves cannot score critical hits against this Pok\u00e9mon.\n\nThis ability functions identically to battle armor.",
+                "short_effect": "Protects against critical hits."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "hydration",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+                "short_effect": "Cures any major status ailment after each turn during rain."
+            }
+        ]
+    }
+]

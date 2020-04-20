@@ -1,0 +1,35 @@
+[
+    {
+        "id": 13,
+        "name": "cloud-nine",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "While this Pok\u00e9mon is in battle, weather can still be in play, but will not have any of its effects.\n\nThis ability functions identically to air lock.",
+                "short_effect": "Negates all effects of weather, but does not prevent the weather itself."
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+                "short_effect": "Absorbs grass moves, raising Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "name": "berserk",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon takes damage from a move that causes its HP to drop below 50%, its Special Attack rises by one stage.",
+                "short_effect": "Raises this Pok\u00e9mon's Special Attack by one stage every time its HP drops below half."
+            }
+        ]
+    }
+]

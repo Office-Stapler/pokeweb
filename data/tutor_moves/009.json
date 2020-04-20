@@ -1,0 +1,123 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "hydro-cannon"
+    ],
+    "emerald": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "iron-tail",
+        "focus-punch",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense",
+        "water-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "zen-headbutt",
+        "water-pledge"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense",
+        "aqua-tail",
+        "zen-headbutt",
+        "water-pledge"
+    ],
+    "platinum": [
+        "ice-punch",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "rollout",
+        "dive",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "rollout",
+        "dive",
+        "hydro-cannon",
+        "signal-beam",
+        "iron-defense",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "ultra-sun-ultra-moon": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "sun-moon": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "x-y": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "black-white": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "diamond-pearl": [
+        "hydro-cannon"
+    ]
+}

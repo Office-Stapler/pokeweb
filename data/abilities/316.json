@@ -1,0 +1,51 @@
+[
+    {
+        "id": 82,
+        "name": "gluttony",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.",
+                "short_effect": "Makes the Pok\u00e9mon eat any held Berry triggered by low HP below 1/2 its max HP."
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "sticky-hold",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's hold item cannot be removed by other Pok\u00e9mon.\n\nDamaging moves that would remove this Pok\u00e9mon's item can still inflict damage against this Pok\u00e9mon, e.g. knock off or pluck.  This Pok\u00e9mon can still use moves that involve the loss of its own item, e.g. fling or trick.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the encounter rate while fishing is increased.",
+                "short_effect": "Prevents a held item from being removed by other Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "liquid-ooze",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a Pok\u00e9mon would heal after hitting this Pok\u00e9mon with a leeching move like absorb, it instead loses as many HP as it would usually gain.\n\ndream eater is unaffected.",
+                "short_effect": "Damages opponents using leeching moves for as much as they would heal."
+            }
+        ]
+    }
+]

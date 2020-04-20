@@ -1,0 +1,88 @@
+{
+    "emerald": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "metronome",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "metronome",
+        "rock-slide",
+        "substitute"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "bounce",
+        "sucker-punch",
+        "vacuum-wave"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "focus-punch",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "bounce",
+        "covet"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "bounce",
+        "covet"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "superpower",
+        "knock-off",
+        "bounce",
+        "sucker-punch",
+        "vacuum-wave"
+    ]
+}

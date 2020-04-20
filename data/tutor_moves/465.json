@@ -1,0 +1,48 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "pain-split",
+        "synthesis",
+        "knock-off",
+        "endeavor",
+        "block",
+        "shock-wave",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "synthesis",
+        "knock-off",
+        "endeavor",
+        "block",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "pain-split",
+        "synthesis",
+        "ancient-power",
+        "knock-off",
+        "block",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "synthesis",
+        "ancient-power",
+        "knock-off",
+        "seed-bomb"
+    ]
+}

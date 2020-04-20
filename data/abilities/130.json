@@ -1,0 +1,55 @@
+[
+    {
+        "id": 153,
+        "name": "moxie",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack rises one stage upon knocking out another Pok\u00e9mon, even a friendly Pok\u00e9mon.\n\nThis ability does not take effect when the Pok\u00e9mon indirectly causes another Pok\u00e9mon to faint, e.g. through poison or spikes.\n\nIf this Pok\u00e9mon knocks out a Pok\u00e9mon with mummy, the former's ability will change without taking effect.",
+                "short_effect": "Raises Attack one stage upon KOing a Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "intimidate",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect if acquired after entering battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, the opponent's Attack is lowered by one stage.  In a double battle, both opponents are affected.\n\nThis ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle.\n\nThis ability has no effect on an opponent that has a substitute.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Lowers opponents' Attack one stage upon entering battle."
+            }
+        ]
+    }
+]

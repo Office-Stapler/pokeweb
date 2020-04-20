@@ -1,0 +1,35 @@
+[
+    {
+        "id": 147,
+        "name": "wonder-skin",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Non-damaging moves have exactly 50% base accuracy against this Pok\u00e9mon.",
+                "short_effect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "name": "strong-jaw",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Strengthens biting moves to 1.5\u00d7 their power.",
+                "short_effect": "Strengthens biting moves to 1.5\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "name": "dazzling",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When an opposing Pok\u00e9mon attempts to use a move that targets this Pok\u00e9mon or an ally, and that move has priority, it will fail.",
+                "short_effect": "Opposing Pok\u00e9mon cannot use priority attacks."
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "id": 165,
+        "name": "aroma-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Protects allies against moves that affect their mental state.",
+                "short_effect": "Protects allies against moves that affect their mental state."
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "healer",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Friendly Pok\u00e9mon next to this Pok\u00e9mon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.",
+                "short_effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 154,
+        "name": "justified",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a dark-type move hits this Pok\u00e9mon, its Attack rises one stage.\n\nThe move is not negated in any way.",
+                "short_effect": "Raises Attack one stage upon taking damage from a dark move."
+            }
+        ]
+    }
+]

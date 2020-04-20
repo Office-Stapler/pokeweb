@@ -1,0 +1,92 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "uproar",
+        "role-play",
+        "signal-beam",
+        "bounce",
+        "gravity",
+        "last-resort",
+        "sucker-punch",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "uproar",
+        "signal-beam",
+        "bounce",
+        "last-resort",
+        "sucker-punch",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "iron-tail",
+        "uproar",
+        "role-play",
+        "skill-swap",
+        "signal-beam",
+        "bounce",
+        "shock-wave",
+        "gravity",
+        "last-resort",
+        "zen-headbutt",
+        "magic-room"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "role-play",
+        "skill-swap",
+        "signal-beam",
+        "bounce",
+        "gravity",
+        "last-resort",
+        "zen-headbutt",
+        "magic-room"
+    ]
+}

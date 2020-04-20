@@ -1,0 +1,67 @@
+[
+    {
+        "id": 106,
+        "name": "aftermath",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is knocked out by a move that makes contact, the move's user takes 1/4 its maximum HP in damage.",
+                "short_effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "static",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being paralyzed.\n\nPok\u00e9mon that are immune to electric-type moves can still be paralyzed by this ability.\n\nOverworld: If the lead Pok\u00e9mon has this ability, there is a 50% chance that encounters will be with an electric Pok\u00e9mon, if applicable.",
+                "short_effect": "Has a 30% chance of paralyzing attacking Pok\u00e9mon on contact."
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "soundproof",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Prevents heal bell from curing the Pok\u00e9mon, whether or not it is in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to moves flagged as being sound-based.\n\nheal bell is unaffected.  uproar still prevents this Pok\u00e9mon from sleeping.  This Pok\u00e9mon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.\n\nhowl, roar of time, sonic boom, and yawn are not flagged as sound-based.",
+                "short_effect": "Protects against sound-based moves."
+            }
+        ]
+    }
+]

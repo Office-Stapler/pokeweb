@@ -1,0 +1,35 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "string-shot",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "pain-split",
+        "ancient-power",
+        "dive",
+        "earth-power"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "pain-split",
+        "water-pulse",
+        "earth-power"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "earth-power"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "ancient-power",
+        "dive",
+        "earth-power"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "iron-tail",
+        "heat-wave",
+        "focus-punch",
+        "dragon-pulse",
+        "fire-pledge"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "fire-pledge"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "heat-wave"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "heat-wave"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "crystal": [
+        "flamethrower"
+    ],
+    "ultra-sun-ultra-moon": [
+        "fire-pledge"
+    ],
+    "sun-moon": [
+        "fire-pledge"
+    ],
+    "x-y": [
+        "fire-pledge"
+    ],
+    "black-white": [
+        "fire-pledge"
+    ]
+}

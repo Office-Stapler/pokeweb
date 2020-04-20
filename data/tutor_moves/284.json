@@ -1,0 +1,69 @@
+{
+    "firered-leafgreen": [
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "emerald": [
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "heartgold-soulsilver": [
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "twister",
+        "air-cutter",
+        "signal-beam",
+        "tailwind",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "twister",
+        "air-cutter",
+        "signal-beam",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "giga-drain",
+        "signal-beam",
+        "water-pulse",
+        "tailwind",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "giga-drain",
+        "sleep-talk",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "bug-bite"
+    ]
+}

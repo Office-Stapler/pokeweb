@@ -1,0 +1,35 @@
+[
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+                "short_effect": "Absorbs grass moves, raising Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "huge-power",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack is doubled while in battle.\n\nThis bonus does not count as a stat modifier.\n\nThis ability functions identically to pure power.",
+                "short_effect": "Doubles Attack in battle."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "thick-fat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes half as much damage from fire- and ice-type moves.",
+                "short_effect": "Halves damage from fire and ice moves."
+            }
+        ]
+    }
+]

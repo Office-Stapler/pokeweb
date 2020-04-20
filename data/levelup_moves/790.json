@@ -1,0 +1,30 @@
+{
+    "ultra-sun-ultra-moon": [
+        [
+            "Cosmic-power",
+            0
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Cosmic-power",
+            1
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Cosmic-power",
+            0
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Cosmic-power",
+            1
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "twister",
+        "heat-wave",
+        "endeavor",
+        "air-cutter",
+        "tailwind",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "twister",
+        "heat-wave",
+        "endeavor",
+        "air-cutter",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "uproar",
+        "heat-wave",
+        "endeavor",
+        "tailwind"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "heat-wave",
+        "endeavor",
+        "roost",
+        "tailwind"
+    ]
+}

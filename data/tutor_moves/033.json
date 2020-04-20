@@ -1,0 +1,64 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "sucker-punch"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "defense-curl",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "helping-hand",
+        "drill-run"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "iron-tail",
+        "helping-hand",
+        "shock-wave",
+        "water-pulse",
+        "drill-run"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "sucker-punch"
+    ]
+}

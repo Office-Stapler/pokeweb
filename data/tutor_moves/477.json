@@ -1,0 +1,61 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind",
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "focus-punch",
+        "trick",
+        "skill-swap",
+        "snatch",
+        "gravity",
+        "wonder-room"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "gravity",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "trick",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind",
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "trick",
+        "skill-swap",
+        "snatch",
+        "gravity",
+        "dark-pulse"
+    ]
+}

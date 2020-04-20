@@ -1,0 +1,110 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "heat-wave",
+        "helping-hand",
+        "bounce",
+        "last-resort",
+        "vacuum-wave"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "heat-wave",
+        "focus-punch",
+        "helping-hand",
+        "bounce",
+        "last-resort",
+        "fire-pledge",
+        "dual-chop"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "heat-wave",
+        "helping-hand",
+        "bounce",
+        "last-resort",
+        "fire-pledge",
+        "dual-chop"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "heat-wave",
+        "helping-hand",
+        "bounce",
+        "last-resort",
+        "vacuum-wave"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "ultra-sun-ultra-moon": [
+        "fire-pledge"
+    ],
+    "sun-moon": [
+        "fire-pledge"
+    ],
+    "black-white": [
+        "fire-pledge"
+    ],
+    "x-y": [
+        "fire-pledge"
+    ]
+}

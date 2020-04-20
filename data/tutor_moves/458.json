@@ -1,0 +1,39 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "helping-hand",
+        "dive",
+        "air-cutter",
+        "bounce"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "helping-hand",
+        "dive",
+        "air-cutter",
+        "bounce"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "helping-hand",
+        "signal-beam",
+        "bounce",
+        "water-pulse"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "helping-hand",
+        "signal-beam",
+        "bounce"
+    ]
+}

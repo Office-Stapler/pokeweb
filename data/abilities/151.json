@@ -1,0 +1,59 @@
+[
+    {
+        "id": 28,
+        "name": "synchronize",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Cannot influence the natures of Pok\u00e9mon encountered by interacting with them on the overworld.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Passes back bad poison as regular poison.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is burned, paralyzed, or poisoned, the Pok\u00e9mon who gave this Pok\u00e9mon that ailment is also given the ailment.\n\nThis ability passes back bad poison when this Pok\u00e9mon is badly poisoned.  This ability cannot pass on a status ailment that the Pok\u00e9mon did not directly receive from another Pok\u00e9mon, such as the poison from toxic spikes or the burn from a flame orb.\n\nOverworld: If the lead Pok\u00e9mon has this ability, wild Pok\u00e9mon have a 50% chance of having the lead Pok\u00e9mon's nature, and a 50% chance of being given a random nature as usual, including the lead Pok\u00e9mon's nature.  This does not work on Pok\u00e9mon received outside of battle or roaming legendaries.",
+                "short_effect": "Copies burns, paralysis, and poison received onto the Pok\u00e9mon that inflicted them."
+            }
+        ]
+    }
+]

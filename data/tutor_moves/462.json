@@ -1,0 +1,46 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "rollout",
+        "magic-coat",
+        "signal-beam",
+        "iron-defense",
+        "gravity",
+        "magnet-rise",
+        "iron-head"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "rollout",
+        "signal-beam",
+        "iron-defense",
+        "magnet-rise",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "iron-defense",
+        "gravity",
+        "magnet-rise",
+        "iron-head",
+        "electroweb"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "iron-defense",
+        "shock-wave",
+        "gravity",
+        "magnet-rise",
+        "iron-head",
+        "electroweb"
+    ]
+}

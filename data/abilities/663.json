@@ -1,0 +1,40 @@
+[
+    {
+        "id": 177,
+        "name": "gale-wings",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Raises flying moves' priority by one stage.",
+                "short_effect": "Raises flying moves' priority by one stage."
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "flame-body",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being burned.\n\nOverworld: If any Pok\u00e9mon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pok\u00e9mon have this ability or magma armor.",
+                "short_effect": "Has a 30% chance of burning attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 115,
+        "name": "ice-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.",
+                "short_effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "hydration",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+                "short_effect": "Cures any major status ailment after each turn during rain."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "thick-fat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes half as much damage from fire- and ice-type moves.",
+                "short_effect": "Halves damage from fire and ice moves."
+            }
+        ]
+    }
+]

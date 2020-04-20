@@ -1,0 +1,67 @@
+[
+    {
+        "id": 57,
+        "name": "plus",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Powers up only when paired with minus.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack if any friendly Pok\u00e9mon has plus or minus.\n\nThis bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 when a friendly Pok\u00e9mon has plus or minus."
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "pickup",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no effect in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "At the end of each turn, if another Pok\u00e9mon consumed or Flung a held item that turn, this Pok\u00e9mon picks up the item if it is not already holding one.  After each battle, this Pok\u00e9mon has a 10% chance of picking up an item if it is not already holding one.\n\nThe air balloon and eject button cannot be picked up.\n\nThe items that may be found vary by game, and, since Pok\u00e9mon Emerald, by the Pok\u00e9mon's level.  This ability is checked after the battle ends, at which point any temporary ability changes have worn off.",
+                "short_effect": "Picks up other Pok\u00e9mon's used and Flung held items.  May also pick up an item after battle."
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "name": "cheek-pouch",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
+                "short_effect": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+            }
+        ]
+    }
+]

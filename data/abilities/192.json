@@ -1,0 +1,35 @@
+[
+    {
+        "id": 48,
+        "name": "early-bird",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's remaining sleep turn count falls by 2 rather than 1.\n\nIf this Pok\u00e9mon's sleep counter is at 1, it will fall to 0 and then the Pok\u00e9mon will wake up.",
+                "short_effect": "Makes sleep pass twice as quickly."
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "solar-power",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During strong sunlight, this Pok\u00e9mon has 1.5\u00d7 its Special Attack but takes 1/8 of its maximum HP in damage after each turn.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 but costs 1/8 max HP after each turn during strong sunlight."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during strong sunlight.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during strong sunlight."
+            }
+        ]
+    }
+]

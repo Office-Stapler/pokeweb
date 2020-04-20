@@ -1,0 +1,97 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "flamethrower",
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "iron-tail",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "shock-wave",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "stealth-rock",
+        "drill-run"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "stealth-rock",
+        "drill-run"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "aqua-tail",
+        "earth-power"
+    ]
+}

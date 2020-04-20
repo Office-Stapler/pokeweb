@@ -1,0 +1,41 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "iron-defense",
+        "magnet-rise",
+        "earth-power",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "iron-tail",
+        "iron-defense",
+        "shock-wave",
+        "magnet-rise",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "iron-defense",
+        "magnet-rise",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "iron-defense",
+        "magnet-rise",
+        "earth-power",
+        "iron-head"
+    ]
+}

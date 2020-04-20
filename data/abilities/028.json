@@ -1,0 +1,24 @@
+[
+    {
+        "id": 146,
+        "name": "sand-rush",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during a sandstorm, and it does not take sandstorm damage, regardless of type.",
+                "short_effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "sand-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During a sandstorm, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take sandstorm damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during a sandstorm.  Protects against sandstorm damage."
+            }
+        ]
+    }
+]

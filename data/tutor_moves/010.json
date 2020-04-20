@@ -1,0 +1,20 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "snore",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "bug-bite",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "bug-bite",
+        "electroweb"
+    ],
+    "platinum": [
+        "snore"
+    ]
+}

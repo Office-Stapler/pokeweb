@@ -1,0 +1,13 @@
+[
+    {
+        "id": 169,
+        "name": "fur-coat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Halves damage from physical attacks.",
+                "short_effect": "Halves damage from physical attacks."
+            }
+        ]
+    }
+]

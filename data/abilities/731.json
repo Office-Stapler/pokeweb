@@ -1,0 +1,83 @@
+[
+    {
+        "id": 53,
+        "name": "pickup",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no effect in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "At the end of each turn, if another Pok\u00e9mon consumed or Flung a held item that turn, this Pok\u00e9mon picks up the item if it is not already holding one.  After each battle, this Pok\u00e9mon has a 10% chance of picking up an item if it is not already holding one.\n\nThe air balloon and eject button cannot be picked up.\n\nThe items that may be found vary by game, and, since Pok\u00e9mon Emerald, by the Pok\u00e9mon's level.  This ability is checked after the battle ends, at which point any temporary ability changes have worn off.",
+                "short_effect": "Picks up other Pok\u00e9mon's used and Flung held items.  May also pick up an item after battle."
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "skill-link",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "triple kick is unaffected.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon always hits five times with two-to-five-hit moves, such as icicle spear.  It also bypasses the accuracy checks on triple kick's second and third hits.",
+                "short_effect": "Extends two-to-five-hit moves and triple kick to their full length every time."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "keen-eye",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its accuracy lowered.\n\nThis ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pok\u00e9mon's evasion from making this Pok\u00e9mon's moves less accurate.  This Pok\u00e9mon can still be passed negative accuracy modifiers through heart swap.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Prevents accuracy from being lowered."
+            }
+        ]
+    }
+]

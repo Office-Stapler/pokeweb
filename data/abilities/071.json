@@ -1,0 +1,24 @@
+[
+    {
+        "id": 82,
+        "name": "gluttony",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.",
+                "short_effect": "Makes the Pok\u00e9mon eat any held Berry triggered by low HP below 1/2 its max HP."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during strong sunlight.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during strong sunlight."
+            }
+        ]
+    }
+]

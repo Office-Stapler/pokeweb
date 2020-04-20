@@ -1,0 +1,35 @@
+[
+    {
+        "id": 141,
+        "name": "moody",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "After each turn, one of this Pok\u00e9mon's stats at random rises two stages, and another falls one stage.\n\nIf a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.",
+                "short_effect": "Raises a random stat two stages and lowers another one stage after each turn."
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "unaware",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon ignores other Pok\u00e9mon's stat modifiers for the purposes of damage and accuracy calculation.\n\nEffectively, this affects modifiers of every stat except Speed.\n\nThe power of punishment and stored power is calculated as usual.  When this Pok\u00e9mon hurts itself in confusion, its stat modifiers affect damage as usual.",
+                "short_effect": "Ignores other Pok\u00e9mon's stat modifiers for damage and accuracy calculation."
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "simple",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Each stage of this Pok\u00e9mon's stat modifiers acts as two stages.  These doubled stages are still limited to a minimum of -6 and a maximum of 6.\n\nThis Pok\u00e9mon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling.",
+                "short_effect": "Doubles the Pok\u00e9mon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "id": 170,
+        "name": "magician",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Steals the target's held item when the bearer uses a damaging move.",
+                "short_effect": "Steals the target's held item when the bearer uses a damaging move."
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "name": "prankster",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
+                "short_effect": "Raises non-damaging moves' priority by one stage."
+            }
+        ]
+    }
+]

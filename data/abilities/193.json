@@ -1,0 +1,51 @@
+[
+    {
+        "id": 119,
+        "name": "frisk",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals an opposing Pok\u00e9mon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pok\u00e9mon will Frisk that Pok\u00e9mon; if both have an item, it will Frisk one at random.",
+                "short_effect": "Reveals an opponent's held item upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "compound-eyes",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have 1.3\u00d7 their accuracy.\n\nThis ability has no effect on the one-hit KO moves (fissure, guillotine, horn drill, and sheer cold).\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, the chance of a wild Pok\u00e9mon holding a particular item is raised from 50%, 5%, or 1% to 60%, 20%, or 5%, respectively.",
+                "short_effect": "Increases moves' accuracy to 1.3\u00d7."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "speed-boost",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed rises one stage after each turn.",
+                "short_effect": "Raises Speed one stage after each turn."
+            }
+        ]
+    }
+]

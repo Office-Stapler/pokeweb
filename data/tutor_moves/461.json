@@ -1,0 +1,49 @@
+{
+    "black-2-white-2": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "knock-off",
+        "snatch",
+        "dark-pulse",
+        "foul-play"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "knock-off"
+    ],
+    "platinum": [
+        "ice-punch",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "knock-off"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "icy-wind",
+        "iron-tail",
+        "focus-punch",
+        "knock-off",
+        "snatch",
+        "foul-play"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "ancient-power",
+        "iron-defense",
+        "gravity",
+        "magnet-rise",
+        "earth-power",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "ancient-power",
+        "iron-defense",
+        "magnet-rise",
+        "earth-power",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "outrage",
+        "iron-tail",
+        "hyper-voice",
+        "iron-defense",
+        "shock-wave",
+        "gravity",
+        "magnet-rise",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "hyper-voice",
+        "iron-defense",
+        "gravity",
+        "magnet-rise",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ]
+}

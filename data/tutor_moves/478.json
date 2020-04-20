@@ -1,0 +1,54 @@
+{
+    "black-2-white-2": [
+        "ice-punch",
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "trick",
+        "snatch",
+        "signal-beam",
+        "block"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "pain-split",
+        "trick",
+        "signal-beam",
+        "block",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "ice-punch",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "trick",
+        "signal-beam",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "snatch",
+        "signal-beam",
+        "block",
+        "shock-wave",
+        "water-pulse"
+    ]
+}

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 105,
+        "name": "super-luck",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have critical hit rates one stage higher than normal.",
+                "short_effect": "Raises moves' critical hit rates one stage."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "serene-grace",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have twice their usual effect chance.\n\nAn effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, flamethrower's chance of burning the target is doubled, but protect's chance of success and air cutter's increased critical hit rate are unaffected.\n\nsecret power is unaffected.",
+                "short_effect": "Doubles the chance of moves' extra effects occurring."
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "hustle",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's physical moves do 1.5\u00d7 as much regular damage, but have 0.8\u00d7 their usual accuracy.\n\nSpecial moves are unaffected.  Moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, higher-levelled Pok\u00e9mon have their encounter rate increased.",
+                "short_effect": "Strengthens physical moves to inflict 1.5\u00d7 damage, but decreases their accuracy to 0.8\u00d7."
+            }
+        ]
+    }
+]

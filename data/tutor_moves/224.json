@@ -1,0 +1,78 @@
+{
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "signal-beam",
+        "bounce",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "signal-beam",
+        "bounce",
+        "water-pulse",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "xd": [
+        "double-edge",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "flamethrower",
+        "ice-beam"
+    ],
+    "heartgold-soulsilver": [
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive",
+        "signal-beam",
+        "bounce",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive",
+        "signal-beam",
+        "bounce",
+        "seed-bomb",
+        "gunk-shot"
+    ]
+}

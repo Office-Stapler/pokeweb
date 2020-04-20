@@ -1,0 +1,76 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "pain-split",
+        "focus-punch",
+        "block",
+        "shock-wave",
+        "gunk-shot"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "block",
+        "dark-pulse",
+        "gunk-shot"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "pain-split",
+        "block",
+        "gunk-shot"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "gunk-shot"
+    ],
+    "emerald": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "body-slam",
+        "mimic",
+        "explosion",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "xd": [
+        "body-slam",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "mimic",
+        "explosion",
+        "substitute"
+    ],
+    "crystal": [
+        "flamethrower",
+        "thunderbolt"
+    ]
+}

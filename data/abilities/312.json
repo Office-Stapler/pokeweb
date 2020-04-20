@@ -1,0 +1,56 @@
+[
+    {
+        "id": 10,
+        "name": "volt-absorb",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not absorb non-damaging electric moves, i.e. thunder wave.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever an electric-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nThis ability will not take effect if this Pok\u00e9mon is ground-type and thus immune to Electric moves.  Electric moves will ignore this Pok\u00e9mon's substitute.\n\nThis effect includes non-damaging moves, i.e. thunder wave.",
+                "short_effect": "Absorbs electric moves, healing for 1/4 max HP."
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "minus",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Powers up only when paired with plus.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack if any friendly Pok\u00e9mon has plus or minus.\n\nThis bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 when a friendly Pok\u00e9mon has plus or minus."
+            }
+        ]
+    }
+]

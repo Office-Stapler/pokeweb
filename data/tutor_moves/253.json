@@ -1,0 +1,104 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "focus-punch",
+        "endeavor",
+        "worry-seed",
+        "seed-bomb",
+        "drain-punch",
+        "grass-pledge"
+    ],
+    "black-2-white-2": [
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "endeavor",
+        "worry-seed",
+        "seed-bomb",
+        "drain-punch",
+        "grass-pledge"
+    ],
+    "heartgold-soulsilver": [
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "endeavor",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "endeavor",
+        "seed-bomb"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "ultra-sun-ultra-moon": [
+        "grass-pledge"
+    ],
+    "x-y": [
+        "grass-pledge"
+    ],
+    "black-white": [
+        "grass-pledge"
+    ],
+    "sun-moon": [
+        "grass-pledge"
+    ]
+}

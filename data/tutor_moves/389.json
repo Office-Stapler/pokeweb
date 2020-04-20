@@ -1,0 +1,79 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "synthesis",
+        "superpower",
+        "block",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "outrage",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "superpower",
+        "block",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power",
+        "iron-head",
+        "stealth-rock",
+        "grass-pledge"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "outrage",
+        "synthesis",
+        "superpower",
+        "frenzy-plant",
+        "seed-bomb",
+        "earth-power",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "outrage",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "superpower",
+        "block",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power",
+        "iron-head",
+        "stealth-rock",
+        "grass-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "sun-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "x-y": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "black-white": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "diamond-pearl": [
+        "frenzy-plant"
+    ]
+}

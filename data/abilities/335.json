@@ -1,0 +1,24 @@
+[
+    {
+        "id": 137,
+        "name": "toxic-boost",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has 1.5\u00d7 its Attack when poisoned.",
+                "short_effect": "Increases Attack to 1.5\u00d7 when poisoned."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "immunity",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be poisoned.  This includes bad poison.\n\nIf a Pok\u00e9mon is poisoned and acquires this ability, its poison is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents poison."
+            }
+        ]
+    }
+]

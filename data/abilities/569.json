@@ -1,0 +1,51 @@
+[
+    {
+        "id": 106,
+        "name": "aftermath",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is knocked out by a move that makes contact, the move's user takes 1/4 its maximum HP in damage.",
+                "short_effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "weak-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
+                "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "stench",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no effect in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's damaging moves have a 10% chance to make the target flinch with each hit if they do not already cause flinching as a secondary effect.\n\nThis ability does not stack with a held item.\n\nOverworld: The wild encounter rate is halved while this Pok\u00e9mon is first in the party.",
+                "short_effect": "Has a 10% chance of making target Pok\u00e9mon flinch with each hit."
+            }
+        ]
+    }
+]

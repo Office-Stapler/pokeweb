@@ -1,0 +1,24 @@
+[
+    {
+        "id": 168,
+        "name": "protean",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Changes the bearer's type to match each move it uses.\n\nThe type change takes place just before the move is used.",
+                "short_effect": "Changes the bearer's type to match each move it uses."
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "torrent",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its water-type moves inflict 1.5\u00d7 as much regular damage.",
+                "short_effect": "Strengthens water moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    }
+]

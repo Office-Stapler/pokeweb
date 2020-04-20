@@ -1,0 +1,38 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "synthesis",
+        "uproar",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "synthesis",
+        "uproar",
+        "seed-bomb"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "synthesis",
+        "uproar",
+        "covet",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "uproar",
+        "covet",
+        "worry-seed",
+        "seed-bomb"
+    ]
+}

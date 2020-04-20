@@ -1,0 +1,51 @@
+[
+    {
+        "id": 15,
+        "name": "insomnia",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be asleep.\n\nThis causes rest to fail altogether.  If a Pok\u00e9mon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.\n\nThis ability functions identically to vital spirit in battle.",
+                "short_effect": "Prevents sleep."
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "frisk",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals an opposing Pok\u00e9mon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pok\u00e9mon will Frisk that Pok\u00e9mon; if both have an item, it will Frisk one at random.",
+                "short_effect": "Reveals an opponent's held item upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "pickup",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no effect in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "At the end of each turn, if another Pok\u00e9mon consumed or Flung a held item that turn, this Pok\u00e9mon picks up the item if it is not already holding one.  After each battle, this Pok\u00e9mon has a 10% chance of picking up an item if it is not already holding one.\n\nThe air balloon and eject button cannot be picked up.\n\nThe items that may be found vary by game, and, since Pok\u00e9mon Emerald, by the Pok\u00e9mon's level.  This ability is checked after the battle ends, at which point any temporary ability changes have worn off.",
+                "short_effect": "Picks up other Pok\u00e9mon's used and Flung held items.  May also pick up an item after battle."
+            }
+        ]
+    }
+]

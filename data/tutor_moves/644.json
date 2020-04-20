@@ -1,0 +1,43 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "thunder-punch",
+        "snore",
+        "outrage",
+        "hyper-voice",
+        "signal-beam",
+        "shock-wave",
+        "tailwind",
+        "magnet-rise",
+        "dragon-pulse",
+        "earth-power",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "black-2-white-2": [
+        "thunder-punch",
+        "snore",
+        "outrage",
+        "sleep-talk",
+        "hyper-voice",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "magnet-rise",
+        "dragon-pulse",
+        "earth-power",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ]
+}

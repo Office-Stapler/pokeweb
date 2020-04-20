@@ -1,0 +1,82 @@
+[
+    {
+        "id": 153,
+        "name": "moxie",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack rises one stage upon knocking out another Pok\u00e9mon, even a friendly Pok\u00e9mon.\n\nThis ability does not take effect when the Pok\u00e9mon indirectly causes another Pok\u00e9mon to faint, e.g. through poison or spikes.\n\nIf this Pok\u00e9mon knocks out a Pok\u00e9mon with mummy, the former's ability will change without taking effect.",
+                "short_effect": "Raises Attack one stage upon KOing a Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "guts",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect during sleep.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is asleep, burned, paralyzed, or poisoned, it has 1.5\u00d7 its Attack.  This Pok\u00e9mon is not affected by the usual Attack cut from a burn.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Increases Attack to 1.5\u00d7 with a major status ailment."
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "swarm",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Increases the frequency of cries heard on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its bug-type moves inflict 1.5\u00d7 as much regular damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is increased.",
+                "short_effect": "Strengthens bug moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    }
+]

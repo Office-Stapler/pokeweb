@@ -1,0 +1,103 @@
+{
+    "emerald": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute"
+    ],
+    "platinum": [
+        "ice-punch",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "dive",
+        "iron-defense",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "dive",
+        "iron-defense",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "iron-defense",
+        "aqua-tail",
+        "zen-headbutt",
+        "water-pledge"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "focus-punch",
+        "iron-defense",
+        "water-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "zen-headbutt",
+        "water-pledge"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "black-white": [
+        "water-pledge"
+    ],
+    "x-y": [
+        "water-pledge"
+    ],
+    "sun-moon": [
+        "water-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "water-pledge"
+    ]
+}

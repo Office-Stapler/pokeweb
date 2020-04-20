@@ -1,0 +1,60 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "heal-bell",
+        "uproar",
+        "helping-hand",
+        "endeavor",
+        "gravity",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "uproar",
+        "helping-hand",
+        "recycle",
+        "endeavor",
+        "hyper-voice",
+        "covet",
+        "shock-wave",
+        "water-pulse",
+        "gravity",
+        "last-resort",
+        "drain-punch",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "heal-bell",
+        "uproar",
+        "helping-hand",
+        "recycle",
+        "endeavor",
+        "hyper-voice",
+        "covet",
+        "gravity",
+        "last-resort",
+        "drain-punch",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "uproar",
+        "helping-hand",
+        "endeavor",
+        "last-resort",
+        "zen-headbutt"
+    ]
+}

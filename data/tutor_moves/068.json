@@ -1,0 +1,95 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "metronome",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "metronome",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "focus-punch",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "dual-chop"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "dual-chop"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "vacuum-wave"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "superpower",
+        "vacuum-wave"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "crystal": [
+        "flamethrower"
+    ]
+}

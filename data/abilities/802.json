@@ -1,0 +1,29 @@
+[
+    {
+        "id": 101,
+        "name": "technician",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "struggle is unaffected.  helping hand and defense curl are not taken into account.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have 1.5\u00d7 their power if their base power is 60 or less.\n\nThis includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less.  helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.",
+                "short_effect": "Strengthens moves of 60 base power or less to 1.5\u00d7 their power."
+            }
+        ]
+    }
+]

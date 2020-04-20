@@ -1,0 +1,114 @@
+{
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "outrage",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "superpower",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "bug-bite"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "heat-wave",
+        "air-cutter",
+        "earth-power",
+        "draco-meteor",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "outrage",
+        "giga-drain",
+        "iron-tail",
+        "uproar",
+        "heat-wave",
+        "superpower",
+        "signal-beam",
+        "tailwind",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "bug-bite"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "heat-wave",
+        "air-cutter",
+        "tailwind",
+        "earth-power",
+        "draco-meteor",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "emerald": [
+        "fire-punch",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ]
+}

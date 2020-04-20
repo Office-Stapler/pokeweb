@@ -1,0 +1,66 @@
+[
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+                "short_effect": "Absorbs grass moves, raising Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "frisk",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals an opposing Pok\u00e9mon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pok\u00e9mon will Frisk that Pok\u00e9mon; if both have an item, it will Frisk one at random.",
+                "short_effect": "Reveals an opponent's held item upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "intimidate",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect if acquired after entering battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, the opponent's Attack is lowered by one stage.  In a double battle, both opponents are affected.\n\nThis ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle.\n\nThis ability has no effect on an opponent that has a substitute.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Lowers opponents' Attack one stage upon entering battle."
+            }
+        ]
+    }
+]

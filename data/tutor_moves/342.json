@@ -1,0 +1,83 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "dive",
+        "iron-defense"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "dive",
+        "iron-defense"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "iron-defense",
+        "water-pulse"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "iron-defense",
+        "dark-pulse"
+    ]
+}

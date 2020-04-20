@@ -1,0 +1,100 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "metronome",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "defense-curl",
+        "metronome",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "super-fang",
+        "snore",
+        "sleep-talk",
+        "heal-bell",
+        "superpower",
+        "hyper-voice",
+        "covet",
+        "last-resort"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "low-kick",
+        "super-fang",
+        "snore",
+        "heal-bell",
+        "focus-punch",
+        "superpower",
+        "hyper-voice",
+        "covet",
+        "shock-wave",
+        "water-pulse",
+        "last-resort"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "heal-bell",
+        "superpower",
+        "last-resort"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "superpower",
+        "last-resort"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "crystal": [
+        "thunderbolt"
+    ]
+}

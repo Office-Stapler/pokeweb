@@ -1,0 +1,40 @@
+[
+    {
+        "id": 120,
+        "name": "reckless",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's recoil moves and crash moves have 1.2\u00d7 their base power.\n\nstruggle is unaffected.\n\nThe \"crash moves\" are the moves that damage the user upon missing: jump kick and high jump kick.",
+                "short_effect": "Strengthens recoil moves to 1.2\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "keen-eye",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its accuracy lowered.\n\nThis ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pok\u00e9mon's evasion from making this Pok\u00e9mon's moves less accurate.  This Pok\u00e9mon can still be passed negative accuracy modifiers through heart swap.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Prevents accuracy from being lowered."
+            }
+        ]
+    }
+]

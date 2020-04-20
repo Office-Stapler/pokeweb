@@ -1,0 +1,98 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "synthesis",
+        "ancient-power",
+        "magic-coat",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "outrage",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "magic-coat",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "outrage",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "magic-coat",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "synthesis",
+        "ancient-power",
+        "frenzy-plant",
+        "seed-bomb"
+    ],
+    "ultra-sun-ultra-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "sun-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "black-white": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "x-y": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "diamond-pearl": [
+        "frenzy-plant"
+    ]
+}

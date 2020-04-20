@@ -1,0 +1,83 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "explosion",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "explosion",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "synthesis",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "spite",
+        "giga-drain",
+        "synthesis",
+        "worry-seed",
+        "seed-bomb",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "spite",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "worry-seed",
+        "dark-pulse",
+        "seed-bomb",
+        "foul-play"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "synthesis",
+        "seed-bomb"
+    ]
+}

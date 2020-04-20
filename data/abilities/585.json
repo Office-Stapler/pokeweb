@@ -1,0 +1,35 @@
+[
+    {
+        "id": 32,
+        "name": "serene-grace",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have twice their usual effect chance.\n\nAn effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, flamethrower's chance of burning the target is doubled, but protect's chance of success and air cutter's increased critical hit rate are unaffected.\n\nsecret power is unaffected.",
+                "short_effect": "Doubles the chance of moves' extra effects occurring."
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+                "short_effect": "Absorbs grass moves, raising Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during strong sunlight.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during strong sunlight."
+            }
+        ]
+    }
+]

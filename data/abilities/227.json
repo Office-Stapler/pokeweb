@@ -1,0 +1,67 @@
+[
+    {
+        "id": 133,
+        "name": "weak-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
+                "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "sturdy",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not prevent regular KOs from full HP.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is at full HP, any hit that would knock it out will instead leave it with 1 HP.  Regardless of its current HP, it is also immune to the one-hit KO moves: fissure, guillotine, horn drill, and sheer cold.\n\nIf this Pok\u00e9mon is holding a focus sash, this ability takes precedence and the item will not be consumed.",
+                "short_effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "keen-eye",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its accuracy lowered.\n\nThis ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pok\u00e9mon's evasion from making this Pok\u00e9mon's moves less accurate.  This Pok\u00e9mon can still be passed negative accuracy modifiers through heart swap.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Prevents accuracy from being lowered."
+            }
+        ]
+    }
+]

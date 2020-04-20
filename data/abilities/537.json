@@ -1,0 +1,35 @@
+[
+    {
+        "id": 11,
+        "name": "water-absorb",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a water-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nWater moves will ignore this Pok\u00e9mon's substitute.",
+                "short_effect": "Absorbs water moves, healing for 1/4 max HP."
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "poison-touch",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's contact moves have a 30% chance of poisoning the target with each hit.\n\nThis counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.",
+                "short_effect": "Has a 30% chance of poisoning target Pok\u00e9mon upon contact."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    }
+]

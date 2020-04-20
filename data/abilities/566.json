@@ -1,0 +1,13 @@
+[
+    {
+        "id": 129,
+        "name": "defeatist",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack and Special Attack are halved when it has half its HP or less.",
+                "short_effect": "Halves Attack and Special Attack at 50% max HP or less."
+            }
+        ]
+    }
+]

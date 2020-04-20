@@ -1,0 +1,35 @@
+[
+    {
+        "id": 44,
+        "name": "rain-dish",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during rain.",
+                "short_effect": "Heals for 1/16 max HP after each turn during rain."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "effect-spore",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being paralyzed, poisoned, or put to sleep, chosen at random.\n\nNothing is done to compensate if the move's user is immune to one of these ailments; there is simply a lower chance that the move's user will be affected.",
+                "short_effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pok\u00e9mon on contact."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "illuminate",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.\n\nThis ability has no effect in battle.",
+                "short_effect": "Doubles the wild encounter rate."
+            }
+        ]
+    }
+]

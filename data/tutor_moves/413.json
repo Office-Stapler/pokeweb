@@ -1,0 +1,50 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "snore",
+        "synthesis",
+        "uproar",
+        "endeavor",
+        "signal-beam",
+        "worry-seed",
+        "sucker-punch",
+        "seed-bomb",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "synthesis",
+        "uproar",
+        "endeavor",
+        "skill-swap",
+        "signal-beam",
+        "worry-seed",
+        "seed-bomb",
+        "bug-bite",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "uproar",
+        "endeavor",
+        "skill-swap",
+        "signal-beam",
+        "worry-seed",
+        "seed-bomb",
+        "bug-bite",
+        "electroweb"
+    ],
+    "platinum": [
+        "snore",
+        "synthesis",
+        "uproar",
+        "endeavor",
+        "signal-beam",
+        "sucker-punch",
+        "seed-bomb"
+    ]
+}

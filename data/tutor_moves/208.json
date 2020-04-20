@@ -1,0 +1,83 @@
+{
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "block",
+        "magnet-rise",
+        "dark-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "iron-tail",
+        "block",
+        "magnet-rise",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "twister",
+        "ancient-power",
+        "block",
+        "magnet-rise",
+        "aqua-tail",
+        "earth-power",
+        "iron-head"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "explosion",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "explosion",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "rollout",
+        "twister",
+        "ancient-power",
+        "magnet-rise",
+        "aqua-tail",
+        "earth-power",
+        "iron-head"
+    ]
+}

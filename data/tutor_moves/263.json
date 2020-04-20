@@ -1,0 +1,92 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "fury-cutter",
+        "helping-hand",
+        "trick",
+        "last-resort",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "fury-cutter",
+        "helping-hand",
+        "trick",
+        "last-resort",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "helping-hand",
+        "trick",
+        "hyper-voice",
+        "covet",
+        "last-resort",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "helping-hand",
+        "trick",
+        "hyper-voice",
+        "covet",
+        "shock-wave",
+        "water-pulse",
+        "last-resort",
+        "seed-bomb",
+        "gunk-shot"
+    ]
+}

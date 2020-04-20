@@ -1,0 +1,53 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "signal-beam",
+        "gravity",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "helping-hand",
+        "trick",
+        "signal-beam",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "gravity",
+        "zen-headbutt",
+        "magic-room"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "gravity",
+        "zen-headbutt",
+        "magic-room"
+    ]
+}

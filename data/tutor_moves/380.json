@@ -1,0 +1,123 @@
+{
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "helping-hand",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "dive",
+        "tailwind",
+        "last-resort",
+        "sucker-punch",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "helping-hand",
+        "trick",
+        "dive",
+        "last-resort",
+        "sucker-punch",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "outrage",
+        "helping-hand",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "covet",
+        "shock-wave",
+        "water-pulse",
+        "tailwind",
+        "last-resort",
+        "dragon-pulse",
+        "zen-headbutt",
+        "draco-meteor",
+        "magic-room"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "helping-hand",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "covet",
+        "roost",
+        "tailwind",
+        "last-resort",
+        "dragon-pulse",
+        "zen-headbutt",
+        "draco-meteor",
+        "magic-room"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ]
+}

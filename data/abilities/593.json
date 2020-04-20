@@ -1,0 +1,35 @@
+[
+    {
+        "id": 6,
+        "name": "damp",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "While this Pok\u00e9mon is in battle, self destruct and explosion will fail and aftermath will not take effect.",
+                "short_effect": "Prevents self destruct, explosion, and aftermath from working while the Pok\u00e9mon is in battle."
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "cursed-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves that hit this Pok\u00e9mon have a 30% chance of being Disabled afterward.",
+                "short_effect": "Has a 30% chance of Disabling any move that hits the Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "water-absorb",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a water-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nWater moves will ignore this Pok\u00e9mon's substitute.",
+                "short_effect": "Absorbs water moves, healing for 1/4 max HP."
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "signal-beam",
+        "bounce",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "trick",
+        "signal-beam",
+        "bounce",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "snatch",
+        "signal-beam",
+        "bounce",
+        "covet",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "iron-tail",
+        "trick",
+        "role-play",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "snatch",
+        "signal-beam",
+        "bounce",
+        "covet",
+        "shock-wave",
+        "zen-headbutt"
+    ]
+}

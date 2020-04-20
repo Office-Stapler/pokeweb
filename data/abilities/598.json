@@ -1,0 +1,24 @@
+[
+    {
+        "id": 107,
+        "name": "anticipation",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified.\n\nThe move itself is not revealed; only that there is such a move.  Moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types.  counter, metal burst, mirror coat, and one-hit KO moves to which this Pok\u00e9mon is immune do not trigger this ability.",
+                "short_effect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move."
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "name": "iron-barbs",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.\n\nThis ability functions identically to rough skin.",
+                "short_effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact."
+            }
+        ]
+    }
+]

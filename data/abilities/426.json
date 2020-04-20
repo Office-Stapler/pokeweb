@@ -1,0 +1,35 @@
+[
+    {
+        "id": 138,
+        "name": "flare-boost",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack when burned.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 when burned."
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "unburden",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon uses or loses its held item, its Speed is doubled.  If it gains another item or leaves battle, this bonus is lost.\n\nThis includes when the Pok\u00e9mon drops its item because of knock off.  This bonus does not count as a stat modifier.  There is no notification when this ability takes effect.",
+                "short_effect": "Doubles Speed upon using or losing a held item."
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "aftermath",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is knocked out by a move that makes contact, the move's user takes 1/4 its maximum HP in damage.",
+                "short_effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+            }
+        ]
+    }
+]

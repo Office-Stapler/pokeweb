@@ -1,0 +1,24 @@
+[
+    {
+        "id": 180,
+        "name": "symbiosis",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Passes the bearer's held item to an ally when the ally uses up its item.",
+                "short_effect": "Passes the bearer's held item to an ally when the ally uses up its item."
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "name": "flower-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Protects friendly grass Pok\u00e9mon from having their stats lowered by other Pok\u00e9mon.",
+                "short_effect": "Protects friendly grass Pok\u00e9mon from having their stats lowered by other Pok\u00e9mon."
+            }
+        ]
+    }
+]

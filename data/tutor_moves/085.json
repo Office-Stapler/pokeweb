@@ -1,0 +1,63 @@
+{
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "sky-attack",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "uproar",
+        "knock-off",
+        "endeavor",
+        "air-cutter"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "sky-attack",
+        "snore",
+        "mud-slap",
+        "uproar",
+        "knock-off",
+        "endeavor",
+        "air-cutter"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "uproar",
+        "knock-off",
+        "endeavor"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "snore",
+        "sleep-talk",
+        "uproar",
+        "knock-off",
+        "endeavor",
+        "roost"
+    ]
+}

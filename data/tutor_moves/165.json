@@ -1,0 +1,82 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "uproar",
+        "focus-punch",
+        "knock-off",
+        "tailwind",
+        "drain-punch",
+        "bug-bite"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "string-shot",
+        "swift",
+        "snore",
+        "rollout",
+        "uproar",
+        "knock-off",
+        "air-cutter",
+        "tailwind",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "ice-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "rollout",
+        "uproar",
+        "knock-off",
+        "air-cutter",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "uproar",
+        "knock-off",
+        "roost",
+        "tailwind",
+        "drain-punch",
+        "bug-bite"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ]
+}

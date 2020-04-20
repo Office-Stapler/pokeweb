@@ -1,0 +1,78 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "magic-coat",
+        "endeavor",
+        "sucker-punch",
+        "earth-power"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "explosion",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "explosion",
+        "rock-slide",
+        "substitute"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "magic-coat",
+        "endeavor",
+        "iron-defense",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "endeavor",
+        "sucker-punch",
+        "earth-power"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "magic-coat",
+        "endeavor",
+        "iron-defense",
+        "water-pulse",
+        "earth-power",
+        "stealth-rock"
+    ]
+}

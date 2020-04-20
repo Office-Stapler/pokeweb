@@ -1,0 +1,36 @@
+{
+    "black-2-white-2": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "aqua-tail"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive"
+    ],
+    "platinum": [
+        "ice-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "focus-punch",
+        "water-pulse",
+        "aqua-tail"
+    ]
+}

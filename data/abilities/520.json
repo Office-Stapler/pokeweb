@@ -1,0 +1,35 @@
+[
+    {
+        "id": 79,
+        "name": "rivalry",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon inflicts 1.25\u00d7 as much regular damage against Pok\u00e9mon of the same gender and 0.75\u00d7 as much regular damage against Pok\u00e9mon of the opposite gender.\n\nIf either Pok\u00e9mon is genderless, damage is unaffected.",
+                "short_effect": "Increases damage inflicted to 1.25\u00d7 against Pok\u00e9mon of the same gender, but decreases damage to 0.75\u00d7 against the opposite gender."
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "super-luck",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have critical hit rates one stage higher than normal.",
+                "short_effect": "Raises moves' critical hit rates one stage."
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "big-pecks",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Defense cannot be lowered by other Pok\u00e9mon.\n\nThis Pok\u00e9mon can still be passed negative Defense modifiers through heart swap or guard swap.",
+                "short_effect": "Protects against Defense drops."
+            }
+        ]
+    }
+]

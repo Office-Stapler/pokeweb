@@ -1,0 +1,35 @@
+[
+    {
+        "id": 175,
+        "name": "sweet-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Prevents friendly Pok\u00e9mon from sleeping.",
+                "short_effect": "Prevents friendly Pok\u00e9mon from sleeping."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "shield-dust",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to the extra effects of moves used against it.\n\nAn extra effect is a move's chance, listed as an \"effect chance\", to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.",
+                "short_effect": "Protects against incoming moves' extra effects."
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "name": "honey-gather",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has a chance of picking up honey after each battle.  This chance starts at 5% and rises another 5% after every tenth level: 5% from level 1\u201310, 10% from 11\u201320, and so on, up to 50% from 91\u2013100.\n\nThis ability is checked after the battle ends, at which point any temporary ability changes have worn off.",
+                "short_effect": "The Pok\u00e9mon may pick up honey after battle."
+            }
+        ]
+    }
+]

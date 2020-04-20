@@ -1,0 +1,31 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "sucker-punch"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "sucker-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "iron-tail",
+        "snatch",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "snatch",
+        "dark-pulse",
+        "foul-play"
+    ]
+}

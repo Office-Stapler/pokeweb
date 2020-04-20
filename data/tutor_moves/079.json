@@ -1,0 +1,98 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "trick",
+        "magic-coat",
+        "dive",
+        "signal-beam",
+        "block",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "crystal": [
+        "flamethrower",
+        "ice-beam"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "trick",
+        "dive",
+        "signal-beam",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "block",
+        "water-pulse",
+        "aqua-tail",
+        "zen-headbutt",
+        "wonder-room",
+        "after-you"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "block",
+        "aqua-tail",
+        "zen-headbutt",
+        "wonder-room",
+        "after-you"
+    ]
+}

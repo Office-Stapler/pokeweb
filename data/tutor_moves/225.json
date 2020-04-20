@@ -1,0 +1,88 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "sky-attack",
+        "snore",
+        "icy-wind",
+        "focus-punch",
+        "recycle",
+        "signal-beam",
+        "bounce",
+        "water-pulse",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "sky-attack",
+        "icy-wind",
+        "sleep-talk",
+        "recycle",
+        "signal-beam",
+        "bounce",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "sky-attack",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "signal-beam",
+        "bounce",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "sky-attack",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "platinum": [
+        "swift",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "signal-beam",
+        "bounce",
+        "seed-bomb",
+        "gunk-shot"
+    ]
+}

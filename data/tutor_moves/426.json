@@ -1,0 +1,59 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "knock-off",
+        "skill-swap",
+        "shock-wave",
+        "tailwind"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "knock-off",
+        "skill-swap",
+        "tailwind"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "pain-split",
+        "trick",
+        "magic-coat",
+        "knock-off",
+        "air-cutter",
+        "tailwind",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "trick",
+        "knock-off",
+        "air-cutter",
+        "sucker-punch",
+        "ominous-wind"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "firered-leafgreen": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "xd": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "magic-coat",
+        "signal-beam",
+        "gravity",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "trick",
+        "signal-beam",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "pain-split",
+        "iron-tail",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "shock-wave",
+        "gravity",
+        "last-resort",
+        "magnet-rise",
+        "zen-headbutt",
+        "wonder-room",
+        "foul-play",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "iron-tail",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "gravity",
+        "last-resort",
+        "magnet-rise",
+        "zen-headbutt",
+        "wonder-room",
+        "foul-play",
+        "electroweb"
+    ]
+}

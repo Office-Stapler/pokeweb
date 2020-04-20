@@ -1,0 +1,35 @@
+[
+    {
+        "id": 11,
+        "name": "water-absorb",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a water-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nWater moves will ignore this Pok\u00e9mon's substitute.",
+                "short_effect": "Absorbs water moves, healing for 1/4 max HP."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "hydration",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+                "short_effect": "Cures any major status ailment after each turn during rain."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    }
+]

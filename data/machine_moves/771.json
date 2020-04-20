@@ -1,0 +1,40 @@
+{
+    "ultra-sun-ultra-moon": [
+        "toxic",
+        "double-team",
+        "light-screen",
+        "reflect",
+        "rest",
+        "substitute",
+        "protect",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "safeguard",
+        "rain-dance",
+        "psych-up",
+        "hail",
+        "taunt",
+        "quash",
+        "confide"
+    ],
+    "sun-moon": [
+        "toxic",
+        "double-team",
+        "light-screen",
+        "reflect",
+        "rest",
+        "substitute",
+        "protect",
+        "swagger",
+        "attract",
+        "sleep-talk",
+        "safeguard",
+        "rain-dance",
+        "psych-up",
+        "hail",
+        "taunt",
+        "quash",
+        "confide"
+    ]
+}

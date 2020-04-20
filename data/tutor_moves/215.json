@@ -1,0 +1,89 @@
+{
+    "emerald": [
+        "ice-punch",
+        "swords-dance",
+        "double-edge",
+        "counter",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch",
+        "psych-up"
+    ],
+    "platinum": [
+        "ice-punch",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "knock-off"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "knock-off"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "knock-off",
+        "snatch",
+        "dark-pulse",
+        "foul-play"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "icy-wind",
+        "iron-tail",
+        "focus-punch",
+        "knock-off",
+        "snatch",
+        "foul-play"
+    ],
+    "firered-leafgreen": [
+        "swords-dance",
+        "double-edge",
+        "counter",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "ice-beam"
+    ]
+}

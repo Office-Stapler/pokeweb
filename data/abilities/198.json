@@ -1,0 +1,35 @@
+[
+    {
+        "id": 158,
+        "name": "prankster",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
+                "short_effect": "Raises non-damaging moves' priority by one stage."
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "super-luck",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have critical hit rates one stage higher than normal.",
+                "short_effect": "Raises moves' critical hit rates one stage."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "insomnia",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be asleep.\n\nThis causes rest to fail altogether.  If a Pok\u00e9mon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.\n\nThis ability functions identically to vital spirit in battle.",
+                "short_effect": "Prevents sleep."
+            }
+        ]
+    }
+]

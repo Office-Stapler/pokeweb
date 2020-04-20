@@ -1,0 +1,45 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "sky-attack",
+        "snore",
+        "mud-slap",
+        "twister",
+        "uproar",
+        "heat-wave",
+        "role-play",
+        "air-cutter",
+        "tailwind",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "twister",
+        "uproar",
+        "heat-wave",
+        "air-cutter",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "uproar",
+        "heat-wave",
+        "role-play",
+        "hyper-voice",
+        "tailwind"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "snore",
+        "sleep-talk",
+        "uproar",
+        "heat-wave",
+        "role-play",
+        "hyper-voice",
+        "roost",
+        "tailwind"
+    ]
+}

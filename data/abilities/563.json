@@ -1,0 +1,13 @@
+[
+    {
+        "id": 152,
+        "name": "mummy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a contact move hits this Pok\u00e9mon, the attacking Pok\u00e9mon's ability changes to Mummy.\n\nmultitype is unaffected.  If a Pok\u00e9mon with moxie knocks this Pok\u00e9mon out, the former's ability will change without taking effect.",
+                "short_effect": "Changes attacking Pok\u00e9mon's abilities to Mummy on contact."
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 155,
+        "name": "rattled",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.",
+                "short_effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "run-away",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is always successful fleeing from wild battles, even if trapped by a move or ability.",
+                "short_effect": "Ensures success fleeing from wild battles."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "serene-grace",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have twice their usual effect chance.\n\nAn effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, flamethrower's chance of burning the target is doubled, but protect's chance of success and air cutter's increased critical hit rate are unaffected.\n\nsecret power is unaffected.",
+                "short_effect": "Doubles the chance of moves' extra effects occurring."
+            }
+        ]
+    }
+]

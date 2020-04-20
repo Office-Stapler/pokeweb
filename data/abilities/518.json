@@ -1,0 +1,81 @@
+[
+    {
+        "id": 140,
+        "name": "telepathy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not take damage from friendly Pok\u00e9mon's moves, including single-target moves aimed at it.",
+                "short_effect": "Protects against friendly Pok\u00e9mon's damaging moves."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "synchronize",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Cannot influence the natures of Pok\u00e9mon encountered by interacting with them on the overworld.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Passes back bad poison as regular poison.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is burned, paralyzed, or poisoned, the Pok\u00e9mon who gave this Pok\u00e9mon that ailment is also given the ailment.\n\nThis ability passes back bad poison when this Pok\u00e9mon is badly poisoned.  This ability cannot pass on a status ailment that the Pok\u00e9mon did not directly receive from another Pok\u00e9mon, such as the poison from toxic spikes or the burn from a flame orb.\n\nOverworld: If the lead Pok\u00e9mon has this ability, wild Pok\u00e9mon have a 50% chance of having the lead Pok\u00e9mon's nature, and a 50% chance of being given a random nature as usual, including the lead Pok\u00e9mon's nature.  This does not work on Pok\u00e9mon received outside of battle or roaming legendaries.",
+                "short_effect": "Copies burns, paralysis, and poison received onto the Pok\u00e9mon that inflicted them."
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "forewarn",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals the move with the highest base power known by any opposing Pok\u00e9mon to all participating trainers.\n\nIn the event of a tie, one is chosen at random.\n\nMoves without a listed base power are assigned one as follows:\n\nPower | Moves\n----: | -----\n  160 | One-hit KO moves: fissure, guillotine, horn drill, and sheer cold\n  120 | Counter moves: counter, metal burst, and mirror coat\n   80 | Variable power or set damage: crush grip, dragon rage, electro ball, endeavor, final gambit, flail, frustration, grass knot, gyro ball, heat crash, heavy slam, hidden power, low kick, natural gift, night shade, psywave, return, reversal, seismic toss, sonic boom, trump card, and wring out\n    0 | Any such move not listed\n",
+                "short_effect": "Reveals the opponents' strongest move upon entering battle."
+            }
+        ]
+    }
+]

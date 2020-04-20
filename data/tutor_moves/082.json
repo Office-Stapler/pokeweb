@@ -1,0 +1,70 @@
+{
+    "firered-leafgreen": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "xd": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "crystal": [
+        "thunderbolt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "rollout",
+        "signal-beam",
+        "iron-defense",
+        "magnet-rise"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "rollout",
+        "magic-coat",
+        "signal-beam",
+        "iron-defense",
+        "gravity",
+        "magnet-rise"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "iron-defense",
+        "shock-wave",
+        "gravity",
+        "magnet-rise",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "iron-defense",
+        "gravity",
+        "magnet-rise",
+        "electroweb"
+    ]
+}

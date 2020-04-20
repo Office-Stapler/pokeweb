@@ -1,0 +1,57 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "synthesis",
+        "superpower",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "superpower",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power",
+        "stealth-rock",
+        "grass-pledge"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "superpower",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power",
+        "stealth-rock",
+        "grass-pledge"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "synthesis",
+        "superpower",
+        "seed-bomb",
+        "earth-power"
+    ],
+    "sun-moon": [
+        "grass-pledge"
+    ],
+    "x-y": [
+        "grass-pledge"
+    ],
+    "black-white": [
+        "grass-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "grass-pledge"
+    ]
+}

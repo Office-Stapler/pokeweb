@@ -1,0 +1,92 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "black-2-white-2": [
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "helping-hand",
+        "superpower",
+        "snatch",
+        "worry-seed",
+        "seed-bomb",
+        "drain-punch"
+    ],
+    "heartgold-soulsilver": [
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "helping-hand",
+        "superpower",
+        "worry-seed",
+        "seed-bomb",
+        "vacuum-wave"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "thunder-punch",
+        "snore",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "focus-punch",
+        "helping-hand",
+        "superpower",
+        "snatch",
+        "worry-seed",
+        "seed-bomb",
+        "drain-punch"
+    ],
+    "platinum": [
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "helping-hand",
+        "superpower",
+        "seed-bomb",
+        "vacuum-wave"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ]
+}

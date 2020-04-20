@@ -1,0 +1,35 @@
+[
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+                "short_effect": "Absorbs grass moves, raising Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "early-bird",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's remaining sleep turn count falls by 2 rather than 1.\n\nIf this Pok\u00e9mon's sleep counter is at 1, it will fall to 0 and then the Pok\u00e9mon will wake up.",
+                "short_effect": "Makes sleep pass twice as quickly."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    }
+]

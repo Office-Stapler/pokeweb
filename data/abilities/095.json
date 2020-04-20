@@ -1,0 +1,51 @@
+[
+    {
+        "id": 133,
+        "name": "weak-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
+                "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "sturdy",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not prevent regular KOs from full HP.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is at full HP, any hit that would knock it out will instead leave it with 1 HP.  Regardless of its current HP, it is also immune to the one-hit KO moves: fissure, guillotine, horn drill, and sheer cold.\n\nIf this Pok\u00e9mon is holding a focus sash, this ability takes precedence and the item will not be consumed.",
+                "short_effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "rock-head",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not receive recoil damage from its recoil moves.\n\nstruggle's recoil is unaffected.  This ability does not prevent crash damage from missing with jump kick or high jump kick.",
+                "short_effect": "Protects against recoil damage."
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+{
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "dive",
+        "tailwind",
+        "last-resort",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "helping-hand",
+        "trick",
+        "dive",
+        "last-resort",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "outrage",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "shock-wave",
+        "water-pulse",
+        "tailwind",
+        "last-resort",
+        "dragon-pulse",
+        "zen-headbutt",
+        "draco-meteor",
+        "wonder-room"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "roost",
+        "tailwind",
+        "last-resort",
+        "dragon-pulse",
+        "zen-headbutt",
+        "draco-meteor",
+        "wonder-room"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ]
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 147,
+        "name": "wonder-skin",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Non-damaging moves have exactly 50% base accuracy against this Pok\u00e9mon.",
+                "short_effect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "tinted-lens",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon deals twice as much damage with moves that are not very effective against the target.",
+                "short_effect": "Doubles damage inflicted with not-very-effective moves."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "shield-dust",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to the extra effects of moves used against it.\n\nAn extra effect is a move's chance, listed as an \"effect chance\", to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.",
+                "short_effect": "Protects against incoming moves' extra effects."
+            }
+        ]
+    }
+]

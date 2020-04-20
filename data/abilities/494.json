@@ -1,0 +1,13 @@
+[
+    {
+        "id": 162,
+        "name": "victory-star",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "All friendly Pok\u00e9mon's moves, including this Pok\u00e9mon's own moves, have 1.1\u00d7 their usual accuracy while this Pok\u00e9mon is in battle.",
+                "short_effect": "Increases moves' accuracy to 1.1\u00d7 for friendly Pok\u00e9mon."
+            }
+        ]
+    }
+]

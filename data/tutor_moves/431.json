@@ -1,0 +1,47 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "knock-off",
+        "last-resort",
+        "sucker-punch"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "knock-off",
+        "last-resort",
+        "sucker-punch"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "knock-off",
+        "snatch",
+        "hyper-voice",
+        "covet",
+        "last-resort",
+        "foul-play"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "iron-tail",
+        "knock-off",
+        "snatch",
+        "hyper-voice",
+        "covet",
+        "shock-wave",
+        "water-pulse",
+        "last-resort",
+        "foul-play"
+    ]
+}

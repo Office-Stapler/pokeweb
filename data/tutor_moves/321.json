@@ -1,0 +1,68 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "icy-wind",
+        "rollout",
+        "dive",
+        "block",
+        "bounce",
+        "iron-head"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "hyper-voice",
+        "block",
+        "bounce",
+        "water-pulse",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "hyper-voice",
+        "block",
+        "bounce",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "platinum": [
+        "snore",
+        "icy-wind",
+        "rollout",
+        "dive",
+        "bounce",
+        "iron-head"
+    ]
+}

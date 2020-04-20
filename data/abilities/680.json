@@ -1,0 +1,29 @@
+[
+    {
+        "id": 99,
+        "name": "no-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Due to a glitch, moves affected by this ability have a (100 - accuracy)% chance to hit through detect or protect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "platinum",
+                    "url": "https://pokeapi.co/api/v2/version-group/9/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Moves used by or against this Pok\u00e9mon never miss.\n\nOne-hit KO moves are unaffected.  Moves affected by this ability can hit Pok\u00e9mon during the preparation turn of moves like dig or fly.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.",
+                "short_effect": "Ensures all moves used by and against the Pok\u00e9mon hit."
+            }
+        ]
+    }
+]

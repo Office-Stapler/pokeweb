@@ -1,0 +1,13 @@
+[
+    {
+        "id": 123,
+        "name": "bad-dreams",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Opposing Pok\u00e9mon take 1/8 of their maximum HP in damage after each turn while they are asleep.",
+                "short_effect": "Damages sleeping opponents for 1/8 their max HP after each turn."
+            }
+        ]
+    }
+]

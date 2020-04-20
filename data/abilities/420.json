@@ -1,0 +1,13 @@
+[
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during strong sunlight.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during strong sunlight."
+            }
+        ]
+    }
+]

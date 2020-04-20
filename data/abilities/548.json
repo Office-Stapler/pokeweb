@@ -1,0 +1,51 @@
+[
+    {
+        "id": 102,
+        "name": "leaf-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "rest works as usual during strong sunlight.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be given a major status ailment during strong sunlight.\n\nThis ability does not heal prior status ailments.  rest will fail altogether with this ability in effect.  yawn will immediately fail if used on this Pok\u00e9mon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime.",
+                "short_effect": "Protects against major status ailments during strong sunlight."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "own-tempo",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be confused.\n\nIf a Pok\u00e9mon is confused and acquires this ability, its confusion will immediately be healed.",
+                "short_effect": "Prevents confusion."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during strong sunlight.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during strong sunlight."
+            }
+        ]
+    }
+]

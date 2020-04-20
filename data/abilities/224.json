@@ -1,0 +1,51 @@
+[
+    {
+        "id": 141,
+        "name": "moody",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "After each turn, one of this Pok\u00e9mon's stats at random rises two stages, and another falls one stage.\n\nIf a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.",
+                "short_effect": "Raises a random stat two stages and lowers another one stage after each turn."
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "sniper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon inflicts triple damage with critical hits, rather than the usual double damage.",
+                "short_effect": "Strengthens critical hits to inflict 3\u00d7 damage rather than 2\u00d7."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "suction-cups",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be forced out of battle by moves such as whirlwind.\n\ndragon tail and circle throw still inflict damage against this Pok\u00e9mon.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the success rate while fishing is increased.",
+                "short_effect": "Prevents being forced out of battle by other Pok\u00e9mon's moves."
+            }
+        ]
+    }
+]

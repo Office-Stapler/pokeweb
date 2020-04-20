@@ -1,0 +1,13 @@
+[
+    {
+        "id": 216,
+        "name": "dancer",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever another Pok\u00e9mon uses a dance move, this Pok\u00e9mon will use the same move immediately afterwards.",
+                "short_effect": "Whenever another Pok\u00e9mon uses a dance move, this Pok\u00e9mon will use the same move immediately afterwards."
+            }
+        ]
+    }
+]

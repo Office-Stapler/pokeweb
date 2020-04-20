@@ -1,0 +1,35 @@
+[
+    {
+        "id": 126,
+        "name": "contrary",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon's stats would be raised, they are instead lowered by the same amount, and vice versa.",
+                "short_effect": "Inverts stat changes."
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "tangled-feet",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is confused, it has twice its evasion.",
+                "short_effect": "Doubles evasion when confused."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "own-tempo",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be confused.\n\nIf a Pok\u00e9mon is confused and acquires this ability, its confusion will immediately be healed.",
+                "short_effect": "Prevents confusion."
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "focus-punch",
+        "knock-off",
+        "block",
+        "shock-wave",
+        "water-pulse",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "knock-off",
+        "block",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "knock-off",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "knock-off",
+        "block",
+        "aqua-tail",
+        "zen-headbutt"
+    ]
+}

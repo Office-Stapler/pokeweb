@@ -1,0 +1,13 @@
+[
+    {
+        "id": 213,
+        "name": "comatose",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon always acts as though it were Asleep.  It cannot be given another status ailment; it's unaffected by yawn; it can use sleep talk; and so on.",
+                "short_effect": "This Pok\u00e9mon always  acts as though it were Asleep."
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "heal-bell",
+        "helping-hand",
+        "signal-beam",
+        "last-resort",
+        "magnet-rise"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "thunderbolt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "signal-beam",
+        "last-resort",
+        "magnet-rise"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "shock-wave",
+        "last-resort",
+        "magnet-rise"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "last-resort",
+        "magnet-rise"
+    ]
+}

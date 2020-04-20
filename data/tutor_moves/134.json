@@ -1,0 +1,82 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "heal-bell",
+        "helping-hand",
+        "dive",
+        "signal-beam",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "helping-hand",
+        "dive",
+        "signal-beam",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "water-pulse",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "last-resort",
+        "aqua-tail"
+    ]
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 130,
+        "name": "cursed-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves that hit this Pok\u00e9mon have a 30% chance of being Disabled afterward.",
+                "short_effect": "Has a 30% chance of Disabling any move that hits the Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "frisk",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals an opposing Pok\u00e9mon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pok\u00e9mon will Frisk that Pok\u00e9mon; if both have an item, it will Frisk one at random.",
+                "short_effect": "Reveals an opponent's held item upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "insomnia",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be asleep.\n\nThis causes rest to fail altogether.  If a Pok\u00e9mon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.\n\nThis ability functions identically to vital spirit in battle.",
+                "short_effect": "Prevents sleep."
+            }
+        ]
+    }
+]

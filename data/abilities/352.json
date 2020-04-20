@@ -1,0 +1,40 @@
+[
+    {
+        "id": 168,
+        "name": "protean",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Changes the bearer's type to match each move it uses.\n\nThe type change takes place just before the move is used.",
+                "short_effect": "Changes the bearer's type to match each move it uses."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "color-change",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Triggers on every hit of multiple-hit moves.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon takes damage from a move, the Pok\u00e9mon's type changes to match the move.\n\nIf the Pok\u00e9mon has two types, both are overridden.  The Pok\u00e9mon must directly take damage; for example, moves blocked by a substitute will not trigger this ability, nor will moves that deal damage indirectly, such as spikes.\n\nThis ability takes effect on only the last hit of a multiple-hit attack.\n\nIn Pok\u00e9mon Colosseum and XD: Gale of Darkness, this ability does not take effect on Shadow-type moves.",
+                "short_effect": "Changes type to match when hit by a damaging move."
+            }
+        ]
+    }
+]

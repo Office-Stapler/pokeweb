@@ -1,0 +1,35 @@
+[
+    {
+        "id": 134,
+        "name": "heavy-metal",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has double the usual weight for its species.",
+                "short_effect": "Doubles the Pok\u00e9mon's weight."
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "heatproof",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes half as much damage from fire-type moves and burns.",
+                "short_effect": "Halves damage from fire moves and burns."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "levitate",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to ground-type moves, spikes, toxic spikes, and arena trap.\n\nThis ability is disabled during gravity or ingrain, or while holding an iron ball.  This ability is not disabled during roost.",
+                "short_effect": "Evades ground moves."
+            }
+        ]
+    }
+]

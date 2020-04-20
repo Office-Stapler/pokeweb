@@ -1,0 +1,50 @@
+{
+    "ultra-sun-ultra-moon": [
+        [
+            "Protect",
+            0
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Protect",
+            0
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Protect",
+            9
+        ]
+    ],
+    "x-y": [
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Protect",
+            9
+        ]
+    ]
+}

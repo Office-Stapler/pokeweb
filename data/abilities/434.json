@@ -1,0 +1,67 @@
+[
+    {
+        "id": 51,
+        "name": "keen-eye",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its accuracy lowered.\n\nThis ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pok\u00e9mon's evasion from making this Pok\u00e9mon's moves less accurate.  This Pok\u00e9mon can still be passed negative accuracy modifiers through heart swap.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Prevents accuracy from being lowered."
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "aftermath",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is knocked out by a move that makes contact, the move's user takes 1/4 its maximum HP in damage.",
+                "short_effect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "stench",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no effect in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's damaging moves have a 10% chance to make the target flinch with each hit if they do not already cause flinching as a secondary effect.\n\nThis ability does not stack with a held item.\n\nOverworld: The wild encounter rate is halved while this Pok\u00e9mon is first in the party.",
+                "short_effect": "Has a 10% chance of making target Pok\u00e9mon flinch with each hit."
+            }
+        ]
+    }
+]

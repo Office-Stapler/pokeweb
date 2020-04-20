@@ -1,0 +1,24 @@
+[
+    {
+        "id": 150,
+        "name": "imposter",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon transforms into a random opponent upon entering battle.  This effect is identical to the move transform.",
+                "short_effect": "Transforms upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "limber",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be paralyzed.\n\nIf a Pok\u00e9mon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents paralysis."
+            }
+        ]
+    }
+]

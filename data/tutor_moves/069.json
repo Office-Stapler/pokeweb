@@ -1,0 +1,62 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "heartgold-soulsilver": [
+        "snore",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "worry-seed",
+        "sucker-punch",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "snore",
+        "synthesis",
+        "knock-off",
+        "gastro-acid",
+        "sucker-punch",
+        "seed-bomb"
+    ]
+}

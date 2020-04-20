@@ -1,0 +1,38 @@
+{
+    "black-2-white-2": [
+        "snore",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "superpower",
+        "endeavor",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor",
+        "dual-chop"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "outrage",
+        "iron-tail",
+        "superpower",
+        "endeavor",
+        "shock-wave",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor",
+        "dual-chop"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ]
+}

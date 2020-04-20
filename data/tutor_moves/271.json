@@ -1,0 +1,92 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "icy-wind",
+        "giga-drain",
+        "synthesis",
+        "uproar",
+        "knock-off",
+        "hyper-voice",
+        "water-pulse",
+        "seed-bomb",
+        "drain-punch",
+        "zen-headbutt"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "synthesis",
+        "uproar",
+        "dive",
+        "seed-bomb",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "synthesis",
+        "uproar",
+        "dive",
+        "seed-bomb",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "snore",
+        "icy-wind",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "uproar",
+        "hyper-voice",
+        "seed-bomb",
+        "drain-punch",
+        "zen-headbutt"
+    ],
+    "emerald": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ]
+}

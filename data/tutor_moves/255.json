@@ -1,0 +1,90 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "heat-wave",
+        "helping-hand",
+        "bounce",
+        "last-resort"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "heat-wave",
+        "helping-hand",
+        "bounce",
+        "last-resort",
+        "fire-pledge"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "heat-wave",
+        "helping-hand",
+        "bounce",
+        "last-resort",
+        "fire-pledge"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "heat-wave",
+        "helping-hand",
+        "bounce",
+        "last-resort"
+    ],
+    "ultra-sun-ultra-moon": [
+        "fire-pledge"
+    ],
+    "x-y": [
+        "fire-pledge"
+    ],
+    "sun-moon": [
+        "fire-pledge"
+    ],
+    "black-white": [
+        "fire-pledge"
+    ]
+}

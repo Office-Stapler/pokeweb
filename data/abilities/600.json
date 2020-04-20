@@ -1,0 +1,67 @@
+[
+    {
+        "id": 29,
+        "name": "clear-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its stats lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis.  This Pok\u00e9mon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.\n\nThis ability functions identically to white smoke in battle.",
+                "short_effect": "Prevents stats from being lowered by other Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "minus",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Powers up only when paired with plus.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack if any friendly Pok\u00e9mon has plus or minus.\n\nThis bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 when a friendly Pok\u00e9mon has plus or minus."
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "plus",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Powers up only when paired with minus.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack if any friendly Pok\u00e9mon has plus or minus.\n\nThis bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 when a friendly Pok\u00e9mon has plus or minus."
+            }
+        ]
+    }
+]

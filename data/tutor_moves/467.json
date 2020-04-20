@@ -1,0 +1,44 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "iron-tail",
+        "heat-wave",
+        "focus-punch",
+        "helping-hand",
+        "covet",
+        "dual-chop"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "helping-hand",
+        "covet",
+        "dual-chop"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "snore",
+        "mud-slap",
+        "heat-wave",
+        "helping-hand"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "heat-wave",
+        "helping-hand"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "string-shot",
+        "snore",
+        "rollout",
+        "pain-split",
+        "iron-defense",
+        "gravity",
+        "bug-bite"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "explosion",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "defense-curl",
+        "explosion",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "pain-split",
+        "iron-defense",
+        "gravity",
+        "stealth-rock",
+        "bug-bite",
+        "drill-run"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "iron-defense",
+        "gravity",
+        "stealth-rock",
+        "bug-bite",
+        "drill-run"
+    ],
+    "platinum": [
+        "snore",
+        "rollout",
+        "iron-defense"
+    ]
+}

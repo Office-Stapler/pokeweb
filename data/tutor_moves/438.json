@@ -1,0 +1,49 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "snore",
+        "rollout",
+        "uproar",
+        "helping-hand",
+        "role-play",
+        "block",
+        "sucker-punch",
+        "earth-power"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "uproar",
+        "helping-hand",
+        "role-play",
+        "block",
+        "covet",
+        "earth-power",
+        "stealth-rock",
+        "foul-play",
+        "after-you"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "uproar",
+        "helping-hand",
+        "role-play",
+        "block",
+        "covet",
+        "earth-power",
+        "stealth-rock",
+        "foul-play",
+        "after-you"
+    ],
+    "platinum": [
+        "snore",
+        "rollout",
+        "uproar",
+        "helping-hand",
+        "sucker-punch",
+        "earth-power"
+    ]
+}

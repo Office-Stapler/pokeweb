@@ -1,0 +1,24 @@
+[
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "battle-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves cannot score critical hits against this Pok\u00e9mon.\n\nThis ability functions identically to shell armor.",
+                "short_effect": "Protects against critical hits."
+            }
+        ]
+    }
+]

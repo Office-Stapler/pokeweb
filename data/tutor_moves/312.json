@@ -1,0 +1,93 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "metronome",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "thunder-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "defense-curl",
+        "metronome",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "heartgold-soulsilver": [
+        "thunder-punch",
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "uproar",
+        "helping-hand",
+        "signal-beam",
+        "last-resort",
+        "magnet-rise"
+    ],
+    "platinum": [
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "uproar",
+        "helping-hand",
+        "signal-beam",
+        "last-resort",
+        "magnet-rise"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "thunder-punch",
+        "snore",
+        "iron-tail",
+        "uproar",
+        "helping-hand",
+        "signal-beam",
+        "shock-wave",
+        "last-resort",
+        "magnet-rise",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "thunder-punch",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "helping-hand",
+        "signal-beam",
+        "last-resort",
+        "magnet-rise"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "swagger"
+    ]
+}

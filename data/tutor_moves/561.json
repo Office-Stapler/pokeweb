@@ -1,0 +1,34 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "icy-wind",
+        "heat-wave",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "signal-beam",
+        "shock-wave",
+        "gravity",
+        "tailwind",
+        "zen-headbutt",
+        "magic-room"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "heat-wave",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "signal-beam",
+        "roost",
+        "gravity",
+        "tailwind",
+        "dark-pulse",
+        "zen-headbutt",
+        "magic-room"
+    ]
+}

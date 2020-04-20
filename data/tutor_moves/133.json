@@ -1,0 +1,62 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "heal-bell",
+        "helping-hand",
+        "last-resort"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "last-resort"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "covet",
+        "last-resort"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "covet",
+        "last-resort"
+    ]
+}

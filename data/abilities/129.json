@@ -1,0 +1,24 @@
+[
+    {
+        "id": 155,
+        "name": "rattled",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.",
+                "short_effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    }
+]

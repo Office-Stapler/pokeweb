@@ -1,0 +1,49 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "pain-split",
+        "uproar",
+        "trick",
+        "signal-beam",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "uproar",
+        "trick",
+        "signal-beam",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "pain-split",
+        "uproar",
+        "trick",
+        "snatch",
+        "signal-beam",
+        "shock-wave",
+        "foul-play",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "sleep-talk",
+        "pain-split",
+        "uproar",
+        "trick",
+        "snatch",
+        "signal-beam",
+        "dark-pulse",
+        "electroweb"
+    ]
+}

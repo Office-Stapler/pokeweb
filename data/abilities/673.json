@@ -1,0 +1,24 @@
+[
+    {
+        "id": 179,
+        "name": "grass-pelt",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Boosts Defense while grassy terrain is in effect.",
+                "short_effect": "Boosts Defense while grassy terrain is in effect."
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+                "short_effect": "Absorbs grass moves, raising Attack one stage."
+            }
+        ]
+    }
+]

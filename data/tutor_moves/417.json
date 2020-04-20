@@ -1,0 +1,59 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "thunder-punch",
+        "super-fang",
+        "snore",
+        "iron-tail",
+        "uproar",
+        "helping-hand",
+        "covet",
+        "shock-wave",
+        "last-resort",
+        "magnet-rise",
+        "seed-bomb",
+        "gunk-shot",
+        "electroweb"
+    ],
+    "heartgold-soulsilver": [
+        "thunder-punch",
+        "headbutt",
+        "swift",
+        "super-fang",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "uproar",
+        "helping-hand",
+        "last-resort",
+        "magnet-rise",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "platinum": [
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "uproar",
+        "helping-hand",
+        "last-resort",
+        "magnet-rise",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "black-2-white-2": [
+        "thunder-punch",
+        "super-fang",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "helping-hand",
+        "covet",
+        "last-resort",
+        "magnet-rise",
+        "seed-bomb",
+        "gunk-shot"
+    ]
+}

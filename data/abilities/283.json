@@ -1,0 +1,24 @@
+[
+    {
+        "id": 44,
+        "name": "rain-dish",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during rain.",
+                "short_effect": "Heals for 1/16 max HP after each turn during rain."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    }
+]

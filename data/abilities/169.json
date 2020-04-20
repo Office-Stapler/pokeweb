@@ -1,0 +1,24 @@
+[
+    {
+        "id": 151,
+        "name": "infiltrator",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves ignore light screen, reflect, and safeguard.",
+                "short_effect": "Bypasses light screen, reflect, and safeguard."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    }
+]

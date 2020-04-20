@@ -1,0 +1,51 @@
+[
+    {
+        "id": 104,
+        "name": "mold-breaker",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves completely ignore abilities that could hinder or prevent their effect on the target.\n\nFor example, this Pok\u00e9mon's moves ignore abilities that would fully negate them, such as water absorb; abilities that would prevent any of their effects, such as clear body, shell armor, or sticky hold; and abilities that grant any general protective benefit, such as simple, snow cloak, or thick fat.  If an ability could either hinder or help this Pok\u00e9mon's moves, e.g. dry skin or unaware, the ability is ignored either way.\n\nAbilities that do not fit this description, even if they could hinder moves in some other way, are not affected.  For example, cursed body only affects potential future uses of the move, while liquid ooze and shadow tag can only hinder a move's effect on the user.  This ablity cannot ignore type or form changes granted by abilities, for example color change or forecast; nor effects that were caused by abilities but are no longer tied to an ability, such as the rain from drizzle.  This ability cannot ignore multitype at all.\n\nAn ability ignored by this ability is only nullified while the move is being used.  For example, this Pok\u00e9mon's moves can paralyze a Pok\u00e9mon with limber, but Limber will activate and heal the paralysis immediately thereafter, and this Pok\u00e9mon's spikes are not affected by this ability after they have been placed.\n\nWhen this Pok\u00e9mon enters battle, all participating trainers are notified that it has this ability.\n\nThis ability functions identically to teravolt and turboblaze.",
+                "short_effect": "Bypasses targets' abilities if they could hinder or prevent a move."
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "sheer-force",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves with extra effects have 1.3\u00d7 their power, but lose their extra effects.\n\nAn effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.\n\nMoves that lower the user's stats are unaffected.",
+                "short_effect": "Strengthens moves with extra effects to 1.3\u00d7 their power, but prevents their extra effects."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "rough-skin",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Inflicts only 1/16 of the attacker's maximum HP in damage.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.\n\nThis ability functions identically to iron barbs.",
+                "short_effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact."
+            }
+        ]
+    }
+]

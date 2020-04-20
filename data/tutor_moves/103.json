@@ -1,0 +1,76 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "snore",
+        "rollout",
+        "synthesis",
+        "ancient-power",
+        "gravity",
+        "worry-seed",
+        "seed-bomb",
+        "zen-headbutt"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "explosion",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "explosion",
+        "substitute",
+        "snore",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "giga-drain",
+        "synthesis",
+        "skill-swap",
+        "block",
+        "gravity",
+        "worry-seed",
+        "seed-bomb",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "skill-swap",
+        "block",
+        "gravity",
+        "worry-seed",
+        "seed-bomb",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "snore",
+        "rollout",
+        "synthesis",
+        "ancient-power",
+        "seed-bomb",
+        "zen-headbutt"
+    ]
+}

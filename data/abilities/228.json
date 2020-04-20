@@ -1,0 +1,51 @@
+[
+    {
+        "id": 127,
+        "name": "unnerve",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Opposing Pok\u00e9mon cannot eat held Berries while this Pok\u00e9mon is in battle.\n\nAffected Pok\u00e9mon can still use bug bite or pluck to eat a target's Berry.",
+                "short_effect": "Prevents opposing Pok\u00e9mon from eating held Berries."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "flash-fire",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "will o wisp does not trigger this ability for Pok\u00e9mon immune to burns.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to fire-type moves.  Once this Pok\u00e9mon has been hit by a Fire move, its own Fire moves will inflict 1.5\u00d7 as much damage until it leaves battle.\n\nThis ability has no effect while the Pok\u00e9mon is frozen.  The Fire damage bonus is retained even if the Pok\u00e9mon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pok\u00e9mon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.",
+                "short_effect": "Protects against fire moves.  Once one has been blocked, the Pok\u00e9mon's own Fire moves inflict 1.5\u00d7 damage until it leaves battle."
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "early-bird",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's remaining sleep turn count falls by 2 rather than 1.\n\nIf this Pok\u00e9mon's sleep counter is at 1, it will fall to 0 and then the Pok\u00e9mon will wake up.",
+                "short_effect": "Makes sleep pass twice as quickly."
+            }
+        ]
+    }
+]

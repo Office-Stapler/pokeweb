@@ -1,0 +1,20 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "iron-defense",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "platinum": [
+        "iron-defense"
+    ]
+}

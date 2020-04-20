@@ -1,0 +1,82 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "sky-attack",
+        "snore",
+        "twister",
+        "ancient-power",
+        "heat-wave",
+        "air-cutter",
+        "tailwind",
+        "aqua-tail",
+        "earth-power",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "sky-attack",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "flamethrower"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "twister",
+        "ancient-power",
+        "heat-wave",
+        "air-cutter",
+        "aqua-tail",
+        "earth-power",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "roost",
+        "tailwind",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "iron-tail",
+        "heat-wave",
+        "tailwind",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ]
+}

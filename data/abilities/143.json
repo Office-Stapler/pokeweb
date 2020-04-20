@@ -1,0 +1,35 @@
+[
+    {
+        "id": 82,
+        "name": "gluttony",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.",
+                "short_effect": "Makes the Pok\u00e9mon eat any held Berry triggered by low HP below 1/2 its max HP."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "thick-fat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes half as much damage from fire- and ice-type moves.",
+                "short_effect": "Halves damage from fire and ice moves."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "immunity",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be poisoned.  This includes bad poison.\n\nIf a Pok\u00e9mon is poisoned and acquires this ability, its poison is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents poison."
+            }
+        ]
+    }
+]

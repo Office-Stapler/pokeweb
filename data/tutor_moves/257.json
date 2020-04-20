@@ -1,0 +1,132 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "heat-wave",
+        "focus-punch",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "blast-burn",
+        "bounce",
+        "last-resort",
+        "fire-pledge",
+        "dual-chop"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "heat-wave",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "blast-burn",
+        "bounce",
+        "last-resort",
+        "fire-pledge",
+        "dual-chop"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "heat-wave",
+        "helping-hand",
+        "role-play",
+        "superpower",
+        "knock-off",
+        "blast-burn",
+        "bounce",
+        "last-resort",
+        "vacuum-wave"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "heat-wave",
+        "helping-hand",
+        "superpower",
+        "knock-off",
+        "blast-burn",
+        "bounce",
+        "last-resort",
+        "vacuum-wave"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "ultra-sun-ultra-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "sun-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "x-y": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "black-white": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "diamond-pearl": [
+        "blast-burn"
+    ]
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 41,
+        "name": "water-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be burned.\n\nIf a Pok\u00e9mon is burned and acquires this ability, its burn is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents burns."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "water-absorb",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a water-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nWater moves will ignore this Pok\u00e9mon's substitute.",
+                "short_effect": "Absorbs water moves, healing for 1/4 max HP."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    }
+]

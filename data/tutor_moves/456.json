@@ -1,0 +1,43 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "twister",
+        "dive",
+        "air-cutter",
+        "bounce",
+        "tailwind",
+        "aqua-tail",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "twister",
+        "dive",
+        "air-cutter",
+        "bounce",
+        "aqua-tail",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "signal-beam",
+        "bounce",
+        "water-pulse",
+        "tailwind",
+        "aqua-tail"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "signal-beam",
+        "bounce",
+        "tailwind",
+        "aqua-tail"
+    ]
+}

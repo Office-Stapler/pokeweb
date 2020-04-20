@@ -1,0 +1,51 @@
+[
+    {
+        "id": 102,
+        "name": "leaf-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "rest works as usual during strong sunlight.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be given a major status ailment during strong sunlight.\n\nThis ability does not heal prior status ailments.  rest will fail altogether with this ability in effect.  yawn will immediately fail if used on this Pok\u00e9mon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime.",
+                "short_effect": "Protects against major status ailments during strong sunlight."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "poison-point",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being poisoned.",
+                "short_effect": "Has a 30% chance of poisoning attacking Pok\u00e9mon on contact."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "natural-cure",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment when it is switched out for another Pok\u00e9mon.\n\nIf this ability is acquired during battle, the Pok\u00e9mon is cured upon leaving battle before losing the temporary ability.",
+                "short_effect": "Cures any major status ailment upon switching out."
+            }
+        ]
+    }
+]

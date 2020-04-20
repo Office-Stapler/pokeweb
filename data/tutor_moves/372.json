@@ -1,0 +1,88 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "rollout",
+        "fury-cutter",
+        "twister",
+        "iron-defense",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "outrage",
+        "hyper-voice",
+        "iron-defense",
+        "dragon-pulse",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "outrage",
+        "rollout",
+        "fury-cutter",
+        "twister",
+        "iron-defense",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "outrage",
+        "sleep-talk",
+        "hyper-voice",
+        "iron-defense",
+        "dragon-pulse",
+        "zen-headbutt",
+        "draco-meteor"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ]
+}

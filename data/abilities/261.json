@@ -1,0 +1,35 @@
+[
+    {
+        "id": 155,
+        "name": "rattled",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.",
+                "short_effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "quick-feet",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon has a major status ailment, it has 1.5\u00d7 its Speed.  This Pok\u00e9mon is not affected by the usual Speed cut from paralysis.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved.",
+                "short_effect": "Increases Speed to 1.5\u00d7 with a major status ailment."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "run-away",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is always successful fleeing from wild battles, even if trapped by a move or ability.",
+                "short_effect": "Ensures success fleeing from wild battles."
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 187,
+        "name": "fairy-aura",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Strengthens fairy moves for all friendly and opposing Pok\u00e9mon.",
+                "short_effect": "Strengthens fairy moves to 1.33\u00d7 their power for all friendly and opposing Pok\u00e9mon."
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 110,
+        "name": "tinted-lens",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon deals twice as much damage with moves that are not very effective against the target.",
+                "short_effect": "Doubles damage inflicted with not-very-effective moves."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "keen-eye",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its accuracy lowered.\n\nThis ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pok\u00e9mon's evasion from making this Pok\u00e9mon's moves less accurate.  This Pok\u00e9mon can still be passed negative accuracy modifiers through heart swap.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Prevents accuracy from being lowered."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "insomnia",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be asleep.\n\nThis causes rest to fail altogether.  If a Pok\u00e9mon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.\n\nThis ability functions identically to vital spirit in battle.",
+                "short_effect": "Prevents sleep."
+            }
+        ]
+    }
+]

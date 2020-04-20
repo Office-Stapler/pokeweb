@@ -1,0 +1,35 @@
+[
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during strong sunlight.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during strong sunlight."
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "name": "infiltrator",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves ignore light screen, reflect, and safeguard.",
+                "short_effect": "Bypasses light screen, reflect, and safeguard."
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "name": "prankster",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
+                "short_effect": "Raises non-damaging moves' priority by one stage."
+            }
+        ]
+    }
+]

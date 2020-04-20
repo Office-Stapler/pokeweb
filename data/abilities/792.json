@@ -1,0 +1,13 @@
+[
+    {
+        "id": 231,
+        "name": "shadow-shield",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has full HP, regular damage (not fixed damage!) from moves is halved.\n\nThis ability cannot be nullified.",
+                "short_effect": "When this Pok\u00e9mon has full HP, regular damage from moves is halved."
+            }
+        ]
+    }
+]

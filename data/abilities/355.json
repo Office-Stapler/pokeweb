@@ -1,0 +1,24 @@
+[
+    {
+        "id": 119,
+        "name": "frisk",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals an opposing Pok\u00e9mon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pok\u00e9mon will Frisk that Pok\u00e9mon; if both have an item, it will Frisk one at random.",
+                "short_effect": "Reveals an opponent's held item upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "levitate",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to ground-type moves, spikes, toxic spikes, and arena trap.\n\nThis ability is disabled during gravity or ingrain, or while holding an iron ball.  This ability is not disabled during roost.",
+                "short_effect": "Evades ground moves."
+            }
+        ]
+    }
+]

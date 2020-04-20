@@ -1,0 +1,101 @@
+{
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "spite",
+        "sleep-talk",
+        "pain-split",
+        "iron-tail",
+        "magic-coat",
+        "endeavor",
+        "roost",
+        "last-resort",
+        "aqua-tail",
+        "zen-headbutt",
+        "stealth-rock",
+        "drill-run"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "spite",
+        "pain-split",
+        "iron-tail",
+        "magic-coat",
+        "endeavor",
+        "shock-wave",
+        "water-pulse",
+        "last-resort",
+        "aqua-tail",
+        "zen-headbutt",
+        "stealth-rock",
+        "drill-run"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "spite",
+        "mud-slap",
+        "rollout",
+        "pain-split",
+        "ancient-power",
+        "magic-coat",
+        "endeavor",
+        "last-resort",
+        "aqua-tail",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "thunder-wave",
+        "mimic",
+        "defense-curl",
+        "dream-eater",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "crystal": [
+        "flamethrower",
+        "thunderbolt"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "mud-slap",
+        "rollout",
+        "ancient-power",
+        "endeavor",
+        "last-resort",
+        "aqua-tail",
+        "zen-headbutt"
+    ]
+}

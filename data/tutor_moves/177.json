@@ -1,0 +1,88 @@
+{
+    "firered-leafgreen": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "xd": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "sky-attack",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "pain-split",
+        "twister",
+        "heat-wave",
+        "trick",
+        "magic-coat",
+        "air-cutter",
+        "signal-beam",
+        "tailwind",
+        "sucker-punch",
+        "zen-headbutt",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "twister",
+        "heat-wave",
+        "trick",
+        "air-cutter",
+        "signal-beam",
+        "sucker-punch",
+        "zen-headbutt",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "giga-drain",
+        "pain-split",
+        "heat-wave",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "signal-beam",
+        "tailwind",
+        "zen-headbutt",
+        "magic-room"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "heat-wave",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "zen-headbutt",
+        "magic-room"
+    ]
+}

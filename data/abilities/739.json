@@ -1,0 +1,66 @@
+[
+    {
+        "id": 83,
+        "name": "anger-point",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon receives a critical hit, its Attack rises to the maximum of 6 stages.\n\nThis ability will still take effect if the critical hit is received by a substitute.",
+                "short_effect": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "iron-fist",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves flagged as being punch-based have 1.2\u00d7 their base power for this Pok\u00e9mon.\n\nsucker punch is not flagged as punch-based; its original, Japanese name only means \"surprise attack\".",
+                "short_effect": "Strengthens punch-based moves to 1.2\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "hyper-cutter",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Doubles cut's grass-cutting radius on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack cannot be lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pok\u00e9mon can still be passed negative Attack modifiers through heart swap or power swap.",
+                "short_effect": "Prevents Attack from being lowered by other Pok\u00e9mon."
+            }
+        ]
+    }
+]

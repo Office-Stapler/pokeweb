@@ -1,0 +1,112 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "heat-wave",
+        "focus-punch",
+        "blast-burn",
+        "covet",
+        "fire-pledge"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "heat-wave",
+        "blast-burn",
+        "covet",
+        "fire-pledge"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "heat-wave",
+        "blast-burn"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "heat-wave",
+        "blast-burn"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "crystal": [
+        "flamethrower"
+    ],
+    "ultra-sun-ultra-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "sun-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "x-y": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "black-white": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "diamond-pearl": [
+        "blast-burn"
+    ]
+}

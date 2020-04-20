@@ -1,0 +1,83 @@
+[
+    {
+        "id": 92,
+        "name": "skill-link",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "triple kick is unaffected.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon always hits five times with two-to-five-hit moves, such as icicle spear.  It also bypasses the accuracy checks on triple kick's second and third hits.",
+                "short_effect": "Extends two-to-five-hit moves and triple kick to their full length every time."
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "technician",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "struggle is unaffected.  helping hand and defense curl are not taken into account.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have 1.5\u00d7 their power if their base power is 60 or less.\n\nThis includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less.  helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.",
+                "short_effect": "Strengthens moves of 60 base power or less to 1.5\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "cute-charm",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being infatuated.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any wild Pok\u00e9mon whose species can be either gender has a 2/3 chance of being set to the opposite gender, and a 1/3 chance of having a random gender as usual.",
+                "short_effect": "Has a 30% chance of infatuating attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

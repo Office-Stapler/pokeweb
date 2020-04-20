@@ -1,0 +1,57 @@
+{
+    "xd": [
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "mimic",
+        "explosion",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "mimic",
+        "swift",
+        "explosion",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "dive",
+        "iron-defense"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "dive",
+        "iron-defense"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "iron-defense",
+        "water-pulse"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-defense"
+    ]
+}

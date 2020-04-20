@@ -1,0 +1,35 @@
+[
+    {
+        "id": 141,
+        "name": "moody",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "After each turn, one of this Pok\u00e9mon's stats at random rises two stages, and another falls one stage.\n\nIf a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.",
+                "short_effect": "Raises a random stat two stages and lowers another one stage after each turn."
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "ice-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.",
+                "short_effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    }
+]

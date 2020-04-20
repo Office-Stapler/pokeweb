@@ -1,0 +1,35 @@
+[
+    {
+        "id": 183,
+        "name": "gooey",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Lowers attacking Pok\u00e9mon's Speed by one stage on contact.",
+                "short_effect": "Lowers attacking Pok\u00e9mon's Speed by one stage on contact."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "hydration",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+                "short_effect": "Cures any major status ailment after each turn during rain."
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "sap-sipper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
+                "short_effect": "Absorbs grass moves, raising Attack one stage."
+            }
+        ]
+    }
+]

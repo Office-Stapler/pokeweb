@@ -1,0 +1,63 @@
+{
+    "xd": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "signal-beam",
+        "bounce",
+        "shock-wave",
+        "water-pulse"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "heal-bell",
+        "signal-beam",
+        "bounce"
+    ],
+    "heartgold-soulsilver": [
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "dive",
+        "signal-beam",
+        "bounce",
+        "sucker-punch"
+    ],
+    "platinum": [
+        "snore",
+        "icy-wind",
+        "dive",
+        "signal-beam",
+        "bounce",
+        "sucker-punch"
+    ]
+}

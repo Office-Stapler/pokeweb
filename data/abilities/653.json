@@ -1,0 +1,24 @@
+[
+    {
+        "id": 170,
+        "name": "magician",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Steals the target's held item when the bearer uses a damaging move.",
+                "short_effect": "Steals the target's held item when the bearer uses a damaging move."
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "blaze",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its fire-type moves inflict 1.5\u00d7 as much regular damage.",
+                "short_effect": "Strengthens fire moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    }
+]

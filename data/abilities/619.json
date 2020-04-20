@@ -1,0 +1,35 @@
+[
+    {
+        "id": 120,
+        "name": "reckless",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's recoil moves and crash moves have 1.2\u00d7 their base power.\n\nstruggle is unaffected.\n\nThe \"crash moves\" are the moves that damage the user upon missing: jump kick and high jump kick.",
+                "short_effect": "Strengthens recoil moves to 1.2\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "regenerator",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon regains 1/3 of its maximum HP when it is switched out for another Pok\u00e9mon under any circumstances other than having fainted.\n\nThis ability does not take effect when a battle ends.",
+                "short_effect": "Heals for 1/3 max HP upon switching out."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    }
+]

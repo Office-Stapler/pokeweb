@@ -1,0 +1,67 @@
+[
+    {
+        "id": 159,
+        "name": "sand-force",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During a sandstorm, this Pok\u00e9mon's rock-, ground-, and steel-type moves have 1.3\u00d7 their base power.  This Pok\u00e9mon does not take sandstorm damage, regardless of type.",
+                "short_effect": "Strengthens rock, ground, and steel moves to 1.3\u00d7 their power during a sandstorm.  Protects against sandstorm damage."
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "storm-drain",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Redirects water moves without negating them or granting any Special Attack boost.  Does not redirect hidden power.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "All other Pok\u00e9mon's single-target water-type moves are redirected to this Pok\u00e9mon, if it is an eligible target.  Other Pok\u00e9mon's Water moves raise this Pok\u00e9mon's Special Attack one stage, negating any other effect on it, and cannot miss it.\n\nIf the move's intended target also has this ability, the move is not redirected.  When multiple Pok\u00e9mon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pok\u00e9mon.  follow me takes precedence over this ability.",
+                "short_effect": "Redirects single-target water moves to this Pok\u00e9mon where possible.  Absorbs Water moves, raising Special Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "sticky-hold",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's hold item cannot be removed by other Pok\u00e9mon.\n\nDamaging moves that would remove this Pok\u00e9mon's item can still inflict damage against this Pok\u00e9mon, e.g. knock off or pluck.  This Pok\u00e9mon can still use moves that involve the loss of its own item, e.g. fling or trick.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the encounter rate while fishing is increased.",
+                "short_effect": "Prevents a held item from being removed by other Pok\u00e9mon."
+            }
+        ]
+    }
+]

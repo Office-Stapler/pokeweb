@@ -1,0 +1,35 @@
+[
+    {
+        "id": 94,
+        "name": "solar-power",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During strong sunlight, this Pok\u00e9mon has 1.5\u00d7 its Special Attack but takes 1/8 of its maximum HP in damage after each turn.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 but costs 1/8 max HP after each turn during strong sunlight."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "sand-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During a sandstorm, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take sandstorm damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during a sandstorm.  Protects against sandstorm damage."
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "dry-skin",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes 1/8 of its maximum HP in damage after each turn during strong sunlight, but it heals for 1/8 of its HP each turn during rain.  This Pok\u00e9mon takes 1.25\u00d7 as much damage from fire-type moves, but whenever a water move hits it, it heals for 1/4 its maximum HP instead.",
+                "short_effect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25\u00d7, but absorbs water moves, healing for 1/4 max HP."
+            }
+        ]
+    }
+]

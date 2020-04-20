@@ -1,0 +1,24 @@
+[
+    {
+        "id": 84,
+        "name": "unburden",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon uses or loses its held item, its Speed is doubled.  If it gains another item or leaves battle, this bonus is lost.\n\nThis includes when the Pok\u00e9mon drops its item because of knock off.  This bonus does not count as a stat modifier.  There is no notification when this ability takes effect.",
+                "short_effect": "Doubles Speed upon using or losing a held item."
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "name": "sweet-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Prevents friendly Pok\u00e9mon from sleeping.",
+                "short_effect": "Prevents friendly Pok\u00e9mon from sleeping."
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 80,
+        "name": "steadfast",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon flinches, its Speed rises one stage.",
+                "short_effect": "Raises Speed one stage upon flinching."
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "no-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Due to a glitch, moves affected by this ability have a (100 - accuracy)% chance to hit through detect or protect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "platinum",
+                    "url": "https://pokeapi.co/api/v2/version-group/9/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Moves used by or against this Pok\u00e9mon never miss.\n\nOne-hit KO moves are unaffected.  Moves affected by this ability can hit Pok\u00e9mon during the preparation turn of moves like dig or fly.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.",
+                "short_effect": "Ensures all moves used by and against the Pok\u00e9mon hit."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "guts",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect during sleep.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is asleep, burned, paralyzed, or poisoned, it has 1.5\u00d7 its Attack.  This Pok\u00e9mon is not affected by the usual Attack cut from a burn.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Increases Attack to 1.5\u00d7 with a major status ailment."
+            }
+        ]
+    }
+]

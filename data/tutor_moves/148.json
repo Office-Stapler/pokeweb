@@ -1,0 +1,93 @@
+{
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "iron-tail",
+        "shock-wave",
+        "water-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "twister",
+        "aqua-tail",
+        "draco-meteor"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "flamethrower",
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "twister",
+        "aqua-tail",
+        "draco-meteor"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ]
+}

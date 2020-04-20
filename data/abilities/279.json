@@ -1,0 +1,51 @@
+[
+    {
+        "id": 44,
+        "name": "rain-dish",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during rain.",
+                "short_effect": "Heals for 1/16 max HP after each turn during rain."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "drizzle",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "The weather changes to rain when this Pok\u00e9mon enters battle and does not end unless replaced by another weather condition.\n\nIf multiple Pok\u00e9mon with this ability, drought, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pok\u00e9mon will stay.",
+                "short_effect": "Summons rain that lasts indefinitely upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "keen-eye",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its accuracy lowered.\n\nThis ability does not prevent any accuracy losses other than stat modifiers, such as the accuracy cut from fog; nor does it prevent other Pok\u00e9mon's evasion from making this Pok\u00e9mon's moves less accurate.  This Pok\u00e9mon can still be passed negative accuracy modifiers through heart swap.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Prevents accuracy from being lowered."
+            }
+        ]
+    }
+]

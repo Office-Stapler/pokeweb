@@ -1,0 +1,13 @@
+[
+    {
+        "id": 230,
+        "name": "full-metal-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's stats cannot be lowered by other Pok\u00e9mon's moves or abilities.  This effect only applies to normal stat modifications and not more exotic effects such as topsy turvy or power swap.\n\nThis Ability is not bypassed by mold breaker, teravolt, or turboblaze.",
+                "short_effect": "Other Pok\u00e9mon cannot lower this Pok\u00e9mon's stats."
+            }
+        ]
+    }
+]

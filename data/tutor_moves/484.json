@@ -1,0 +1,69 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "ancient-power",
+        "dive",
+        "gravity",
+        "aqua-tail",
+        "earth-power",
+        "draco-meteor"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "ancient-power",
+        "dive",
+        "aqua-tail",
+        "earth-power",
+        "draco-meteor"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "outrage",
+        "focus-punch",
+        "hyper-voice",
+        "shock-wave",
+        "water-pulse",
+        "gravity",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "outrage",
+        "sleep-talk",
+        "hyper-voice",
+        "gravity",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ]
+}

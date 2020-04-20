@@ -1,0 +1,83 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "ancient-power",
+        "uproar",
+        "dive",
+        "signal-beam",
+        "block",
+        "aqua-tail",
+        "iron-head"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "ancient-power",
+        "uproar",
+        "dive",
+        "signal-beam",
+        "aqua-tail",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "uproar",
+        "signal-beam",
+        "block",
+        "shock-wave",
+        "water-pulse",
+        "aqua-tail",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "uproar",
+        "signal-beam",
+        "block",
+        "aqua-tail",
+        "iron-head"
+    ]
+}

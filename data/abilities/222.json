@@ -1,0 +1,51 @@
+[
+    {
+        "id": 144,
+        "name": "regenerator",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon regains 1/3 of its maximum HP when it is switched out for another Pok\u00e9mon under any circumstances other than having fainted.\n\nThis ability does not take effect when a battle ends.",
+                "short_effect": "Heals for 1/3 max HP upon switching out."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "natural-cure",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment when it is switched out for another Pok\u00e9mon.\n\nIf this ability is acquired during battle, the Pok\u00e9mon is cured upon leaving battle before losing the temporary ability.",
+                "short_effect": "Cures any major status ailment upon switching out."
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "hustle",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's physical moves do 1.5\u00d7 as much regular damage, but have 0.8\u00d7 their usual accuracy.\n\nSpecial moves are unaffected.  Moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, higher-levelled Pok\u00e9mon have their encounter rate increased.",
+                "short_effect": "Strengthens physical moves to inflict 1.5\u00d7 damage, but decreases their accuracy to 0.8\u00d7."
+            }
+        ]
+    }
+]

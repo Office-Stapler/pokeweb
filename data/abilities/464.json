@@ -1,0 +1,81 @@
+[
+    {
+        "id": 120,
+        "name": "reckless",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's recoil moves and crash moves have 1.2\u00d7 their base power.\n\nstruggle is unaffected.\n\nThe \"crash moves\" are the moves that damage the user upon missing: jump kick and high jump kick.",
+                "short_effect": "Strengthens recoil moves to 1.2\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "solid-rock",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes 0.75\u00d7 as much damage from moves that are super effective against it.\n\nThis ability functions identically to filter.",
+                "short_effect": "Decreases damage taken from super-effective moves by 1/4."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "lightning-rod",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not affect non-damaging electric moves, i.e. thunder wave.  Increases the frequency of Match Call calls on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Redirects electric moves without negating them or granting any Special Attack boost.  Does not redirect hidden power.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "All other Pok\u00e9mon's single-target electric-type moves are redirected to this Pok\u00e9mon if it is an eligible target.  Other Pok\u00e9mon's Electric moves raise this Pok\u00e9mon's Special Attack one stage, negating any other effect on it, and cannot miss it.\n\nIf the move's intended target also has this ability, the move is not redirected.  When multiple Pok\u00e9mon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pok\u00e9mon.  follow me takes precedence over this ability.\n\nIf the Pok\u00e9mon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost.",
+                "short_effect": "Redirects single-target electric moves to this Pok\u00e9mon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+            }
+        ]
+    }
+]

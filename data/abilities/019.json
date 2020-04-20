@@ -1,0 +1,67 @@
+[
+    {
+        "id": 55,
+        "name": "hustle",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's physical moves do 1.5\u00d7 as much regular damage, but have 0.8\u00d7 their usual accuracy.\n\nSpecial moves are unaffected.  Moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, higher-levelled Pok\u00e9mon have their encounter rate increased.",
+                "short_effect": "Strengthens physical moves to inflict 1.5\u00d7 damage, but decreases their accuracy to 0.8\u00d7."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "guts",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect during sleep.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is asleep, burned, paralyzed, or poisoned, it has 1.5\u00d7 its Attack.  This Pok\u00e9mon is not affected by the usual Attack cut from a burn.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Increases Attack to 1.5\u00d7 with a major status ailment."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "run-away",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is always successful fleeing from wild battles, even if trapped by a move or ability.",
+                "short_effect": "Ensures success fleeing from wild battles."
+            }
+        ]
+    }
+]

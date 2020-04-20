@@ -1,0 +1,93 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "heal-bell",
+        "ancient-power",
+        "dive",
+        "signal-beam",
+        "block",
+        "aqua-tail",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "outrage",
+        "heal-bell",
+        "iron-tail",
+        "hyper-voice",
+        "signal-beam",
+        "block",
+        "shock-wave",
+        "water-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "zen-headbutt",
+        "iron-head",
+        "drill-run"
+    ],
+    "platinum": [
+        "snore",
+        "icy-wind",
+        "outrage",
+        "ancient-power",
+        "dive",
+        "signal-beam",
+        "aqua-tail",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "hyper-voice",
+        "signal-beam",
+        "block",
+        "aqua-tail",
+        "dragon-pulse",
+        "zen-headbutt",
+        "iron-head",
+        "drill-run"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "heal-bell",
+        "helping-hand",
+        "signal-beam",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "helping-hand",
+        "signal-beam",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "water-pulse",
+        "last-resort",
+        "aqua-tail"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "last-resort",
+        "aqua-tail"
+    ]
+}

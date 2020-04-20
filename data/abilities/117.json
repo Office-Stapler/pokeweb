@@ -1,0 +1,35 @@
+[
+    {
+        "id": 6,
+        "name": "damp",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "While this Pok\u00e9mon is in battle, self destruct and explosion will fail and aftermath will not take effect.",
+                "short_effect": "Prevents self destruct, explosion, and aftermath from working while the Pok\u00e9mon is in battle."
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "sniper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon inflicts triple damage with critical hits, rather than the usual double damage.",
+                "short_effect": "Strengthens critical hits to inflict 3\u00d7 damage rather than 2\u00d7."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "poison-point",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being poisoned.",
+                "short_effect": "Has a 30% chance of poisoning attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

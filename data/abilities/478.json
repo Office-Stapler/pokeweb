@@ -1,0 +1,24 @@
+[
+    {
+        "id": 130,
+        "name": "cursed-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves that hit this Pok\u00e9mon have a 30% chance of being Disabled afterward.",
+                "short_effect": "Has a 30% chance of Disabling any move that hits the Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "snow-cloak",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During hail, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take hail damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in snow.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during hail.  Protects against hail damage."
+            }
+        ]
+    }
+]

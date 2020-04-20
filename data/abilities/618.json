@@ -1,0 +1,51 @@
+[
+    {
+        "id": 8,
+        "name": "sand-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During a sandstorm, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take sandstorm damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during a sandstorm.  Protects against sandstorm damage."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "limber",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be paralyzed.\n\nIf a Pok\u00e9mon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents paralysis."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "static",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being paralyzed.\n\nPok\u00e9mon that are immune to electric-type moves can still be paralyzed by this ability.\n\nOverworld: If the lead Pok\u00e9mon has this ability, there is a 50% chance that encounters will be with an electric Pok\u00e9mon, if applicable.",
+                "short_effect": "Has a 30% chance of paralyzing attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

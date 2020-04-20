@@ -1,0 +1,102 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "heat-wave",
+        "air-cutter",
+        "tailwind",
+        "earth-power",
+        "draco-meteor",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "heat-wave",
+        "air-cutter",
+        "earth-power",
+        "draco-meteor",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "outrage",
+        "giga-drain",
+        "uproar",
+        "heat-wave",
+        "superpower",
+        "signal-beam",
+        "tailwind",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "outrage",
+        "giga-drain",
+        "sleep-talk",
+        "heat-wave",
+        "superpower",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "bug-bite"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ]
+}

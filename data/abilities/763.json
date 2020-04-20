@@ -1,0 +1,51 @@
+[
+    {
+        "id": 175,
+        "name": "sweet-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Prevents friendly Pok\u00e9mon from sleeping.",
+                "short_effect": "Prevents friendly Pok\u00e9mon from sleeping."
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "name": "queenly-majesty",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When an opposing Pok\u00e9mon attempts to use a move that targets this Pok\u00e9mon or an ally, and that move has priority, it will fail.",
+                "short_effect": "Opposing Pok\u00e9mon cannot use priority attacks."
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "leaf-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "rest works as usual during strong sunlight.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be given a major status ailment during strong sunlight.\n\nThis ability does not heal prior status ailments.  rest will fail altogether with this ability in effect.  yawn will immediately fail if used on this Pok\u00e9mon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime.",
+                "short_effect": "Protects against major status ailments during strong sunlight."
+            }
+        ]
+    }
+]

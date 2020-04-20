@@ -1,0 +1,86 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "heal-bell",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "signal-beam",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "helping-hand",
+        "trick",
+        "signal-beam",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "last-resort",
+        "zen-headbutt",
+        "magic-room"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "hyper-voice",
+        "signal-beam",
+        "covet",
+        "last-resort",
+        "zen-headbutt",
+        "magic-room"
+    ]
+}

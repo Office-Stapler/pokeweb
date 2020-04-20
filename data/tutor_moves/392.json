@@ -1,0 +1,88 @@
+{
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "blast-burn",
+        "covet",
+        "gunk-shot",
+        "stealth-rock",
+        "fire-pledge",
+        "dual-chop"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "heat-wave",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "blast-burn",
+        "vacuum-wave",
+        "gunk-shot"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "heat-wave",
+        "helping-hand",
+        "endeavor",
+        "blast-burn",
+        "vacuum-wave",
+        "gunk-shot"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "iron-tail",
+        "heat-wave",
+        "focus-punch",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "blast-burn",
+        "covet",
+        "gunk-shot",
+        "stealth-rock",
+        "fire-pledge",
+        "dual-chop"
+    ],
+    "ultra-sun-ultra-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "sun-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "black-white": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "diamond-pearl": [
+        "blast-burn"
+    ],
+    "x-y": [
+        "blast-burn",
+        "fire-pledge"
+    ]
+}

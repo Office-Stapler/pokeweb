@@ -1,0 +1,13 @@
+[
+    {
+        "id": 59,
+        "name": "forecast",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During rain, strong sunlight, or hail, this Pok\u00e9mon's type changes to water, fire, or ice, respectively, and its form changes to match.\n\nThis ability has no effect for any Pok\u00e9mon other than castform.\n\nIf the weather ends or becomes anything that does not trigger this ability, or a Pok\u00e9mon with air lock or cloud nine enters battle, this Pok\u00e9mon's type and form revert to their default.  If this ability is lost or disabled, this Pok\u00e9mon cannot change its current type and form until it regains its ability.",
+                "short_effect": "Changes castform's type and form to match the weather."
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 99,
+        "name": "no-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Due to a glitch, moves affected by this ability have a (100 - accuracy)% chance to hit through detect or protect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "platinum",
+                    "url": "https://pokeapi.co/api/v2/version-group/9/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Moves used by or against this Pok\u00e9mon never miss.\n\nOne-hit KO moves are unaffected.  Moves affected by this ability can hit Pok\u00e9mon during the preparation turn of moves like dig or fly.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.",
+                "short_effect": "Ensures all moves used by and against the Pok\u00e9mon hit."
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "klutz",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "fling can be used as usual.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "In battle, this Pok\u00e9mon cannot use its held item, nor will the item have any passive effect on the battle, positive or negative.  This Pok\u00e9mon also cannot use fling.\n\nThe Speed cut from the iron ball and the effort items (the macho brace, power weight, power bracer, power belt, power lens, power band, and power anklet) is unaffected.  Items that do not directly affect the battle, such as the exp share, the amulet coin, or the soothe bell, work as usual.  All held items work as usual out of battle.\n\nOther moves that use the held item, such as natural gift and switcheroo, work as usual.",
+                "short_effect": "Prevents the Pok\u00e9mon from using its held item in battle."
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "iron-fist",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves flagged as being punch-based have 1.2\u00d7 their base power for this Pok\u00e9mon.\n\nsucker punch is not flagged as punch-based; its original, Japanese name only means \"surprise attack\".",
+                "short_effect": "Strengthens punch-based moves to 1.2\u00d7 their power."
+            }
+        ]
+    }
+]

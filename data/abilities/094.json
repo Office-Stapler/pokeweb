@@ -1,0 +1,13 @@
+[
+    {
+        "id": 130,
+        "name": "cursed-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Moves that hit this Pok\u00e9mon have a 30% chance of being Disabled afterward.",
+                "short_effect": "Has a 30% chance of Disabling any move that hits the Pok\u00e9mon."
+            }
+        ]
+    }
+]

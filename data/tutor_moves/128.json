@@ -1,0 +1,85 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "uproar",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "flamethrower",
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "iron-tail",
+        "uproar",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "shock-wave",
+        "water-pulse",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "uproar",
+        "helping-hand",
+        "endeavor",
+        "zen-headbutt",
+        "iron-head"
+    ]
+}

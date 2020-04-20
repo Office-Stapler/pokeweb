@@ -1,0 +1,121 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "iron-tail",
+        "uproar",
+        "hyper-voice",
+        "shock-wave",
+        "water-pulse",
+        "tailwind",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "iron-head",
+        "dragon-ascent"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "hyper-voice",
+        "tailwind",
+        "aqua-tail",
+        "dragon-pulse",
+        "earth-power",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "ancient-power",
+        "uproar",
+        "dive",
+        "tailwind",
+        "aqua-tail",
+        "earth-power",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "twister",
+        "ancient-power",
+        "uproar",
+        "dive",
+        "aqua-tail",
+        "earth-power",
+        "draco-meteor",
+        "iron-head"
+    ],
+    "sun-moon": [
+        "draco-meteor",
+        "dragon-ascent"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor",
+        "dragon-ascent"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ],
+    "diamond-pearl": [
+        "draco-meteor"
+    ]
+}

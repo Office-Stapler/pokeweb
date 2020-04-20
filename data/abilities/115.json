@@ -1,0 +1,35 @@
+[
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "scrappy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon ignores ghost-type Pok\u00e9mon's immunity to normal- and fighting-type moves.\n\nGhost Pok\u00e9mon's other types affect damage as usual.",
+                "short_effect": "Lets the Pok\u00e9mon's normal and fighting moves hit ghost Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "early-bird",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's remaining sleep turn count falls by 2 rather than 1.\n\nIf this Pok\u00e9mon's sleep counter is at 1, it will fall to 0 and then the Pok\u00e9mon will wake up.",
+                "short_effect": "Makes sleep pass twice as quickly."
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "trick",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "iron-defense",
+        "block",
+        "gravity",
+        "zen-headbutt",
+        "iron-head",
+        "stealth-rock",
+        "wonder-room"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "trick",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "iron-defense",
+        "block",
+        "gravity",
+        "zen-headbutt",
+        "iron-head",
+        "stealth-rock",
+        "wonder-room"
+    ],
+    "heartgold-soulsilver": [
+        "snore",
+        "rollout",
+        "ancient-power",
+        "trick",
+        "signal-beam",
+        "block",
+        "gravity",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "platinum": [
+        "snore",
+        "rollout",
+        "ancient-power",
+        "trick",
+        "signal-beam",
+        "zen-headbutt",
+        "iron-head"
+    ]
+}

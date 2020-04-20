@@ -1,0 +1,35 @@
+[
+    {
+        "id": 77,
+        "name": "tangled-feet",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is confused, it has twice its evasion.",
+                "short_effect": "Doubles evasion when confused."
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "early-bird",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's remaining sleep turn count falls by 2 rather than 1.\n\nIf this Pok\u00e9mon's sleep counter is at 1, it will fall to 0 and then the Pok\u00e9mon will wake up.",
+                "short_effect": "Makes sleep pass twice as quickly."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "run-away",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is always successful fleeing from wild battles, even if trapped by a move or ability.",
+                "short_effect": "Ensures success fleeing from wild battles."
+            }
+        ]
+    }
+]

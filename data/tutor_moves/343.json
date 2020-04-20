@@ -1,0 +1,82 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "trick",
+        "magic-coat",
+        "signal-beam",
+        "gravity",
+        "earth-power",
+        "zen-headbutt"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "explosion",
+        "rock-slide",
+        "substitute"
+    ],
+    "xd": [
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "dream-eater",
+        "substitute",
+        "swagger"
+    ],
+    "emerald": [
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "explosion",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "gravity",
+        "earth-power",
+        "zen-headbutt",
+        "stealth-rock",
+        "wonder-room",
+        "drill-run"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "trick",
+        "signal-beam",
+        "earth-power",
+        "zen-headbutt"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "gravity",
+        "earth-power",
+        "zen-headbutt",
+        "stealth-rock",
+        "wonder-room",
+        "drill-run"
+    ]
+}

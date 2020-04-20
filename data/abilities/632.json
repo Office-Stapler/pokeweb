@@ -1,0 +1,82 @@
+[
+    {
+        "id": 54,
+        "name": "truant",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Every second turn on which this Pok\u00e9mon should attempt to use a move, it will instead do nothing (\"loaf around\").\n\nLoafing around interrupts moves that take multiple turns the same way paralysis, flinching, etc do.  Most such moves, for example bide or rollout, are simply cut off upon loafing around.  Attacks with a recharge turn, such as hyper beam, do not have to recharge; attacks with a preparation turn, such as fly, do not end up being used.  Moves that are forced over multiple turns and keep going through failure, such as outrage, uproar, or any move forced by encore, keep going as usual.\n\nIf this Pok\u00e9mon is confused, its confusion is not checked when loafing around; the Pok\u00e9mon cannot hurt itself, and its confusion does not end or come closer to ending.\n\nIf this Pok\u00e9mon attempts to move but fails, e.g. because of paralysis or gravity, it still counts as having moved and will loaf around the next turn.  If it does not attempt to move, e.g. because it is asleep or frozen, whatever it would have done will be postponed until its next attempt; that is, it will either loaf around or move as usual, depending on what it last did.\n\nThis ability cannot be changed with worry seed, but it can be disabled with gastro acid, changed with role play, or traded away with skill swap.",
+                "short_effect": "Skips every second turn."
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "hustle",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's physical moves do 1.5\u00d7 as much regular damage, but have 0.8\u00d7 their usual accuracy.\n\nSpecial moves are unaffected.  Moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, higher-levelled Pok\u00e9mon have their encounter rate increased.",
+                "short_effect": "Strengthens physical moves to inflict 1.5\u00d7 damage, but decreases their accuracy to 0.8\u00d7."
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "swarm",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Increases the frequency of cries heard on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon has 1/3 or less of its HP remaining, its bug-type moves inflict 1.5\u00d7 as much regular damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is increased.",
+                "short_effect": "Strengthens bug moves to inflict 1.5\u00d7 damage at 1/3 max HP or less."
+            }
+        ]
+    }
+]

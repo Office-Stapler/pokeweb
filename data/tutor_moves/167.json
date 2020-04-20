@@ -1,0 +1,55 @@
+{
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "heartgold-soulsilver": [
+        "string-shot",
+        "signal-beam",
+        "bounce",
+        "sucker-punch",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "signal-beam",
+        "bounce",
+        "bug-bite",
+        "foul-play",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "giga-drain",
+        "sleep-talk",
+        "signal-beam",
+        "bounce",
+        "bug-bite",
+        "foul-play",
+        "electroweb"
+    ],
+    "platinum": [
+        "signal-beam",
+        "bounce",
+        "sucker-punch"
+    ]
+}

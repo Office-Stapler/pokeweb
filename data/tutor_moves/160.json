@@ -1,0 +1,133 @@
+{
+    "emerald": [
+        "mega-punch",
+        "ice-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "platinum": [
+        "ice-punch",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "ancient-power",
+        "uproar",
+        "superpower",
+        "dive",
+        "hydro-cannon",
+        "aqua-tail"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "low-kick",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "fury-cutter",
+        "ancient-power",
+        "uproar",
+        "superpower",
+        "dive",
+        "hydro-cannon",
+        "aqua-tail"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "superpower",
+        "hydro-cannon",
+        "block",
+        "aqua-tail",
+        "dragon-pulse",
+        "water-pledge"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "spite",
+        "icy-wind",
+        "outrage",
+        "iron-tail",
+        "uproar",
+        "focus-punch",
+        "superpower",
+        "hydro-cannon",
+        "block",
+        "water-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "water-pledge"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "crystal": [
+        "ice-beam"
+    ],
+    "diamond-pearl": [
+        "hydro-cannon"
+    ],
+    "black-white": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "x-y": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "sun-moon": [
+        "hydro-cannon",
+        "water-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "hydro-cannon",
+        "water-pledge"
+    ]
+}

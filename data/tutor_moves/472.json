@@ -1,0 +1,48 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "sky-attack",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "knock-off",
+        "tailwind",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "knock-off",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "iron-tail",
+        "knock-off",
+        "tailwind",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "knock-off",
+        "roost",
+        "tailwind",
+        "dark-pulse",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock",
+        "bug-bite"
+    ]
+}

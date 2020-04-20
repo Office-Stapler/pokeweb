@@ -1,0 +1,13 @@
+[
+    {
+        "id": 225,
+        "name": "rks-system",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Changes this Pok\u00e9mon's type to match its held Memory.\n\nThis ability cannot be copied, replaced, or nullified.  This ability only takes effect for Silvally.",
+                "short_effect": "Changes this Pok\u00e9mon's type to match its held Memory."
+            }
+        ]
+    }
+]

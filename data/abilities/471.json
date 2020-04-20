@@ -1,0 +1,24 @@
+[
+    {
+        "id": 115,
+        "name": "ice-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.",
+                "short_effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "snow-cloak",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During hail, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take hail damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in snow.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during hail.  Protects against hail damage."
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": 122,
+        "name": "flower-gift",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Friendly Pok\u00e9mon have 1.5\u00d7 their Attack and Special Defense during strong sunlight if any friendly Pok\u00e9mon has this ability.\n\nUnlike forecast, multitype, and zen mode, this ability is not tied to its Pok\u00e9mon's form change; cherrim will switch between its forms even if it loses this ability.  As such, this ability also works if obtained by a Pok\u00e9mon other than Cherrim.",
+                "short_effect": "Increases friendly Pok\u00e9mon's Attack and Special Defense to 1.5\u00d7 during strong sunlight."
+            }
+        ]
+    }
+]

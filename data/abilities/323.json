@@ -1,0 +1,51 @@
+[
+    {
+        "id": 83,
+        "name": "anger-point",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon receives a critical hit, its Attack rises to the maximum of 6 stages.\n\nThis ability will still take effect if the critical hit is received by a substitute.",
+                "short_effect": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "solid-rock",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes 0.75\u00d7 as much damage from moves that are super effective against it.\n\nThis ability functions identically to filter.",
+                "short_effect": "Decreases damage taken from super-effective moves by 1/4."
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "magma-armor",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be frozen.\n\nIf a Pok\u00e9mon is frozen and acquires this ability, it will immediately thaw out; this includes when regaining a lost ability upon leaving battle.\n\nOverworld: If any Pok\u00e9mon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly.  This effect does not stack if multiple Pok\u00e9mon have this ability or flame body.",
+                "short_effect": "Prevents freezing."
+            }
+        ]
+    }
+]

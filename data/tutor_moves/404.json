@@ -1,0 +1,34 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "signal-beam",
+        "magnet-rise"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "signal-beam",
+        "magnet-rise"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "iron-tail",
+        "helping-hand",
+        "signal-beam",
+        "shock-wave",
+        "magnet-rise"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "signal-beam",
+        "magnet-rise"
+    ]
+}

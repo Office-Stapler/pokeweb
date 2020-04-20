@@ -1,0 +1,24 @@
+[
+    {
+        "id": 13,
+        "name": "cloud-nine",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "While this Pok\u00e9mon is in battle, weather can still be in play, but will not have any of its effects.\n\nThis ability functions identically to air lock.",
+                "short_effect": "Negates all effects of weather, but does not prevent the weather itself."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "natural-cure",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment when it is switched out for another Pok\u00e9mon.\n\nIf this ability is acquired during battle, the Pok\u00e9mon is cured upon leaving battle before losing the temporary ability.",
+                "short_effect": "Cures any major status ailment upon switching out."
+            }
+        ]
+    }
+]

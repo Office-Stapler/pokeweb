@@ -1,0 +1,79 @@
+{
+    "firered-leafgreen": [
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "swift",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "twister",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "sucker-punch",
+        "vacuum-wave"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "covet"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "helping-hand",
+        "role-play",
+        "endeavor",
+        "covet",
+        "drill-run"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "twister",
+        "helping-hand",
+        "endeavor",
+        "sucker-punch",
+        "vacuum-wave"
+    ]
+}

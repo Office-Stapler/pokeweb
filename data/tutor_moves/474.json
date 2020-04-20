@@ -1,0 +1,63 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "pain-split",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "signal-beam",
+        "gravity",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "uproar",
+        "trick",
+        "signal-beam",
+        "last-resort",
+        "zen-headbutt"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "pain-split",
+        "iron-tail",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "shock-wave",
+        "gravity",
+        "last-resort",
+        "magnet-rise",
+        "zen-headbutt",
+        "foul-play",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "iron-tail",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "signal-beam",
+        "gravity",
+        "last-resort",
+        "magnet-rise",
+        "dark-pulse",
+        "zen-headbutt",
+        "wonder-room",
+        "foul-play",
+        "electroweb"
+    ]
+}

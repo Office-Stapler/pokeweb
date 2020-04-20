@@ -1,0 +1,43 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap",
+        "twister",
+        "air-cutter",
+        "signal-beam",
+        "tailwind",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "twister",
+        "air-cutter",
+        "signal-beam",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "skill-swap",
+        "signal-beam",
+        "tailwind",
+        "bug-bite",
+        "electroweb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "skill-swap",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "bug-bite",
+        "electroweb"
+    ]
+}

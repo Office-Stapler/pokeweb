@@ -1,0 +1,35 @@
+[
+    {
+        "id": 124,
+        "name": "pickpocket",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, if it does not have a held item, it steals the attacker's held item.\n\nThis Pok\u00e9mon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pok\u00e9mon is wild, it cannot steal from a trained Pok\u00e9mon.",
+                "short_effect": "Steals attacking Pok\u00e9mon's held items on contact."
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "sniper",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon inflicts triple damage with critical hits, rather than the usual double damage.",
+                "short_effect": "Strengthens critical hits to inflict 3\u00d7 damage rather than 2\u00d7."
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "name": "tough-claws",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Strengthens moves that make contact to 1.33\u00d7 their power.",
+                "short_effect": "Strengthens moves that make contact to 1.33\u00d7 their power."
+            }
+        ]
+    }
+]

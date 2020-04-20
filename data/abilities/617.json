@@ -1,0 +1,51 @@
+[
+    {
+        "id": 84,
+        "name": "unburden",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon uses or loses its held item, its Speed is doubled.  If it gains another item or leaves battle, this bonus is lost.\n\nThis includes when the Pok\u00e9mon drops its item because of knock off.  This bonus does not count as a stat modifier.  There is no notification when this ability takes effect.",
+                "short_effect": "Doubles Speed upon using or losing a held item."
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "sticky-hold",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's hold item cannot be removed by other Pok\u00e9mon.\n\nDamaging moves that would remove this Pok\u00e9mon's item can still inflict damage against this Pok\u00e9mon, e.g. knock off or pluck.  This Pok\u00e9mon can still use moves that involve the loss of its own item, e.g. fling or trick.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the encounter rate while fishing is increased.",
+                "short_effect": "Prevents a held item from being removed by other Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "hydration",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+                "short_effect": "Cures any major status ailment after each turn during rain."
+            }
+        ]
+    }
+]

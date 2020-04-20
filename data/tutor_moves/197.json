@@ -1,0 +1,80 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "heal-bell",
+        "helping-hand",
+        "last-resort",
+        "sucker-punch"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "helping-hand",
+        "last-resort",
+        "sucker-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "snatch",
+        "hyper-voice",
+        "covet",
+        "last-resort",
+        "wonder-room",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "helping-hand",
+        "snatch",
+        "hyper-voice",
+        "covet",
+        "last-resort",
+        "dark-pulse",
+        "wonder-room",
+        "foul-play"
+    ]
+}

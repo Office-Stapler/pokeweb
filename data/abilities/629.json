@@ -1,0 +1,35 @@
+[
+    {
+        "id": 133,
+        "name": "weak-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
+                "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "name": "overcoat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not take damage from weather.",
+                "short_effect": "Protects against damage from weather."
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "big-pecks",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Defense cannot be lowered by other Pok\u00e9mon.\n\nThis Pok\u00e9mon can still be passed negative Defense modifiers through heart swap or guard swap.",
+                "short_effect": "Protects against Defense drops."
+            }
+        ]
+    }
+]

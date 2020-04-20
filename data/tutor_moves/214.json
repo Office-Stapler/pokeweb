@@ -1,0 +1,72 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "low-kick",
+        "snore",
+        "fury-cutter",
+        "helping-hand",
+        "knock-off",
+        "iron-defense",
+        "vacuum-wave",
+        "bug-bite"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "low-kick",
+        "snore",
+        "focus-punch",
+        "helping-hand",
+        "knock-off",
+        "iron-defense",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "helping-hand",
+        "knock-off",
+        "iron-defense",
+        "bug-bite"
+    ],
+    "platinum": [
+        "snore",
+        "fury-cutter",
+        "helping-hand",
+        "knock-off",
+        "iron-defense",
+        "vacuum-wave"
+    ]
+}

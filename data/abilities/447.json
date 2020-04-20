@@ -1,0 +1,35 @@
+[
+    {
+        "id": 158,
+        "name": "prankster",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
+                "short_effect": "Raises non-damaging moves' priority by one stage."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "steadfast",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon flinches, its Speed rises one stage.",
+                "short_effect": "Raises Speed one stage upon flinching."
+            }
+        ]
+    }
+]

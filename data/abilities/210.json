@@ -1,0 +1,66 @@
+[
+    {
+        "id": 155,
+        "name": "rattled",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.",
+                "short_effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "quick-feet",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon has a major status ailment, it has 1.5\u00d7 its Speed.  This Pok\u00e9mon is not affected by the usual Speed cut from paralysis.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved.",
+                "short_effect": "Increases Speed to 1.5\u00d7 with a major status ailment."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "intimidate",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect if acquired after entering battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, the opponent's Attack is lowered by one stage.  In a double battle, both opponents are affected.\n\nThis ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle.\n\nThis ability has no effect on an opponent that has a substitute.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+                "short_effect": "Lowers opponents' Attack one stage upon entering battle."
+            }
+        ]
+    }
+]

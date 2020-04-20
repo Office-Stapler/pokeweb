@@ -1,0 +1,94 @@
+{
+    "xd": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "sky-attack",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "crystal": [
+        "flamethrower",
+        "thunderbolt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "twister",
+        "ancient-power",
+        "heat-wave",
+        "air-cutter",
+        "signal-beam",
+        "earth-power",
+        "zen-headbutt",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "sky-attack",
+        "snore",
+        "mud-slap",
+        "twister",
+        "ancient-power",
+        "heat-wave",
+        "air-cutter",
+        "signal-beam",
+        "tailwind",
+        "earth-power",
+        "zen-headbutt",
+        "iron-head",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "heat-wave",
+        "hyper-voice",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "earth-power",
+        "zen-headbutt",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "giga-drain",
+        "heat-wave",
+        "hyper-voice",
+        "signal-beam",
+        "shock-wave",
+        "tailwind",
+        "earth-power",
+        "zen-headbutt",
+        "iron-head"
+    ]
+}

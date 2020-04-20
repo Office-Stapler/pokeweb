@@ -1,0 +1,82 @@
+[
+    {
+        "id": 125,
+        "name": "sheer-force",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves with extra effects have 1.3\u00d7 their power, but lose their extra effects.\n\nAn effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.\n\nMoves that lower the user's stats are unaffected.",
+                "short_effect": "Strengthens moves with extra effects to 1.3\u00d7 their power, but prevents their extra effects."
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "arena-trap",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "While this Pok\u00e9mon is in battle, opposing Pok\u00e9mon cannot flee or switch out.  flying-type Pok\u00e9mon and Pok\u00e9mon in the air, e.g. due to levitate or magnet rise, are unaffected.\n\nPok\u00e9mon with run away can still flee.  Pok\u00e9mon can still switch out with the use of a move or item.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.",
+                "short_effect": "Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pok\u00e9mon in the air."
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "hyper-cutter",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Doubles cut's grass-cutting radius on the overworld if any party Pok\u00e9mon has this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack cannot be lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pok\u00e9mon can still be passed negative Attack modifiers through heart swap or power swap.",
+                "short_effect": "Prevents Attack from being lowered by other Pok\u00e9mon."
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 86,
+        "name": "simple",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Each stage of this Pok\u00e9mon's stat modifiers acts as two stages.  These doubled stages are still limited to a minimum of -6 and a maximum of 6.\n\nThis Pok\u00e9mon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling.",
+                "short_effect": "Doubles the Pok\u00e9mon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "klutz",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "fling can be used as usual.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "In battle, this Pok\u00e9mon cannot use its held item, nor will the item have any passive effect on the battle, positive or negative.  This Pok\u00e9mon also cannot use fling.\n\nThe Speed cut from the iron ball and the effort items (the macho brace, power weight, power bracer, power belt, power lens, power band, and power anklet) is unaffected.  Items that do not directly affect the battle, such as the exp share, the amulet coin, or the soothe bell, work as usual.  All held items work as usual out of battle.\n\nOther moves that use the held item, such as natural gift and switcheroo, work as usual.",
+                "short_effect": "Prevents the Pok\u00e9mon from using its held item in battle."
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "unaware",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon ignores other Pok\u00e9mon's stat modifiers for the purposes of damage and accuracy calculation.\n\nEffectively, this affects modifiers of every stat except Speed.\n\nThe power of punishment and stored power is calculated as usual.  When this Pok\u00e9mon hurts itself in confusion, its stat modifiers affect damage as usual.",
+                "short_effect": "Ignores other Pok\u00e9mon's stat modifiers for damage and accuracy calculation."
+            }
+        ]
+    }
+]

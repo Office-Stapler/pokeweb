@@ -1,0 +1,49 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "outrage",
+        "iron-tail",
+        "heat-wave",
+        "superpower",
+        "snatch",
+        "shock-wave",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor",
+        "gunk-shot",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "outrage",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "superpower",
+        "snatch",
+        "dark-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "draco-meteor",
+        "gunk-shot",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "ultra-sun-ultra-moon": [
+        "draco-meteor"
+    ],
+    "sun-moon": [
+        "draco-meteor"
+    ],
+    "x-y": [
+        "draco-meteor"
+    ],
+    "black-white": [
+        "draco-meteor"
+    ]
+}

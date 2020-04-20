@@ -1,0 +1,51 @@
+[
+    {
+        "id": 41,
+        "name": "water-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be burned.\n\nIf a Pok\u00e9mon is burned and acquires this ability, its burn is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents burns."
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "storm-drain",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Redirects water moves without negating them or granting any Special Attack boost.  Does not redirect hidden power.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "All other Pok\u00e9mon's single-target water-type moves are redirected to this Pok\u00e9mon, if it is an eligible target.  Other Pok\u00e9mon's Water moves raise this Pok\u00e9mon's Special Attack one stage, negating any other effect on it, and cannot miss it.\n\nIf the move's intended target also has this ability, the move is not redirected.  When multiple Pok\u00e9mon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pok\u00e9mon.  follow me takes precedence over this ability.",
+                "short_effect": "Redirects single-target water moves to this Pok\u00e9mon where possible.  Absorbs Water moves, raising Special Attack one stage."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "swift-swim",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during rain.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during rain."
+            }
+        ]
+    }
+]

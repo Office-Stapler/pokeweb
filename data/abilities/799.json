@@ -1,0 +1,13 @@
+[
+    {
+        "id": 224,
+        "name": "beast-boost",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Raises this Pok\u00e9mon's highest stat by one stage when it faints another Pok\u00e9mon.",
+                "short_effect": "Raises this Pok\u00e9mon's highest stat by one stage when it faints another Pok\u00e9mon."
+            }
+        ]
+    }
+]

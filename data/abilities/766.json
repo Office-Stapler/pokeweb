@@ -1,0 +1,24 @@
+[
+    {
+        "id": 128,
+        "name": "defiant",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When any of this Pok\u00e9mon's stats are lowered, its Attack rises by two stages.\n\nIf multiple stats are lowered at once, this ability takes effect with each stat lowered.",
+                "short_effect": "Raises Attack two stages upon having any stat lowered."
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "name": "receiver",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When an ally faints, this Pok\u00e9mon gains its Ability.",
+                "short_effect": "When an ally faints, this Pok\u00e9mon gains its Ability."
+            }
+        ]
+    }
+]

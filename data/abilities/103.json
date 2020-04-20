@@ -1,0 +1,24 @@
+[
+    {
+        "id": 139,
+        "name": "harvest",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "After each turn, if the last item this Pok\u00e9mon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.",
+                "short_effect": "Has a 50% chance of restoring a used Berry after each turn if the Pok\u00e9mon has held no items in the meantime."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "chlorophyll",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Speed is doubled during strong sunlight.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Doubles Speed during strong sunlight."
+            }
+        ]
+    }
+]

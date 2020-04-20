@@ -1,0 +1,64 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "rollout",
+        "magic-coat",
+        "signal-beam",
+        "sucker-punch",
+        "magnet-rise"
+    ],
+    "crystal": [
+        "thunderbolt"
+    ],
+    "xd": [
+        "thunder-wave",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "thunder-wave",
+        "mimic",
+        "explosion",
+        "substitute"
+    ],
+    "emerald": [
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "explosion",
+        "substitute",
+        "snore",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "rollout",
+        "signal-beam",
+        "sucker-punch",
+        "magnet-rise"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "magic-coat",
+        "signal-beam",
+        "shock-wave",
+        "magnet-rise",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "magic-coat",
+        "signal-beam",
+        "magnet-rise",
+        "foul-play"
+    ]
+}

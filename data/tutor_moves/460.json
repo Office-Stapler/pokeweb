@@ -1,0 +1,53 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "focus-punch",
+        "role-play",
+        "block",
+        "water-pulse",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "snore",
+        "icy-wind",
+        "outrage",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "role-play",
+        "block",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "synthesis",
+        "role-play",
+        "block",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "ice-punch",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "outrage",
+        "synthesis",
+        "seed-bomb"
+    ]
+}

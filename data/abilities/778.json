@@ -1,0 +1,13 @@
+[
+    {
+        "id": 209,
+        "name": "disguise",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "If this Pok\u00e9mon is in its Disguised Form and takes damage from a move, it switches to its Busted Form and the damage is prevented.  Other effects are not prevented.\n\nThis ability cannot be copied or replaced.  This ability only takes effect for Mimikyu.",
+                "short_effect": "Prevents the first instance of battle damage."
+            }
+        ]
+    }
+]

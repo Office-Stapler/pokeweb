@@ -1,0 +1,56 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "heal-bell",
+        "synthesis",
+        "helping-hand",
+        "knock-off",
+        "last-resort",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "synthesis",
+        "helping-hand",
+        "knock-off",
+        "last-resort",
+        "seed-bomb"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "heal-bell",
+        "iron-tail",
+        "synthesis",
+        "helping-hand",
+        "knock-off",
+        "hyper-voice",
+        "covet",
+        "last-resort",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "heal-bell",
+        "iron-tail",
+        "synthesis",
+        "helping-hand",
+        "knock-off",
+        "hyper-voice",
+        "covet",
+        "last-resort",
+        "worry-seed",
+        "seed-bomb"
+    ]
+}

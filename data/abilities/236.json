@@ -1,0 +1,67 @@
+[
+    {
+        "id": 72,
+        "name": "vital-spirit",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be asleep.\n\nThis causes rest to fail altogether.  If a Pok\u00e9mon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.\n\nThis ability functions identically to insomnia in battle.\n\nOverworld: If the lead Pok\u00e9mon has this ability, higher-levelled Pok\u00e9mon have their encounter rate increased.",
+                "short_effect": "Prevents sleep."
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "steadfast",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon flinches, its Speed rises one stage.",
+                "short_effect": "Raises Speed one stage upon flinching."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "guts",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect during sleep.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is asleep, burned, paralyzed, or poisoned, it has 1.5\u00d7 its Attack.  This Pok\u00e9mon is not affected by the usual Attack cut from a burn.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Increases Attack to 1.5\u00d7 with a major status ailment."
+            }
+        ]
+    }
+]

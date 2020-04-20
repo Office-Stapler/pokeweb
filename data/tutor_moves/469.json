@@ -1,0 +1,44 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "uproar",
+        "air-cutter",
+        "signal-beam",
+        "tailwind",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "ancient-power",
+        "uproar",
+        "air-cutter",
+        "signal-beam",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "giga-drain",
+        "uproar",
+        "signal-beam",
+        "tailwind",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "uproar",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "bug-bite"
+    ]
+}

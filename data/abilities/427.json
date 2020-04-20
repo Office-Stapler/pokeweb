@@ -1,0 +1,51 @@
+[
+    {
+        "id": 7,
+        "name": "limber",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be paralyzed.\n\nIf a Pok\u00e9mon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents paralysis."
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "klutz",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "fling can be used as usual.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "In battle, this Pok\u00e9mon cannot use its held item, nor will the item have any passive effect on the battle, positive or negative.  This Pok\u00e9mon also cannot use fling.\n\nThe Speed cut from the iron ball and the effort items (the macho brace, power weight, power bracer, power belt, power lens, power band, and power anklet) is unaffected.  Items that do not directly affect the battle, such as the exp share, the amulet coin, or the soothe bell, work as usual.  All held items work as usual out of battle.\n\nOther moves that use the held item, such as natural gift and switcheroo, work as usual.",
+                "short_effect": "Prevents the Pok\u00e9mon from using its held item in battle."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "run-away",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is always successful fleeing from wild battles, even if trapped by a move or ability.",
+                "short_effect": "Ensures success fleeing from wild battles."
+            }
+        ]
+    }
+]

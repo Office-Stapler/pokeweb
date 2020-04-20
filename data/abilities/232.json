@@ -1,0 +1,40 @@
+[
+    {
+        "id": 8,
+        "name": "sand-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During a sandstorm, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take sandstorm damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during a sandstorm.  Protects against sandstorm damage."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "sturdy",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not prevent regular KOs from full HP.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon is at full HP, any hit that would knock it out will instead leave it with 1 HP.  Regardless of its current HP, it is also immune to the one-hit KO moves: fissure, guillotine, horn drill, and sheer cold.\n\nIf this Pok\u00e9mon is holding a focus sash, this ability takes precedence and the item will not be consumed.",
+                "short_effect": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+            }
+        ]
+    }
+]

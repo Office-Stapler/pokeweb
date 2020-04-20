@@ -1,0 +1,40 @@
+[
+    {
+        "id": 113,
+        "name": "scrappy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon ignores ghost-type Pok\u00e9mon's immunity to normal- and fighting-type moves.\n\nGhost Pok\u00e9mon's other types affect damage as usual.",
+                "short_effect": "Lets the Pok\u00e9mon's normal and fighting moves hit ghost Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "guts",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not take effect during sleep.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is asleep, burned, paralyzed, or poisoned, it has 1.5\u00d7 its Attack.  This Pok\u00e9mon is not affected by the usual Attack cut from a burn.\n\nThis bonus does not count as a stat modifier.",
+                "short_effect": "Increases Attack to 1.5\u00d7 with a major status ailment."
+            }
+        ]
+    }
+]

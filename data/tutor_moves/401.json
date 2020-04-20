@@ -1,0 +1,28 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "snore",
+        "mud-slap",
+        "uproar",
+        "endeavor",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "uproar",
+        "endeavor",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "uproar",
+        "endeavor",
+        "bug-bite"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "uproar",
+        "endeavor"
+    ]
+}

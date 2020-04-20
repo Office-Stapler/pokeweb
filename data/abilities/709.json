@@ -1,0 +1,35 @@
+[
+    {
+        "id": 139,
+        "name": "harvest",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "After each turn, if the last item this Pok\u00e9mon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.",
+                "short_effect": "Has a 50% chance of restoring a used Berry after each turn if the Pok\u00e9mon has held no items in the meantime."
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "frisk",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it reveals an opposing Pok\u00e9mon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pok\u00e9mon will Frisk that Pok\u00e9mon; if both have an item, it will Frisk one at random.",
+                "short_effect": "Reveals an opponent's held item upon entering battle."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "natural-cure",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment when it is switched out for another Pok\u00e9mon.\n\nIf this ability is acquired during battle, the Pok\u00e9mon is cured upon leaving battle before losing the temporary ability.",
+                "short_effect": "Cures any major status ailment upon switching out."
+            }
+        ]
+    }
+]

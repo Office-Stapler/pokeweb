@@ -1,0 +1,35 @@
+[
+    {
+        "id": 84,
+        "name": "unburden",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon uses or loses its held item, its Speed is doubled.  If it gains another item or leaves battle, this bonus is lost.\n\nThis includes when the Pok\u00e9mon drops its item because of knock off.  This bonus does not count as a stat modifier.  There is no notification when this ability takes effect.",
+                "short_effect": "Doubles Speed upon using or losing a held item."
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "reckless",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's recoil moves and crash moves have 1.2\u00d7 their base power.\n\nstruggle is unaffected.\n\nThe \"crash moves\" are the moves that damage the user upon missing: jump kick and high jump kick.",
+                "short_effect": "Strengthens recoil moves to 1.2\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "limber",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be paralyzed.\n\nIf a Pok\u00e9mon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents paralysis."
+            }
+        ]
+    }
+]

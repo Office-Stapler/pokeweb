@@ -1,0 +1,35 @@
+[
+    {
+        "id": 12,
+        "name": "oblivious",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be infatuated and is immune to captivate.\n\nIf a Pok\u00e9mon is infatuated and acquires this ability, its infatuation is cleared.",
+                "short_effect": "Prevents infatuation and protects against captivate."
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "ice-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.",
+                "short_effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "thick-fat",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes half as much damage from fire- and ice-type moves.",
+                "short_effect": "Halves damage from fire and ice moves."
+            }
+        ]
+    }
+]

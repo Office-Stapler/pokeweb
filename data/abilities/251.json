@@ -1,0 +1,13 @@
+[
+    {
+        "id": 30,
+        "name": "natural-cure",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is cured of any major status ailment when it is switched out for another Pok\u00e9mon.\n\nIf this ability is acquired during battle, the Pok\u00e9mon is cured upon leaving battle before losing the temporary ability.",
+                "short_effect": "Cures any major status ailment upon switching out."
+            }
+        ]
+    }
+]

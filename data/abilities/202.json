@@ -1,0 +1,40 @@
+[
+    {
+        "id": 140,
+        "name": "telepathy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not take damage from friendly Pok\u00e9mon's moves, including single-target moves aimed at it.",
+                "short_effect": "Protects against friendly Pok\u00e9mon's damaging moves."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "shadow-tag",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Affects other Pok\u00e9mon with this ability.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "While this Pok\u00e9mon is in battle, opposing Pok\u00e9mon cannot flee or switch out.\n\nOther Pok\u00e9mon with this ability are unaffected.  Pok\u00e9mon with run away can still flee.  Pok\u00e9mon can still switch out with the use of a move or item.",
+                "short_effect": "Prevents opponents from fleeing or switching out."
+            }
+        ]
+    }
+]

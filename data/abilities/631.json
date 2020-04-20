@@ -1,0 +1,67 @@
+[
+    {
+        "id": 73,
+        "name": "white-smoke",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its stats lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis; nor self-inflicted stat drops, such as the Special Attack drop from overheat; nor opponent-triggered stat boosts, such as the Attack boost from swagger.  This Pok\u00e9mon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.\n\nThis ability functions identically to clear body in battle.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved.",
+                "short_effect": "Prevents stats from being lowered by other Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "flash-fire",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "will o wisp does not trigger this ability for Pok\u00e9mon immune to burns.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to fire-type moves.  Once this Pok\u00e9mon has been hit by a Fire move, its own Fire moves will inflict 1.5\u00d7 as much damage until it leaves battle.\n\nThis ability has no effect while the Pok\u00e9mon is frozen.  The Fire damage bonus is retained even if the Pok\u00e9mon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pok\u00e9mon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.",
+                "short_effect": "Protects against fire moves.  Once one has been blocked, the Pok\u00e9mon's own Fire moves inflict 1.5\u00d7 damage until it leaves battle."
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "gluttony",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold.",
+                "short_effect": "Makes the Pok\u00e9mon eat any held Berry triggered by low HP below 1/2 its max HP."
+            }
+        ]
+    }
+]

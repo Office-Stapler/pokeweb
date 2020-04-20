@@ -1,0 +1,59 @@
+{
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "heal-bell",
+        "ancient-power",
+        "uproar",
+        "helping-hand",
+        "knock-off",
+        "dive",
+        "signal-beam",
+        "bounce",
+        "last-resort"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "ancient-power",
+        "uproar",
+        "helping-hand",
+        "knock-off",
+        "dive",
+        "signal-beam",
+        "bounce",
+        "last-resort"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "heal-bell",
+        "uproar",
+        "helping-hand",
+        "knock-off",
+        "skill-swap",
+        "signal-beam",
+        "bounce",
+        "covet",
+        "water-pulse",
+        "last-resort"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "heal-bell",
+        "uproar",
+        "helping-hand",
+        "knock-off",
+        "skill-swap",
+        "signal-beam",
+        "bounce",
+        "covet",
+        "last-resort"
+    ]
+}

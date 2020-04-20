@@ -1,0 +1,102 @@
+{
+    "emerald": [
+        "mega-punch",
+        "fire-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "metronome",
+        "explosion",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "metronome",
+        "explosion",
+        "rock-slide",
+        "substitute"
+    ],
+    "platinum": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "sucker-punch",
+        "earth-power",
+        "iron-head"
+    ],
+    "heartgold-soulsilver": [
+        "fire-punch",
+        "thunder-punch",
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "block",
+        "sucker-punch",
+        "earth-power",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "sleep-talk",
+        "superpower",
+        "iron-defense",
+        "block",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "snore",
+        "focus-punch",
+        "superpower",
+        "iron-defense",
+        "block",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "crystal": [
+        "flamethrower"
+    ]
+}

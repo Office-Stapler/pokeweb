@@ -1,0 +1,75 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "pain-split",
+        "synthesis",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "pain-split",
+        "synthesis",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power",
+        "stealth-rock"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "heartgold-soulsilver": [
+        "string-shot",
+        "snore",
+        "mud-slap",
+        "pain-split",
+        "synthesis",
+        "ancient-power",
+        "gastro-acid",
+        "worry-seed",
+        "seed-bomb",
+        "earth-power"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "synthesis",
+        "ancient-power",
+        "gastro-acid",
+        "seed-bomb",
+        "earth-power"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "spite",
+        "icy-wind",
+        "heal-bell",
+        "pain-split",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "icy-wind",
+        "uproar",
+        "trick",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "heal-bell",
+        "pain-split",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "snatch",
+        "hyper-voice",
+        "shock-wave",
+        "wonder-room",
+        "magic-room",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "heal-bell",
+        "pain-split",
+        "uproar",
+        "trick",
+        "magic-coat",
+        "skill-swap",
+        "snatch",
+        "hyper-voice",
+        "dark-pulse",
+        "wonder-room",
+        "magic-room",
+        "foul-play"
+    ]
+}

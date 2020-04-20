@@ -1,0 +1,67 @@
+[
+    {
+        "id": 101,
+        "name": "technician",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "struggle is unaffected.  helping hand and defense curl are not taken into account.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have 1.5\u00d7 their power if their base power is 60 or less.\n\nThis includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less.  helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.",
+                "short_effect": "Strengthens moves of 60 base power or less to 1.5\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "filter",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon takes 0.75\u00d7 as much damage from moves that are super effective against it.\n\nThis ability functions identically to solid rock.",
+                "short_effect": "Decreases damage taken from super-effective moves by 1/4."
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "soundproof",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Prevents heal bell from curing the Pok\u00e9mon, whether or not it is in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to moves flagged as being sound-based.\n\nheal bell is unaffected.  uproar still prevents this Pok\u00e9mon from sleeping.  This Pok\u00e9mon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.\n\nhowl, roar of time, sonic boom, and yawn are not flagged as sound-based.",
+                "short_effect": "Protects against sound-based moves."
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "defense-curl",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "water-pulse",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock",
+        "water-pledge"
+    ],
+    "heartgold-soulsilver": [
+        "ice-punch",
+        "headbutt",
+        "low-kick",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "superpower",
+        "endeavor",
+        "dive",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "platinum": [
+        "ice-punch",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "rollout",
+        "ancient-power",
+        "superpower",
+        "endeavor",
+        "dive",
+        "aqua-tail",
+        "earth-power"
+    ],
+    "black-2-white-2": [
+        "ice-punch",
+        "low-kick",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "superpower",
+        "endeavor",
+        "aqua-tail",
+        "earth-power",
+        "stealth-rock",
+        "water-pledge"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "ultra-sun-ultra-moon": [
+        "water-pledge"
+    ],
+    "sun-moon": [
+        "water-pledge"
+    ],
+    "x-y": [
+        "water-pledge"
+    ],
+    "black-white": [
+        "water-pledge"
+    ]
+}

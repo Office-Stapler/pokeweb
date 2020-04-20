@@ -1,0 +1,39 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "uproar",
+        "knock-off",
+        "endeavor",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "heal-bell",
+        "uproar",
+        "knock-off",
+        "endeavor",
+        "hyper-voice",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "heal-bell",
+        "uproar",
+        "knock-off",
+        "endeavor",
+        "hyper-voice",
+        "bug-bite"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "uproar",
+        "knock-off",
+        "endeavor"
+    ]
+}

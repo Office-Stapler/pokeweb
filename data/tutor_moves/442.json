@@ -1,0 +1,47 @@
+{
+    "heartgold-soulsilver": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "uproar",
+        "trick",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "uproar",
+        "trick",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "pain-split",
+        "uproar",
+        "trick",
+        "snatch",
+        "shock-wave",
+        "water-pulse",
+        "wonder-room",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "uproar",
+        "trick",
+        "snatch",
+        "dark-pulse",
+        "wonder-room",
+        "foul-play"
+    ]
+}

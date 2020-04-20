@@ -1,0 +1,101 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "frenzy-plant"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "outrage",
+        "giga-drain",
+        "synthesis",
+        "knock-off",
+        "block",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "outrage",
+        "giga-drain",
+        "sleep-talk",
+        "synthesis",
+        "knock-off",
+        "block",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "string-shot",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "synthesis",
+        "knock-off",
+        "block",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "synthesis",
+        "knock-off",
+        "frenzy-plant",
+        "seed-bomb"
+    ],
+    "ultra-sun-ultra-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "x-y": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "sun-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "black-white": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "diamond-pearl": [
+        "frenzy-plant"
+    ]
+}

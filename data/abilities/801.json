@@ -1,0 +1,13 @@
+[
+    {
+        "id": 220,
+        "name": "soul-heart",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Special Attack rises by one stage every time any Pok\u00e9mon faints.",
+                "short_effect": "This Pok\u00e9mon's Special Attack rises by one stage every time any Pok\u00e9mon faints."
+            }
+        ]
+    }
+]

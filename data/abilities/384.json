@@ -1,0 +1,13 @@
+[
+    {
+        "id": 76,
+        "name": "air-lock",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "While this Pok\u00e9mon is in battle, weather can still be in play, but will not have any of its effects.\n\nThis ability functions identically to cloud nine.",
+                "short_effect": "Negates all effects of weather, but does not prevent the weather itself."
+            }
+        ]
+    }
+]

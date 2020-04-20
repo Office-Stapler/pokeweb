@@ -1,0 +1,67 @@
+[
+    {
+        "id": 101,
+        "name": "technician",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "struggle is unaffected.  helping hand and defense curl are not taken into account.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have 1.5\u00d7 their power if their base power is 60 or less.\n\nThis includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less.  helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.",
+                "short_effect": "Strengthens moves of 60 base power or less to 1.5\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "poison-heal",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Poison still damages the Pok\u00e9mon outside of battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "If this Pok\u00e9mon is poisoned, it will heal for 1/8 of its maximum HP after each turn rather than taking damage.  This includes bad poison.",
+                "short_effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "effect-spore",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being paralyzed, poisoned, or put to sleep, chosen at random.\n\nNothing is done to compensate if the move's user is immune to one of these ailments; there is simply a lower chance that the move's user will be affected.",
+                "short_effect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

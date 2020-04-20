@@ -1,0 +1,51 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "block",
+        "earth-power",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "block",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "fury-cutter",
+        "ancient-power",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "earth-power",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "superpower",
+        "knock-off",
+        "endeavor",
+        "block",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "knock-off",
+        "aqua-tail",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "iron-tail",
+        "knock-off",
+        "aqua-tail",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "knock-off",
+        "dark-pulse",
+        "aqua-tail",
+        "bug-bite"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "knock-off",
+        "aqua-tail"
+    ]
+}

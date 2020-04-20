@@ -1,0 +1,73 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "iron-tail",
+        "magic-coat",
+        "water-pulse",
+        "aqua-tail",
+        "dragon-pulse",
+        "iron-head"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "magic-coat",
+        "aqua-tail",
+        "dragon-pulse",
+        "iron-head"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "twister",
+        "magic-coat",
+        "dive",
+        "aqua-tail",
+        "iron-head"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "twister",
+        "dive",
+        "aqua-tail",
+        "iron-head"
+    ]
+}

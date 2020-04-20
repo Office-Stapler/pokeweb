@@ -1,0 +1,83 @@
+{
+    "firered-leafgreen": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "swords-dance",
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "twister",
+        "uproar",
+        "heat-wave",
+        "knock-off",
+        "air-cutter",
+        "last-resort",
+        "ominous-wind"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "twister",
+        "uproar",
+        "heat-wave",
+        "knock-off",
+        "air-cutter",
+        "last-resort",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "iron-tail",
+        "uproar",
+        "heat-wave",
+        "helping-hand",
+        "knock-off",
+        "covet",
+        "tailwind",
+        "last-resort"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "heat-wave",
+        "helping-hand",
+        "knock-off",
+        "covet",
+        "roost",
+        "tailwind",
+        "last-resort"
+    ]
+}

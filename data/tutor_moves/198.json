@@ -1,0 +1,84 @@
+{
+    "firered-leafgreen": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "xd": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "sky-attack",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "twister",
+        "uproar",
+        "heat-wave",
+        "air-cutter",
+        "tailwind",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "twister",
+        "uproar",
+        "heat-wave",
+        "air-cutter",
+        "sucker-punch",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "sky-attack",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "uproar",
+        "heat-wave",
+        "snatch",
+        "roost",
+        "tailwind",
+        "dark-pulse",
+        "foul-play"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "sky-attack",
+        "snore",
+        "spite",
+        "icy-wind",
+        "uproar",
+        "heat-wave",
+        "snatch",
+        "tailwind",
+        "foul-play"
+    ]
+}

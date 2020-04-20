@@ -1,0 +1,97 @@
+[
+    {
+        "id": 98,
+        "name": "magic-guard",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Paralysis cannot prevent the Pok\u00e9mon from moving, though the Speed cut is unaffected.  Poison still damages the Pok\u00e9mon outside of battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to damage not directly caused by a move.\n\nFor example, this Pok\u00e9mon takes no damage from from weather, recoil, status ailments, or spikes, but it still suffers from the Attack cut when burned, and a life orb will still power up this Pok\u00e9mon's moves without damaging it.  Anything that directly depends on such damage will also not happen; for example, leech seed will neither hurt this Pok\u00e9mon nor heal the opponent, and Pok\u00e9mon with a jaboca berry or rowap berry will not consume the berry when hit by this Pok\u00e9mon.\n\nThe following are unaffected: struggle, pain split (whether used by or against this Pok\u00e9mon), belly drum, substitute, curse, moves that knock the user out, and damage from confusion.\n\nThis Pok\u00e9mon will neither lose nor regain HP if it drains HP from a Pok\u00e9mon with liquid ooze.\n\nIf this Pok\u00e9mon is badly poisoned, the poison counter is still increased each turn; if the Pok\u00e9mon loses this ability, it will begin taking as much damage as it would be if it had been taking increasing damage each turn.",
+                "short_effect": "Protects against damage not directly caused by a move."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "inner-focus",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot flinch.",
+                "short_effect": "Prevents flinching."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "synchronize",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Cannot influence the natures of Pok\u00e9mon encountered by interacting with them on the overworld.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            },
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Passes back bad poison as regular poison.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever this Pok\u00e9mon is burned, paralyzed, or poisoned, the Pok\u00e9mon who gave this Pok\u00e9mon that ailment is also given the ailment.\n\nThis ability passes back bad poison when this Pok\u00e9mon is badly poisoned.  This ability cannot pass on a status ailment that the Pok\u00e9mon did not directly receive from another Pok\u00e9mon, such as the poison from toxic spikes or the burn from a flame orb.\n\nOverworld: If the lead Pok\u00e9mon has this ability, wild Pok\u00e9mon have a 50% chance of having the lead Pok\u00e9mon's nature, and a 50% chance of being given a random nature as usual, including the lead Pok\u00e9mon's nature.  This does not work on Pok\u00e9mon received outside of battle or roaming legendaries.",
+                "short_effect": "Copies burns, paralysis, and poison received onto the Pok\u00e9mon that inflicted them."
+            }
+        ]
+    }
+]

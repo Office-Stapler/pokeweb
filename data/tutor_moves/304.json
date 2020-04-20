@@ -1,0 +1,91 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "spite",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "ancient-power",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "iron-defense",
+        "magnet-rise",
+        "earth-power",
+        "iron-head"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "iron-tail",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "iron-defense",
+        "shock-wave",
+        "water-pulse",
+        "magnet-rise",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "iron-defense",
+        "magnet-rise",
+        "earth-power",
+        "iron-head",
+        "stealth-rock"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "mud-slap",
+        "rollout",
+        "fury-cutter",
+        "ancient-power",
+        "uproar",
+        "superpower",
+        "endeavor",
+        "iron-defense",
+        "magnet-rise",
+        "earth-power",
+        "iron-head"
+    ]
+}

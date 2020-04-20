@@ -1,0 +1,47 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive",
+        "signal-beam"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "signal-beam",
+        "covet",
+        "water-pulse",
+        "stealth-rock",
+        "water-pledge"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "signal-beam",
+        "covet",
+        "stealth-rock",
+        "water-pledge"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "dive",
+        "signal-beam"
+    ],
+    "ultra-sun-ultra-moon": [
+        "water-pledge"
+    ],
+    "sun-moon": [
+        "water-pledge"
+    ],
+    "x-y": [
+        "water-pledge"
+    ],
+    "black-white": [
+        "water-pledge"
+    ]
+}

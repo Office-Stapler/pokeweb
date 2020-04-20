@@ -1,0 +1,35 @@
+[
+    {
+        "id": 133,
+        "name": "weak-armor",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
+                "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "snow-cloak",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During hail, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take hail damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in snow.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during hail.  Protects against hail damage."
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "ice-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.",
+                "short_effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+            }
+        ]
+    }
+]

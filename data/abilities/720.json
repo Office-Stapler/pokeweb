@@ -1,0 +1,13 @@
+[
+    {
+        "id": 170,
+        "name": "magician",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Steals the target's held item when the bearer uses a damaging move.",
+                "short_effect": "Steals the target's held item when the bearer uses a damaging move."
+            }
+        ]
+    }
+]

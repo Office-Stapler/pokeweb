@@ -1,0 +1,56 @@
+[
+    {
+        "id": 57,
+        "name": "plus",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Powers up only when paired with minus.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack if any friendly Pok\u00e9mon has plus or minus.\n\nThis bonus does not count as a stat modifier.  If either ability is disabled by gastro acid, both lose their effect.",
+                "short_effect": "Increases Special Attack to 1.5\u00d7 when a friendly Pok\u00e9mon has plus or minus."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "static",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Has no overworld effect.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "emerald",
+                    "url": "https://pokeapi.co/api/v2/version-group/6/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being paralyzed.\n\nPok\u00e9mon that are immune to electric-type moves can still be paralyzed by this ability.\n\nOverworld: If the lead Pok\u00e9mon has this ability, there is a 50% chance that encounters will be with an electric Pok\u00e9mon, if applicable.",
+                "short_effect": "Has a 30% chance of paralyzing attacking Pok\u00e9mon on contact."
+            }
+        ]
+    }
+]

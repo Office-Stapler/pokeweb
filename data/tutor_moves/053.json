@@ -1,0 +1,97 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "uproar",
+        "knock-off",
+        "last-resort",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "crystal": [
+        "thunderbolt"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "icy-wind",
+        "uproar",
+        "knock-off",
+        "last-resort",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "iron-tail",
+        "uproar",
+        "knock-off",
+        "snatch",
+        "hyper-voice",
+        "covet",
+        "shock-wave",
+        "water-pulse",
+        "last-resort",
+        "seed-bomb",
+        "gunk-shot",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "knock-off",
+        "snatch",
+        "hyper-voice",
+        "covet",
+        "last-resort",
+        "dark-pulse",
+        "seed-bomb",
+        "gunk-shot",
+        "foul-play"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "swift",
+        "super-fang",
+        "snore",
+        "spite",
+        "mud-slap",
+        "uproar",
+        "heat-wave",
+        "role-play",
+        "sucker-punch"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "counter",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "flamethrower"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "spite",
+        "mud-slap",
+        "uproar",
+        "heat-wave",
+        "sucker-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "spite",
+        "iron-tail",
+        "uproar",
+        "heat-wave",
+        "role-play",
+        "snatch",
+        "hyper-voice",
+        "foul-play"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "spite",
+        "sleep-talk",
+        "iron-tail",
+        "uproar",
+        "heat-wave",
+        "role-play",
+        "snatch",
+        "hyper-voice",
+        "dark-pulse",
+        "foul-play"
+    ]
+}

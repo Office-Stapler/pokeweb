@@ -1,0 +1,35 @@
+[
+    {
+        "id": 158,
+        "name": "prankster",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
+                "short_effect": "Raises non-damaging moves' priority by one stage."
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "tinted-lens",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon deals twice as much damage with moves that are not very effective against the target.",
+                "short_effect": "Doubles damage inflicted with not-very-effective moves."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "oblivious",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be infatuated and is immune to captivate.\n\nIf a Pok\u00e9mon is infatuated and acquires this ability, its infatuation is cleared.",
+                "short_effect": "Prevents infatuation and protects against captivate."
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 20,
+        "name": "own-tempo",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be confused.\n\nIf a Pok\u00e9mon is confused and acquires this ability, its confusion will immediately be healed.",
+                "short_effect": "Prevents confusion."
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "simple",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Each stage of this Pok\u00e9mon's stat modifiers acts as two stages.  These doubled stages are still limited to a minimum of -6 and a maximum of 6.\n\nThis Pok\u00e9mon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling.",
+                "short_effect": "Doubles the Pok\u00e9mon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "oblivious",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be infatuated and is immune to captivate.\n\nIf a Pok\u00e9mon is infatuated and acquires this ability, its infatuation is cleared.",
+                "short_effect": "Prevents infatuation and protects against captivate."
+            }
+        ]
+    }
+]

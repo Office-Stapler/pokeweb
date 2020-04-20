@@ -1,0 +1,43 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "knock-off",
+        "snatch",
+        "gastro-acid",
+        "worry-seed",
+        "aqua-tail",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "knock-off",
+        "snatch",
+        "gastro-acid",
+        "worry-seed",
+        "aqua-tail",
+        "seed-bomb",
+        "grass-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "grass-pledge"
+    ],
+    "sun-moon": [
+        "grass-pledge"
+    ],
+    "x-y": [
+        "grass-pledge"
+    ],
+    "black-white": [
+        "grass-pledge"
+    ]
+}

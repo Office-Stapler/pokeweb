@@ -1,0 +1,24 @@
+[
+    {
+        "id": 140,
+        "name": "telepathy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not take damage from friendly Pok\u00e9mon's moves, including single-target moves aimed at it.",
+                "short_effect": "Protects against friendly Pok\u00e9mon's damaging moves."
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "pure-power",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's Attack is doubled in battle.\n\nThis bonus does not count as a stat modifier.\n\nThis ability functions identically to huge power.",
+                "short_effect": "Doubles Attack in battle."
+            }
+        ]
+    }
+]

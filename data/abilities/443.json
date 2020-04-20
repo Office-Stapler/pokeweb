@@ -1,0 +1,40 @@
+[
+    {
+        "id": 24,
+        "name": "rough-skin",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Inflicts only 1/16 of the attacker's maximum HP in damage.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.\n\nThis ability functions identically to iron barbs.",
+                "short_effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "sand-veil",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "During a sandstorm, this Pok\u00e9mon has 1.25\u00d7 its evasion, and it does not take sandstorm damage regardless of type.\n\nThe evasion bonus does not count as a stat modifier.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved in a sandstorm.",
+                "short_effect": "Increases evasion to 1.25\u00d7 during a sandstorm.  Protects against sandstorm damage."
+            }
+        ]
+    }
+]

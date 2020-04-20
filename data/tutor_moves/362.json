@@ -1,0 +1,72 @@
+{
+    "heartgold-soulsilver": [
+        "headbutt",
+        "super-fang",
+        "snore",
+        "spite",
+        "icy-wind",
+        "rollout",
+        "signal-beam",
+        "block",
+        "iron-head"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "explosion",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "explosion",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "black-2-white-2": [
+        "super-fang",
+        "snore",
+        "spite",
+        "icy-wind",
+        "sleep-talk",
+        "signal-beam",
+        "block",
+        "dark-pulse",
+        "iron-head"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "super-fang",
+        "snore",
+        "spite",
+        "icy-wind",
+        "signal-beam",
+        "block",
+        "water-pulse",
+        "iron-head"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "icy-wind",
+        "rollout",
+        "signal-beam",
+        "iron-head"
+    ]
+}

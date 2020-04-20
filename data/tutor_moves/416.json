@@ -1,0 +1,41 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "endeavor",
+        "air-cutter",
+        "signal-beam",
+        "tailwind",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "fury-cutter",
+        "endeavor",
+        "air-cutter",
+        "signal-beam",
+        "ominous-wind"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "endeavor",
+        "signal-beam",
+        "roost",
+        "tailwind",
+        "bug-bite"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "endeavor",
+        "signal-beam",
+        "tailwind",
+        "bug-bite"
+    ]
+}

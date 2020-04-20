@@ -1,0 +1,51 @@
+[
+    {
+        "id": 127,
+        "name": "unnerve",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Opposing Pok\u00e9mon cannot eat held Berries while this Pok\u00e9mon is in battle.\n\nAffected Pok\u00e9mon can still use bug bite or pluck to eat a target's Berry.",
+                "short_effect": "Prevents opposing Pok\u00e9mon from eating held Berries."
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "technician",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "struggle is unaffected.  helping hand and defense curl are not taken into account.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon's moves have 1.5\u00d7 their power if their base power is 60 or less.\n\nThis includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less.  helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout.",
+                "short_effect": "Strengthens moves of 60 base power or less to 1.5\u00d7 their power."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "limber",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot be paralyzed.\n\nIf a Pok\u00e9mon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.",
+                "short_effect": "Prevents paralysis."
+            }
+        ]
+    }
+]

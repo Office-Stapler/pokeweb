@@ -1,0 +1,13 @@
+[
+    {
+        "id": 186,
+        "name": "dark-aura",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Strengthens dark moves for all friendly and opposing Pok\u00e9mon.",
+                "short_effect": "Strengthens dark moves to 1.33\u00d7 their power for all friendly and opposing Pok\u00e9mon."
+            }
+        ]
+    }
+]

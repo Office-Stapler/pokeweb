@@ -1,0 +1,24 @@
+[
+    {
+        "id": 140,
+        "name": "telepathy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon does not take damage from friendly Pok\u00e9mon's moves, including single-target moves aimed at it.",
+                "short_effect": "Protects against friendly Pok\u00e9mon's damaging moves."
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "name": "psychic-surge",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "When this Pok\u00e9mon enters battle, it changes the terrain to psychic terrain.",
+                "short_effect": "When this Pok\u00e9mon enters battle, it changes the terrain to Psychic Terrain."
+            }
+        ]
+    }
+]

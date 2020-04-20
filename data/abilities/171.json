@@ -1,0 +1,51 @@
+[
+    {
+        "id": 11,
+        "name": "water-absorb",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Whenever a water-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nWater moves will ignore this Pok\u00e9mon's substitute.",
+                "short_effect": "Absorbs water moves, healing for 1/4 max HP."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "illuminate",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.\n\nThis ability has no effect in battle.",
+                "short_effect": "Doubles the wild encounter rate."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "volt-absorb",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Does not absorb non-damaging electric moves, i.e. thunder wave.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "diamond-pearl",
+                    "url": "https://pokeapi.co/api/v2/version-group/8/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "Whenever an electric-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nThis ability will not take effect if this Pok\u00e9mon is ground-type and thus immune to Electric moves.  Electric moves will ignore this Pok\u00e9mon's substitute.\n\nThis effect includes non-damaging moves, i.e. thunder wave.",
+                "short_effect": "Absorbs electric moves, healing for 1/4 max HP."
+            }
+        ]
+    }
+]

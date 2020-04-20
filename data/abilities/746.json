@@ -1,0 +1,13 @@
+[
+    {
+        "id": 208,
+        "name": "schooling",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "If this Pok\u00e9mon is a wishiwashi and level 20 or above, then when it enters battle and at the start of each turn, it becomes Schooling Form if its HP is 25% or higher and Solo Form otherwise.\n\nThis ability cannot be replaced, copied, or nullified.",
+                "short_effect": "Wishiwashi becomes Schooling Form when its HP is 25% or higher."
+            }
+        ]
+    }
+]

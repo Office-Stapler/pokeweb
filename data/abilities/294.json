@@ -1,0 +1,40 @@
+[
+    {
+        "id": 113,
+        "name": "scrappy",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon ignores ghost-type Pok\u00e9mon's immunity to normal- and fighting-type moves.\n\nGhost Pok\u00e9mon's other types affect damage as usual.",
+                "short_effect": "Lets the Pok\u00e9mon's normal and fighting moves hit ghost Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "soundproof",
+        "effect_changes": [
+            {
+                "effect_entries": [
+                    {
+                        "effect": "Prevents heal bell from curing the Pok\u00e9mon, whether or not it is in battle.",
+                        "language": {
+                            "name": "en",
+                            "url": "https://pokeapi.co/api/v2/language/9/"
+                        }
+                    }
+                ],
+                "version_group": {
+                    "name": "black-white",
+                    "url": "https://pokeapi.co/api/v2/version-group/11/"
+                }
+            }
+        ],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon is immune to moves flagged as being sound-based.\n\nheal bell is unaffected.  uproar still prevents this Pok\u00e9mon from sleeping.  This Pok\u00e9mon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.\n\nhowl, roar of time, sonic boom, and yawn are not flagged as sound-based.",
+                "short_effect": "Protects against sound-based moves."
+            }
+        ]
+    }
+]

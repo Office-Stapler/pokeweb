@@ -1,0 +1,13 @@
+[
+    {
+        "id": 149,
+        "name": "illusion",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon, upon being sent out, appears to have the species, nickname, and Pok\u00e9 Ball of the last Pok\u00e9mon in the party that is able to battle.  This illusion breaks upon being hit by a damaging move.\n\nOther damage, e.g. from weather or spikes, does not break the illusion, nor does damage done to a substitute.\n\nIf the party order becomes temporarily shuffled around as Pok\u00e9mon are switched out in battle, this ability chooses the last Pok\u00e9mon according to that shuffled order.",
+                "short_effect": "Takes the appearance of the last conscious party Pok\u00e9mon upon being sent out until hit by a damaging move."
+            }
+        ]
+    }
+]

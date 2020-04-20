@@ -1,0 +1,122 @@
+{
+    "firered-leafgreen": [
+        "mega-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "substitute"
+    ],
+    "emerald": [
+        "mega-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick",
+        "body-slam",
+        "double-edge",
+        "counter",
+        "seismic-toss",
+        "mimic",
+        "swift",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "swagger",
+        "fury-cutter",
+        "sleep-talk",
+        "dynamic-punch"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "outrage",
+        "giga-drain",
+        "iron-tail",
+        "synthesis",
+        "focus-punch",
+        "endeavor",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "dragon-pulse",
+        "drain-punch",
+        "grass-pledge",
+        "dual-chop"
+    ],
+    "heartgold-soulsilver": [
+        "thunder-punch",
+        "headbutt",
+        "low-kick",
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "synthesis",
+        "endeavor",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb"
+    ],
+    "platinum": [
+        "thunder-punch",
+        "swift",
+        "snore",
+        "mud-slap",
+        "outrage",
+        "fury-cutter",
+        "synthesis",
+        "endeavor",
+        "frenzy-plant",
+        "seed-bomb"
+    ],
+    "black-2-white-2": [
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "outrage",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "synthesis",
+        "endeavor",
+        "frenzy-plant",
+        "worry-seed",
+        "seed-bomb",
+        "dragon-pulse",
+        "drain-punch",
+        "grass-pledge"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "seismic-toss",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "ultra-sun-ultra-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "x-y": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "sun-moon": [
+        "frenzy-plant",
+        "grass-pledge"
+    ],
+    "diamond-pearl": [
+        "frenzy-plant"
+    ],
+    "black-white": [
+        "frenzy-plant",
+        "grass-pledge"
+    ]
+}

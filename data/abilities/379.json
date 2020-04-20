@@ -1,0 +1,24 @@
+[
+    {
+        "id": 135,
+        "name": "light-metal",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon has half the usual weight for its species.",
+                "short_effect": "Halves the Pok\u00e9mon's weight."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "clear-body",
+        "effect_changes": [],
+        "effect_entries": [
+            {
+                "effect": "This Pok\u00e9mon cannot have its stats lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis.  This Pok\u00e9mon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.\n\nThis ability functions identically to white smoke in battle.",
+                "short_effect": "Prevents stats from being lowered by other Pok\u00e9mon."
+            }
+        ]
+    }
+]

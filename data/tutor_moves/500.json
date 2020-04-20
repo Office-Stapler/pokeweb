@@ -1,0 +1,53 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "iron-tail",
+        "heat-wave",
+        "focus-punch",
+        "helping-hand",
+        "superpower",
+        "endeavor",
+        "blast-burn",
+        "block",
+        "covet",
+        "zen-headbutt",
+        "iron-head",
+        "fire-pledge"
+    ],
+    "black-2-white-2": [
+        "fire-punch",
+        "thunder-punch",
+        "low-kick",
+        "snore",
+        "sleep-talk",
+        "iron-tail",
+        "heat-wave",
+        "helping-hand",
+        "superpower",
+        "endeavor",
+        "blast-burn",
+        "block",
+        "covet",
+        "iron-head",
+        "fire-pledge"
+    ],
+    "sun-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "x-y": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "ultra-sun-ultra-moon": [
+        "blast-burn",
+        "fire-pledge"
+    ],
+    "black-white": [
+        "blast-burn",
+        "fire-pledge"
+    ]
+}

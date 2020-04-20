@@ -1,0 +1,33 @@
+{
+    "heartgold-soulsilver": [
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap",
+        "endeavor",
+        "air-cutter",
+        "tailwind",
+        "bug-bite",
+        "ominous-wind"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "mud-slap",
+        "endeavor",
+        "air-cutter",
+        "ominous-wind"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "endeavor",
+        "tailwind",
+        "bug-bite"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "endeavor",
+        "tailwind",
+        "bug-bite"
+    ]
+}

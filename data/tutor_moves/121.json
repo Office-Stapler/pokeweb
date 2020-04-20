@@ -1,0 +1,86 @@
+{
+    "xd": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute",
+        "nightmare",
+        "icy-wind",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "dream-eater",
+        "substitute"
+    ],
+    "emerald": [
+        "double-edge",
+        "thunder-wave",
+        "mimic",
+        "swift",
+        "dream-eater",
+        "substitute",
+        "snore",
+        "icy-wind",
+        "endure",
+        "swagger",
+        "sleep-talk",
+        "psych-up"
+    ],
+    "crystal": [
+        "ice-beam",
+        "thunderbolt"
+    ],
+    "heartgold-soulsilver": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "rollout",
+        "pain-split",
+        "twister",
+        "trick",
+        "magic-coat",
+        "dive",
+        "signal-beam",
+        "gravity"
+    ],
+    "platinum": [
+        "swift",
+        "snore",
+        "icy-wind",
+        "rollout",
+        "twister",
+        "trick",
+        "dive",
+        "signal-beam"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "icy-wind",
+        "pain-split",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "water-pulse",
+        "gravity",
+        "wonder-room"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "icy-wind",
+        "sleep-talk",
+        "pain-split",
+        "trick",
+        "magic-coat",
+        "recycle",
+        "skill-swap",
+        "signal-beam",
+        "gravity",
+        "wonder-room"
+    ]
+}

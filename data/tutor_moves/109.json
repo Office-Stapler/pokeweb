@@ -1,0 +1,55 @@
+{
+    "crystal": [
+        "flamethrower",
+        "thunderbolt"
+    ],
+    "xd": [
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "mimic",
+        "explosion",
+        "substitute"
+    ],
+    "emerald": [
+        "mimic",
+        "explosion",
+        "substitute",
+        "snore",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "heartgold-soulsilver": [
+        "snore",
+        "spite",
+        "rollout",
+        "pain-split",
+        "uproar"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "rollout",
+        "uproar"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "spite",
+        "sleep-talk",
+        "pain-split",
+        "uproar",
+        "dark-pulse"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "spite",
+        "pain-split",
+        "uproar",
+        "shock-wave"
+    ]
+}

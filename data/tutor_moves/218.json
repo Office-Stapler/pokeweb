@@ -1,0 +1,70 @@
+{
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "self-destruct",
+        "substitute",
+        "swagger"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "defense-curl",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "mud-slap",
+        "endure",
+        "rollout",
+        "swagger",
+        "sleep-talk"
+    ],
+    "crystal": [
+        "flamethrower"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "snore",
+        "pain-split",
+        "heat-wave",
+        "iron-defense",
+        "earth-power",
+        "after-you"
+    ],
+    "black-2-white-2": [
+        "snore",
+        "sleep-talk",
+        "pain-split",
+        "heat-wave",
+        "iron-defense",
+        "earth-power",
+        "after-you"
+    ],
+    "heartgold-soulsilver": [
+        "snore",
+        "mud-slap",
+        "rollout",
+        "pain-split",
+        "ancient-power",
+        "heat-wave",
+        "iron-defense",
+        "earth-power"
+    ],
+    "platinum": [
+        "snore",
+        "mud-slap",
+        "rollout",
+        "ancient-power",
+        "heat-wave",
+        "iron-defense",
+        "earth-power"
+    ]
+}

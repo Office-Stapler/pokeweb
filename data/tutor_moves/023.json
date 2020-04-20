@@ -1,0 +1,70 @@
+{
+    "omega-ruby-alpha-sapphire": [
+        "bind",
+        "snore",
+        "spite",
+        "giga-drain",
+        "iron-tail",
+        "snatch",
+        "gastro-acid",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "black-2-white-2": [
+        "bind",
+        "snore",
+        "spite",
+        "giga-drain",
+        "sleep-talk",
+        "iron-tail",
+        "snatch",
+        "gastro-acid",
+        "dark-pulse",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "heartgold-soulsilver": [
+        "headbutt",
+        "snore",
+        "spite",
+        "gastro-acid",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot"
+    ],
+    "firered-leafgreen": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute"
+    ],
+    "emerald": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "rock-slide",
+        "substitute",
+        "snore",
+        "endure",
+        "swagger",
+        "sleep-talk"
+    ],
+    "xd": [
+        "body-slam",
+        "double-edge",
+        "mimic",
+        "substitute",
+        "swagger"
+    ],
+    "platinum": [
+        "snore",
+        "spite",
+        "gastro-acid",
+        "aqua-tail",
+        "seed-bomb",
+        "gunk-shot"
+    ]
+}
