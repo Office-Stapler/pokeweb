@@ -5,14 +5,15 @@
         <title>Pokedex</title>
     </head>
     <body>
-        <script src='scripts/buttons.js'></script>
-        <h1 id='title_pokemon'>Bulbasaur</h1>
+        
+        <h1 id='title_pokemon'>Pokemon</h1>
         <div class=center>
             <img src='data/images/001.png' id='pokemon' width='400' height='400' >
             <div class=center>
-                <button onclick='prevImage()'><</button>  
-                <button onclick='nextImage()'>></button>
+                <button onclick='navImage(-1)'><</button>  
+                <button onclick='nextImage(1)'>></button>
             </dvi>
         </div>
+        <script src='scripts/buttons.js'></script>
     </body>
 </html>
