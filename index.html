@@ -1,19 +1,36 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel='stylesheet' href='style1.css'>
+        <link rel="stylesheet" href="style1.css">
         <title>Pokedex</title>
     </head>
     <body>
         
-        <h1 id='title_pokemon'>Pokemon</h1>
-        <div class=center>
-            <img src='data/images/001.png' id='pokemon' width='400' height='400' >
-            <div class=center>
-                <button onclick='navImage(-1)'><</button>  
-                <button onclick='nextImage(1)'>></button>
-            </dvi>
+        <h1 id="title_pokemon">Bulbasaur</h1>
+        <div class="center">
+            <img src="data/images/001.png" id="pokemon" width="400" height="400" >
+            <button id="prev-button">&lt;</button>
+            <button id="next-button">&gt;</button>
         </div>
-        <script src='scripts/buttons.js'></script>
+        <div class="table">
+            <table>
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                    <th>Age</th>
+                </tr>
+                <tr>
+                    <td>Jill</td>
+                    <td>Smith</td>
+                    <td>50</td>
+                </tr>
+                <tr>
+                    <td>Eve</td>
+                    <td>Jackson</td>
+                    <td>94</td>
+                </tr>
+            </table>
+        </div>
+        <script src="js/buttons.js"></script>
     </body>
 </html>
