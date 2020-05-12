@@ -1,11 +1,21 @@
 import flask
+from flask_cors import CORS
 import os
-import requests
+from commands import image_requests
 
-app = flask.Flask(__name__)
-@app.route('/nextimage')
-def next():
-    curr = requests.get()
+APP = flask.Flask(__name__)
+CORS(APP)
 
+@APP.route('/next_image', methods=['GET'])
+def next_image():
+    img_url = flask.request.args.get('url')
+    next_url = image_requests.next_image(img_url)
+    return {'url': next_url}
 
-app.run()
+@APP.route('/prev_image', methods=['GET'])
+def prev_image():
+    img_url = flask.request.args.get('url')
+    prev_url = image_requests.prev_image(img_url)
+    return {'url': prev_url}
+
+APP.run()

@@ -4,8 +4,7 @@ body {
 }
 .center {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 h1 {
@@ -29,4 +28,22 @@ button {
 }
 button:hover {
     opacity: 1;
+}
+
+.table {
+    height: 100%;
+    overflow: auto;
+}
+
+table {
+    height: 1%;
+    width: 100%;
+    overflow: auto;
+    border: 1px solid white;
+}
+
+th, td {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
 }

@@ -1,35 +1,32 @@
+const currPokemon = document.getElementById('pokemon');
+const next = document.getElementById('next-button');
+const prev = document.getElementById('prev-button');
+next.addEventListener('click', next_pokemon);
+prev.addEventListener('click', prev_pokemon);
+document.addEventListener('keydown', e => {
+    if (e.keyCode == 39)
+        next_pokemon();
+    else if (e.keyCode == 37)
+        prev_pokemon();
+    else if (e.keyCode == 38)
+        currPokemon.src = 'data/images/001.png';
+    else if (e.keyCode == 40)
+        currPokemon.src = 'data/images/809.png';
+});
 
-function navImage(e) {
-    let img = document.getElementById('pokemon');
-    let currImg = img.src
-    console.log(currImg);
-    pIndex = parseInt(currImg.split('\\').pop().split('/').pop().replace('.png', '')) + e
-    console.log(pIndex);
-    if (pIndex <= 809) {
-        img.src = `data/images/${pIndex.toString().padStart(3,'0')}.png`
-        console.log(img.src)
-    }
+function next_pokemon() {
+    let src = currPokemon.getAttribute('src');
+    fetch(`http://127.0.0.1:5000/next_image?url=${src}`)
+    .then(resp => resp.json())
+    .then(resp => {
+        currPokemon.src = resp['url'];
+    });
 }
-
-let timer = null;
-let speed = 200;
-document.onkeyup = e => {
-    clearInterval(timer);
-    timer = null;
-    speed = 200;
-    if (e.which == 39) {
-        navImage(1);
-    } else if (e.which == 37) {
-        navImage(-1);
-    }
-}
-
-document.onkeydown = e => {
-    if (timer == null) {
-        if (e.which == 39) {
-            timer = setInterval(navImage(1), speed);
-        } else if (e.which == 37) {
-            timer = setInterval(navImage(-1), speed);
-        }
-    }
+function prev_pokemon() {
+    let src = currPokemon.getAttribute('src');
+    fetch(`http://127.0.0.1:5000/prev_image?url=${src}`)
+    .then(resp => resp.json())
+    .then(resp => {
+        currPokemon.src = resp['url'];
+    });
 }
